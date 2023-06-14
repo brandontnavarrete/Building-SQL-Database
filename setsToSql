@@ -1,0 +1,3468 @@
+,serial_number,name,type,rarity,set
+0,1/102,Alakazam,Psychic,Rare Holo,Base Set 
+1,2/102,Blastoise,Water,Rare Holo,Base Set 
+2,3/102,Chansey,Colorless,Rare Holo,Base Set 
+3,4/102,Charizard,Fire,Rare Holo,Base Set 
+4,5/102,Clefairy,Colorless,Rare Holo,Base Set 
+5,6/102,Gyarados,Water,Rare Holo,Base Set 
+6,7/102,Hitmonchan,Fighting,Rare Holo,Base Set 
+7,8/102,Machamp,Fighting,Rare Holo,Base Set 
+8,9/102,Magneton,Lightning,Rare Holo,Base Set 
+9,10/102,Mewtwo,Psychic,Rare Holo,Base Set 
+10,11/102,Nidoking,Grass,Rare Holo,Base Set 
+11,12/102,Ninetales,Fire,Rare Holo,Base Set 
+12,13/102,Poliwrath,Water,Rare Holo,Base Set 
+13,14/102,Raichu,Lightning,Rare Holo,Base Set 
+14,15/102,Venusaur,Grass,Rare Holo,Base Set 
+15,16/102,Zapdos,Lightning,Rare Holo,Base Set 
+16,17/102,Beedrill,Grass,Rare,Base Set 
+17,18/102,Dragonair,Colorless,Rare,Base Set 
+18,19/102,Dugtrio,Fighting,Rare,Base Set 
+19,20/102,Electabuzz,Lightning,Rare,Base Set 
+20,21/102,Electrode,Lightning,Rare,Base Set 
+21,22/102,Pidgeotto,Colorless,Rare,Base Set 
+22,23/102,Arcanine,Fire,Uncommon,Base Set 
+23,24/102,Charmeleon,Fire,Uncommon,Base Set 
+24,25/102,Dewgong,Water,Uncommon,Base Set 
+25,26/102,Dratini,Colorless,Uncommon,Base Set 
+26,27/102,Farfetch'd,Colorless,Uncommon,Base Set 
+27,28/102,Growlithe,Fire,Uncommon,Base Set 
+28,29/102,Haunter,Psychic,Uncommon,Base Set 
+29,30/102,Ivysaur,Grass,Uncommon,Base Set 
+30,31/102,Jynx,Psychic,Uncommon,Base Set 
+31,32/102,Kadabra,Psychic,Uncommon,Base Set 
+32,33/102,Kakuna,Grass,Uncommon,Base Set 
+33,34/102,Machoke,Fighting,Uncommon,Base Set 
+34,35/102,Magikarp,Water,Uncommon,Base Set 
+35,36/102,Magmar,Fire,Uncommon,Base Set 
+36,37/102,Nidorino,Grass,Uncommon,Base Set 
+37,38/102,Poliwhirl,Water,Uncommon,Base Set 
+38,39/102,Porygon,Colorless,Uncommon,Base Set 
+39,40/102,Raticate,Colorless,Uncommon,Base Set 
+40,41/102,Seel,Water,Uncommon,Base Set 
+41,42/102,Wartortle,Water,Uncommon,Base Set 
+42,43/102,Abra,Psychic,Common,Base Set 
+43,44/102,Bulbasaur,Grass,Common,Base Set 
+44,45/102,Caterpie,Grass,Common,Base Set 
+45,46/102,Charmander,Fire,Common,Base Set 
+46,47/102,Diglett,Fighting,Common,Base Set 
+47,48/102,Doduo,Colorless,Common,Base Set 
+48,49/102,Drowzee,Psychic,Common,Base Set 
+49,50/102,Gastly,Psychic,Common,Base Set 
+50,51/102,Koffing,Grass,Common,Base Set 
+51,52/102,Machop,Fighting,Common,Base Set 
+52,53/102,Magnemite,Lightning,Common,Base Set 
+53,54/102,Metapod,Grass,Common,Base Set 
+54,55/102,Nidoran♂,Grass,Common,Base Set 
+55,56/102,Onix,Fighting,Common,Base Set 
+56,57/102,Pidgey,Colorless,Common,Base Set 
+57,58/102,Pikachu,Lightning,Common,Base Set 
+58,59/102,Poliwag,Water,Common,Base Set 
+59,60/102,Ponyta,Fire,Common,Base Set 
+60,61/102,Rattata,Colorless,Common,Base Set 
+61,62/102,Sandshrew,Fighting,Common,Base Set 
+62,63/102,Squirtle,Water,Common,Base Set 
+63,64/102,Starmie,Water,Common,Base Set 
+64,65/102,Staryu,Water,Common,Base Set 
+65,66/102,Tangela,Grass,Common,Base Set 
+66,67/102,Voltorb,Lightning,Common,Base Set 
+67,68/102,Vulpix,Fire,Common,Base Set 
+68,69/102,Weedle,Grass,Common,Base Set 
+69,70/102,Clefairy Doll,T,Rare,Base Set 
+70,71/102,Computer Search,T,Rare,Base Set 
+71,72/102,Devolution Spray,T,Rare,Base Set 
+72,73/102,Imposter Professor Oak,T,Rare,Base Set 
+73,74/102,Item Finder,T,Rare,Base Set 
+74,75/102,Lass,T,Rare,Base Set 
+75,76/102,Pokémon Breeder,T,Rare,Base Set 
+76,77/102,Pokémon Trader,T,Rare,Base Set 
+77,78/102,Scoop Up,T,Rare,Base Set 
+78,79/102,Super Energy Removal,T,Rare,Base Set 
+79,80/102,Defender,T,Uncommon,Base Set 
+80,81/102,Energy Retrieval,T,Uncommon,Base Set 
+81,82/102,Full Heal,T,Uncommon,Base Set 
+82,83/102,Maintenance,T,Uncommon,Base Set 
+83,84/102,PlusPower,T,Uncommon,Base Set 
+84,85/102,Pokémon Center,T,Uncommon,Base Set 
+85,86/102,Pokémon Flute,T,Uncommon,Base Set 
+86,87/102,Pokédex,T,Uncommon,Base Set 
+87,88/102,Professor Oak,T,Uncommon,Base Set 
+88,89/102,Revive,T,Uncommon,Base Set 
+89,90/102,Super Potion,T,Uncommon,Base Set 
+90,91/102,Bill,T,Common,Base Set 
+91,92/102,Energy Removal,T,Common,Base Set 
+92,93/102,Gust of Wind,T,Common,Base Set 
+93,94/102,Potion,T,Common,Base Set 
+94,95/102,Switch,T,Common,Base Set 
+95,96/102,Double Colorless Energy,Colorless,Uncommon,Base Set 
+96,97/102,Fighting Energy,Fighting,NULL,Base Set 
+97,98/102,Fire Energy,Fire,NULL,Base Set 
+98,99/102,Grass Energy,Grass,NULL,Base Set 
+99,100/102,Lightning Energy,Lightning,NULL,Base Set 
+100,101/102,Psychic Energy,Psychic,NULL,Base Set 
+101,102/102,Water Energy,Water,NULL,Base Set 
+102,1/64,Clefable,Colorless,Rare Holo,Jungle 
+103,2/64,Electrode,Lightning,Rare Holo,Jungle 
+104,3/64,Flareon,Fire,Rare Holo,Jungle 
+105,4/64,Jolteon,Lightning,Rare Holo,Jungle 
+106,5/64,Kangaskhan,Colorless,Rare Holo,Jungle 
+107,6/64,Mr. Mime,Psychic,Rare Holo,Jungle 
+108,7/64,Nidoqueen,Grass,Rare Holo,Jungle 
+109,8/64,Pidgeot,Colorless,Rare Holo,Jungle 
+110,9/64,Pinsir,Grass,Rare Holo,Jungle 
+111,10/64,Scyther,Grass,Rare Holo,Jungle 
+112,11/64,Snorlax,Colorless,Rare Holo,Jungle 
+113,12/64,Vaporeon,Water,Rare Holo,Jungle 
+114,13/64,Venomoth,Grass,Rare Holo,Jungle 
+115,14/64,Victreebel,Grass,Rare Holo,Jungle 
+116,15/64,Vileplume,Grass,Rare Holo,Jungle 
+117,16/64,Wigglytuff,Colorless,Rare Holo,Jungle 
+118,17/64,Clefable,Colorless,Rare,Jungle 
+119,18/64,Electrode,Lightning,Rare,Jungle 
+120,19/64,Flareon,Fire,Rare,Jungle 
+121,20/64,Jolteon,Lightning,Rare,Jungle 
+122,21/64,Kangaskhan,Colorless,Rare,Jungle 
+123,22/64,Mr. Mime,Psychic,Rare,Jungle 
+124,23/64,Nidoqueen,Grass,Rare,Jungle 
+125,24/64,Pidgeot,Colorless,Rare,Jungle 
+126,25/64,Pinsir,Grass,Rare,Jungle 
+127,26/64,Scyther,Grass,Rare,Jungle 
+128,27/64,Snorlax,Colorless,Rare,Jungle 
+129,28/64,Vaporeon,Water,Rare,Jungle 
+130,29/64,Venomoth,Grass,Rare,Jungle 
+131,30/64,Victreebel,Grass,Rare,Jungle 
+132,31/64,Vileplume,Grass,Rare,Jungle 
+133,32/64,Wigglytuff,Colorless,Rare,Jungle 
+134,33/64,Butterfree,Grass,Uncommon,Jungle 
+135,34/64,Dodrio,Colorless,Uncommon,Jungle 
+136,35/64,Exeggutor,Grass,Uncommon,Jungle 
+137,36/64,Fearow,Colorless,Uncommon,Jungle 
+138,37/64,Gloom,Grass,Uncommon,Jungle 
+139,38/64,Lickitung,Colorless,Uncommon,Jungle 
+140,39/64,Marowak,Fighting,Uncommon,Jungle 
+141,40/64,Nidorina,Grass,Uncommon,Jungle 
+142,41/64,Parasect,Grass,Uncommon,Jungle 
+143,42/64,Persian,Colorless,Uncommon,Jungle 
+144,43/64,Primeape,Fighting,Uncommon,Jungle 
+145,44/64,Rapidash,Fire,Uncommon,Jungle 
+146,45/64,Rhydon,Fighting,Uncommon,Jungle 
+147,46/64,Seaking,Water,Uncommon,Jungle 
+148,47/64,Tauros,Colorless,Uncommon,Jungle 
+149,48/64,Weepinbell,Grass,Uncommon,Jungle 
+150,49/64,Bellsprout,Grass,Common,Jungle 
+151,50/64,Cubone,Fighting,Common,Jungle 
+152,51/64,Eevee,Colorless,Common,Jungle 
+153,52/64,Exeggcute,Grass,Common,Jungle 
+154,53/64,Goldeen,Water,Common,Jungle 
+155,54/64,Jigglypuff,Colorless,Common,Jungle 
+156,55/64,Mankey,Fighting,Common,Jungle 
+157,56/64,Meowth,Colorless,Common,Jungle 
+158,57/64,Nidoran♀,Grass,Common,Jungle 
+159,58/64,Oddish,Grass,Common,Jungle 
+160,59/64,Paras,Grass,Common,Jungle 
+161,60/64,Pikachu,Lightning,Common,Jungle 
+162,61/64,Rhyhorn,Fighting,Common,Jungle 
+163,62/64,Spearow,Colorless,Common,Jungle 
+164,63/64,Venonat,Grass,Common,Jungle 
+165,64/64,Poké Ball,T,Common,Jungle 
+166,1/62,Aerodactyl,Fighting,Rare Holo,Fossil 
+167,2/62,Articuno,Water,Rare Holo,Fossil 
+168,3/62,Ditto,Colorless,Rare Holo,Fossil 
+169,4/62,Dragonite,Colorless,Rare Holo,Fossil 
+170,5/62,Gengar,Psychic,Rare Holo,Fossil 
+171,6/62,Haunter,Psychic,Rare Holo,Fossil 
+172,7/62,Hitmonlee,Fighting,Rare Holo,Fossil 
+173,8/62,Hypno,Psychic,Rare Holo,Fossil 
+174,9/62,Kabutops,Fighting,Rare Holo,Fossil 
+175,10/62,Lapras,Water,Rare Holo,Fossil 
+176,11/62,Magneton,Lightning,Rare Holo,Fossil 
+177,12/62,Moltres,Fire,Rare Holo,Fossil 
+178,13/62,Muk,Grass,Rare Holo,Fossil 
+179,14/62,Raichu,Lightning,Rare Holo,Fossil 
+180,15/62,Zapdos,Lightning,Rare Holo,Fossil 
+181,16/62,Aerodactyl,Fighting,Rare,Fossil 
+182,17/62,Articuno,Water,Rare,Fossil 
+183,18/62,Ditto,Colorless,Rare,Fossil 
+184,19/62,Dragonite,Colorless,Rare,Fossil 
+185,20/62,Gengar,Psychic,Rare,Fossil 
+186,21/62,Haunter,Psychic,Rare,Fossil 
+187,22/62,Hitmonlee,Fighting,Rare,Fossil 
+188,23/62,Hypno,Psychic,Rare,Fossil 
+189,24/62,Kabutops,Fighting,Rare,Fossil 
+190,25/62,Lapras,Water,Rare,Fossil 
+191,26/62,Magneton,Lightning,Rare,Fossil 
+192,27/62,Moltres,Fire,Rare,Fossil 
+193,28/62,Muk,Grass,Rare,Fossil 
+194,29/62,Raichu,Lightning,Rare,Fossil 
+195,30/62,Zapdos,Lightning,Rare,Fossil 
+196,31/62,Arbok,Grass,Uncommon,Fossil 
+197,32/62,Cloyster,Water,Uncommon,Fossil 
+198,33/62,Gastly,Psychic,Uncommon,Fossil 
+199,34/62,Golbat,Grass,Uncommon,Fossil 
+200,35/62,Golduck,Water,Uncommon,Fossil 
+201,36/62,Golem,Fighting,Uncommon,Fossil 
+202,37/62,Graveler,Fighting,Uncommon,Fossil 
+203,38/62,Kingler,Water,Uncommon,Fossil 
+204,39/62,Magmar,Fire,Uncommon,Fossil 
+205,40/62,Omastar,Water,Uncommon,Fossil 
+206,41/62,Sandslash,Fighting,Uncommon,Fossil 
+207,42/62,Seadra,Water,Uncommon,Fossil 
+208,43/62,Slowbro,Psychic,Uncommon,Fossil 
+209,44/62,Tentacruel,Water,Uncommon,Fossil 
+210,45/62,Weezing,Grass,Uncommon,Fossil 
+211,46/62,Ekans,Grass,Common,Fossil 
+212,47/62,Geodude,Fighting,Common,Fossil 
+213,48/62,Grimer,Grass,Common,Fossil 
+214,49/62,Horsea,Water,Common,Fossil 
+215,50/62,Kabuto,Fighting,Common,Fossil 
+216,51/62,Krabby,Water,Common,Fossil 
+217,52/62,Omanyte,Water,Common,Fossil 
+218,53/62,Psyduck,Water,Common,Fossil 
+219,54/62,Shellder,Water,Common,Fossil 
+220,55/62,Slowpoke,Psychic,Common,Fossil 
+221,56/62,Tentacool,Water,Common,Fossil 
+222,57/62,Zubat,Grass,Common,Fossil 
+223,58/62,Mr. Fuji,T,Uncommon,Fossil 
+224,59/62,Energy Search,T,Common,Fossil 
+225,60/62,Gambler,T,Common,Fossil 
+226,61/62,Recycle,T,Common,Fossil 
+227,62/62,Mysterious Fossil,T,Common,Fossil 
+228,1/82,Dark Alakazam,Psychic,Rare Holo,Team Rocket 
+229,2/82,Dark Arbok,Grass,Rare Holo,Team Rocket 
+230,3/82,Dark Blastoise,Water,Rare Holo,Team Rocket 
+231,4/82,Dark Charizard,Fire,Rare Holo,Team Rocket 
+232,5/82,Dark Dragonite,Colorless,Rare Holo,Team Rocket 
+233,6/82,Dark Dugtrio,Fighting,Rare Holo,Team Rocket 
+234,7/82,Dark Golbat,Grass,Rare Holo,Team Rocket 
+235,8/82,Dark Gyarados,Water,Rare Holo,Team Rocket 
+236,9/82,Dark Hypno,Psychic,Rare Holo,Team Rocket 
+237,10/82,Dark Machamp,Fighting,Rare Holo,Team Rocket 
+238,11/82,Dark Magneton,Lightning,Rare Holo,Team Rocket 
+239,12/82,Dark Slowbro,Psychic,Rare Holo,Team Rocket 
+240,13/82,Dark Vileplume,Grass,Rare Holo,Team Rocket 
+241,14/82,Dark Weezing,Grass,Rare Holo,Team Rocket 
+242,15/82,Here Comes Team Rocket!,T,Rare Holo,Team Rocket 
+243,16/82,Rocket's Sneak Attack,T,Rare Holo,Team Rocket 
+244,17/82,Rainbow Energy,Rainbow,Rare Holo,Team Rocket 
+245,18/82,Dark Alakazam,Psychic,Rare,Team Rocket 
+246,19/82,Dark Arbok,Grass,Rare,Team Rocket 
+247,20/82,Dark Blastoise,Water,Rare,Team Rocket 
+248,21/82,Dark Charizard,Fire,Rare,Team Rocket 
+249,22/82,Dark Dragonite,Colorless,Rare,Team Rocket 
+250,23/82,Dark Dugtrio,Fighting,Rare,Team Rocket 
+251,24/82,Dark Golbat,Grass,Rare,Team Rocket 
+252,25/82,Dark Gyarados,Water,Rare,Team Rocket 
+253,26/82,Dark Hypno,Psychic,Rare,Team Rocket 
+254,27/82,Dark Machamp,Fighting,Rare,Team Rocket 
+255,28/82,Dark Magneton,Lightning,Rare,Team Rocket 
+256,29/82,Dark Slowbro,Psychic,Rare,Team Rocket 
+257,30/82,Dark Vileplume,Grass,Rare,Team Rocket 
+258,31/82,Dark Weezing,Grass,Rare,Team Rocket 
+259,32/82,Dark Charmeleon,Fire,Uncommon,Team Rocket 
+260,33/82,Dark Dragonair,Colorless,Uncommon,Team Rocket 
+261,34/82,Dark Electrode,Lightning,Uncommon,Team Rocket 
+262,35/82,Dark Flareon,Fire,Uncommon,Team Rocket 
+263,36/82,Dark Gloom,Grass,Uncommon,Team Rocket 
+264,37/82,Dark Golduck,Water,Uncommon,Team Rocket 
+265,38/82,Dark Jolteon,Lightning,Uncommon,Team Rocket 
+266,39/82,Dark Kadabra,Psychic,Uncommon,Team Rocket 
+267,40/82,Dark Machoke,Fighting,Uncommon,Team Rocket 
+268,41/82,Dark Muk,Grass,Uncommon,Team Rocket 
+269,42/82,Dark Persian,Colorless,Uncommon,Team Rocket 
+270,43/82,Dark Primeape,Fighting,Uncommon,Team Rocket 
+271,44/82,Dark Rapidash,Fire,Uncommon,Team Rocket 
+272,45/82,Dark Vaporeon,Water,Uncommon,Team Rocket 
+273,46/82,Dark Wartortle,Water,Uncommon,Team Rocket 
+274,47/82,Magikarp,Water,Uncommon,Team Rocket 
+275,48/82,Porygon,Colorless,Uncommon,Team Rocket 
+276,49/82,Abra,Psychic,Common,Team Rocket 
+277,50/82,Charmander,Fire,Common,Team Rocket 
+278,51/82,Dark Raticate,Colorless,Common,Team Rocket 
+279,52/82,Diglett,Fighting,Common,Team Rocket 
+280,53/82,Dratini,Colorless,Common,Team Rocket 
+281,54/82,Drowzee,Psychic,Common,Team Rocket 
+282,55/82,Eevee,Colorless,Common,Team Rocket 
+283,56/82,Ekans,Grass,Common,Team Rocket 
+284,57/82,Grimer,Grass,Common,Team Rocket 
+285,58/82,Koffing,Grass,Common,Team Rocket 
+286,59/82,Machop,Fighting,Common,Team Rocket 
+287,60/82,Magnemite,Lightning,Common,Team Rocket 
+288,61/82,Mankey,Fighting,Common,Team Rocket 
+289,62/82,Meowth,Colorless,Common,Team Rocket 
+290,63/82,Oddish,Grass,Common,Team Rocket 
+291,64/82,Ponyta,Fire,Common,Team Rocket 
+292,65/82,Psyduck,Water,Common,Team Rocket 
+293,66/82,Rattata,Colorless,Common,Team Rocket 
+294,67/82,Slowpoke,Psychic,Common,Team Rocket 
+295,68/82,Squirtle,Water,Common,Team Rocket 
+296,69/82,Voltorb,Lightning,Common,Team Rocket 
+297,70/82,Zubat,Grass,Common,Team Rocket 
+298,71/82,Here Comes Team Rocket!,T,Rare,Team Rocket 
+299,72/82,Rocket's Sneak Attack,T,Rare,Team Rocket 
+300,73/82,The Boss's Way,T,Uncommon,Team Rocket 
+301,74/82,Challenge!,T,Uncommon,Team Rocket 
+302,75/82,Digger,T [R],Uncommon,Team Rocket 
+303,76/82,Imposter Oak's Revenge,T,Uncommon,Team Rocket 
+304,77/82,Nightly Garbage Run,T [R],Uncommon,Team Rocket 
+305,78/82,Goop Gas Attack,T,Common,Team Rocket 
+306,79/82,Sleep!,T [R],Common,Team Rocket 
+307,80/82,Rainbow Energy,Rainbow,Rare,Team Rocket 
+308,81/82,Full Heal Energy,Colorless,Uncommon,Team Rocket 
+309,82/82,Potion Energy,Colorless,Uncommon,Team Rocket 
+310,83/82,Dark Raichu,Lightning,Rare Holo,Team Rocket 
+311,1/132,Blaine's Moltres,Fire,Rare Holo,Gym Heroes 
+312,2/132,Brock's Rhydon,Fighting,Rare Holo,Gym Heroes 
+313,3/132,Erika's Clefable,Colorless,Rare Holo,Gym Heroes 
+314,4/132,Erika's Dragonair,Colorless,Rare Holo,Gym Heroes 
+315,5/132,Erika's Vileplume,Grass,Rare Holo,Gym Heroes 
+316,6/132,Lt. Surge's Electabuzz,Lightning,Rare Holo,Gym Heroes 
+317,7/132,Lt. Surge's Fearow,Colorless,Rare Holo,Gym Heroes 
+318,8/132,Lt. Surge's Magneton,Lightning,Rare Holo,Gym Heroes 
+319,9/132,Misty's Seadra,Water,Rare Holo,Gym Heroes 
+320,10/132,Misty's Tentacruel,Water,Rare Holo,Gym Heroes 
+321,11/132,Rocket's Hitmonchan,Fighting,Rare Holo,Gym Heroes 
+322,12/132,Rocket's Moltres,Fire,Rare Holo,Gym Heroes 
+323,13/132,Rocket's Scyther,Grass,Rare Holo,Gym Heroes 
+324,14/132,Sabrina's Gengar,Psychic,Rare Holo,Gym Heroes 
+325,15/132,Brock,T,Rare Holo,Gym Heroes 
+326,16/132,Erika,T,Rare Holo,Gym Heroes 
+327,17/132,Lt. Surge,T,Rare Holo,Gym Heroes 
+328,18/132,Misty,T,Rare Holo,Gym Heroes 
+329,19/132,The Rocket's Trap,T,Rare Holo,Gym Heroes 
+330,20/132,Brock's Golem,Fighting,Rare,Gym Heroes 
+331,21/132,Brock's Onix,Fighting,Rare,Gym Heroes 
+332,22/132,Brock's Rhyhorn,Fighting,Rare,Gym Heroes 
+333,23/132,Brock's Sandslash,Fighting,Rare,Gym Heroes 
+334,24/132,Brock's Zubat,Grass,Rare,Gym Heroes 
+335,25/132,Erika's Clefairy,Colorless,Rare,Gym Heroes 
+336,26/132,Erika's Victreebel,Grass,Rare,Gym Heroes 
+337,27/132,Lt. Surge's Electabuzz,Lightning,Rare,Gym Heroes 
+338,28/132,Lt. Surge's Raichu,Lightning,Rare,Gym Heroes 
+339,29/132,Misty's Cloyster,Water,Rare,Gym Heroes 
+340,30/132,Misty's Goldeen,Water,Rare,Gym Heroes 
+341,31/132,Misty's Poliwrath,Water,Rare,Gym Heroes 
+342,32/132,Misty's Tentacool,Water,Rare,Gym Heroes 
+343,33/132,Rocket's Snorlax,Colorless,Rare,Gym Heroes 
+344,34/132,Sabrina's Venomoth,Grass,Rare,Gym Heroes 
+345,35/132,Blaine's Growlithe,Fire,Uncommon,Gym Heroes 
+346,36/132,Blaine's Kangaskhan,Colorless,Uncommon,Gym Heroes 
+347,37/132,Blaine's Magmar,Fire,Uncommon,Gym Heroes 
+348,38/132,Brock's Geodude,Fighting,Uncommon,Gym Heroes 
+349,39/132,Brock's Golbat,Grass,Uncommon,Gym Heroes 
+350,40/132,Brock's Graveler,Fighting,Uncommon,Gym Heroes 
+351,41/132,Brock's Lickitung,Colorless,Uncommon,Gym Heroes 
+352,42/132,Erika's Dratini,Colorless,Uncommon,Gym Heroes 
+353,43/132,Erika's Exeggcute,Grass,Uncommon,Gym Heroes 
+354,44/132,Erika's Exeggutor,Grass,Uncommon,Gym Heroes 
+355,45/132,Erika's Gloom,Grass,Uncommon,Gym Heroes 
+356,46/132,Erika's Gloom,Grass,Uncommon,Gym Heroes 
+357,47/132,Erika's Oddish,Grass,Uncommon,Gym Heroes 
+358,48/132,Erika's Weepinbell,Grass,Uncommon,Gym Heroes 
+359,49/132,Erika's Weepinbell,Grass,Uncommon,Gym Heroes 
+360,50/132,Lt. Surge's Magnemite,Lightning,Uncommon,Gym Heroes 
+361,51/132,Lt. Surge's Raticate,Colorless,Uncommon,Gym Heroes 
+362,52/132,Lt. Surge's Spearow,Colorless,Uncommon,Gym Heroes 
+363,53/132,Misty's Poliwhirl,Water,Uncommon,Gym Heroes 
+364,54/132,Misty's Psyduck,Water,Uncommon,Gym Heroes 
+365,55/132,Misty's Seaking,Water,Uncommon,Gym Heroes 
+366,56/132,Misty's Starmie,Water,Uncommon,Gym Heroes 
+367,57/132,Misty's Tentacool,Water,Uncommon,Gym Heroes 
+368,58/132,Sabrina's Haunter,Psychic,Uncommon,Gym Heroes 
+369,59/132,Sabrina's Jynx,Psychic,Uncommon,Gym Heroes 
+370,60/132,Sabrina's Slowbro,Psychic,Uncommon,Gym Heroes 
+371,61/132,Blaine's Charmander,Fire,Common,Gym Heroes 
+372,62/132,Blaine's Growlithe,Fire,Common,Gym Heroes 
+373,63/132,Blaine's Ponyta,Fire,Common,Gym Heroes 
+374,64/132,Blaine's Tauros,Colorless,Common,Gym Heroes 
+375,65/132,Blaine's Vulpix,Fire,Common,Gym Heroes 
+376,66/132,Brock's Geodude,Fighting,Common,Gym Heroes 
+377,67/132,Brock's Mankey,Fighting,Common,Gym Heroes 
+378,68/132,Brock's Mankey,Fighting,Common,Gym Heroes 
+379,69/132,Brock's Onix,Fighting,Common,Gym Heroes 
+380,70/132,Brock's Rhyhorn,Fighting,Common,Gym Heroes 
+381,71/132,Brock's Sandshrew,Fighting,Common,Gym Heroes 
+382,72/132,Brock's Sandshrew,Fighting,Common,Gym Heroes 
+383,73/132,Brock's Vulpix,Fire,Common,Gym Heroes 
+384,74/132,Brock's Zubat,Grass,Common,Gym Heroes 
+385,75/132,Erika's Bellsprout,Grass,Common,Gym Heroes 
+386,76/132,Erika's Bellsprout,Grass,Common,Gym Heroes 
+387,77/132,Erika's Exeggcute,Grass,Common,Gym Heroes 
+388,78/132,Erika's Oddish,Grass,Common,Gym Heroes 
+389,79/132,Erika's Tangela,Grass,Common,Gym Heroes 
+390,80/132,Lt. Surge's Magnemite,Lightning,Common,Gym Heroes 
+391,81/132,Lt. Surge's Pikachu,Lightning,Common,Gym Heroes 
+392,82/132,Lt. Surge's Rattata,Colorless,Common,Gym Heroes 
+393,83/132,Lt. Surge's Spearow,Colorless,Common,Gym Heroes 
+394,84/132,Lt. Surge's Voltorb,Lightning,Common,Gym Heroes 
+395,85/132,Misty's Goldeen,Water,Common,Gym Heroes 
+396,86/132,Misty's Horsea,Water,Common,Gym Heroes 
+397,87/132,Misty's Poliwag,Water,Common,Gym Heroes 
+398,88/132,Misty's Seel,Water,Common,Gym Heroes 
+399,89/132,Misty's Shellder,Water,Common,Gym Heroes 
+400,90/132,Misty's Staryu,Water,Common,Gym Heroes 
+401,91/132,Sabrina's Abra,Psychic,Common,Gym Heroes 
+402,92/132,Sabrina's Drowzee,Psychic,Common,Gym Heroes 
+403,93/132,Sabrina's Gastly,Psychic,Common,Gym Heroes 
+404,94/132,Sabrina's Mr. Mime,Psychic,Common,Gym Heroes 
+405,95/132,Sabrina's Slowpoke,Psychic,Common,Gym Heroes 
+406,96/132,Sabrina's Venonat,Grass,Common,Gym Heroes 
+407,97/132,Blaine's Quiz #1,T,Rare,Gym Heroes 
+408,98/132,Brock,T,Rare,Gym Heroes 
+409,99/132,Charity,T,Rare,Gym Heroes 
+410,100/132,Erika,T,Rare,Gym Heroes 
+411,101/132,Lt. Surge,T,Rare,Gym Heroes 
+412,102/132,Misty,T,Rare,Gym Heroes 
+413,103/132,No Removal Gym,T [St],Rare,Gym Heroes 
+414,104/132,The Rocket's Training Gym,T [St],Rare,Gym Heroes 
+415,105/132,Blaine's Last Resort,T,Uncommon,Gym Heroes 
+416,106/132,Brock's Training Method,T,Uncommon,Gym Heroes 
+417,107/132,Celadon City Gym,T [St],Uncommon,Gym Heroes 
+418,108/132,Cerulean City Gym,T [St],Uncommon,Gym Heroes 
+419,109/132,Erika's Maids,T,Uncommon,Gym Heroes 
+420,110/132,Erika's Perfume,T,Uncommon,Gym Heroes 
+421,111/132,Good Manners,T,Uncommon,Gym Heroes 
+422,112/132,Lt. Surge's Treaty,T,Uncommon,Gym Heroes 
+423,113/132,Minion of Team Rocket,T,Uncommon,Gym Heroes 
+424,114/132,Misty's Wrath,T,Uncommon,Gym Heroes 
+425,115/132,Pewter City Gym,T [St],Uncommon,Gym Heroes 
+426,116/132,Recall,T,Uncommon,Gym Heroes 
+427,117/132,Sabrina's ESP,T,Uncommon,Gym Heroes 
+428,118/132,Secret Mission,T,Uncommon,Gym Heroes 
+429,119/132,Tickling Machine,T [R],Uncommon,Gym Heroes 
+430,120/132,Vermilion City Gym,T [St],Uncommon,Gym Heroes 
+431,121/132,Blaine's Gamble,T,Common,Gym Heroes 
+432,122/132,Energy Flow,T,Common,Gym Heroes 
+433,123/132,Misty's Duel,T,Common,Gym Heroes 
+434,124/132,Narrow Gym,T [St],Common,Gym Heroes 
+435,125/132,Sabrina's Gaze,T,Common,Gym Heroes 
+436,126/132,Trash Exchange,T,Common,Gym Heroes 
+437,127/132,Fighting Energy,Fighting,NULL,Gym Heroes 
+438,128/132,Fire Energy,Fire,NULL,Gym Heroes 
+439,129/132,Grass Energy,Grass,NULL,Gym Heroes 
+440,130/132,Lightning Energy,Lightning,NULL,Gym Heroes 
+441,131/132,Psychic Energy,Psychic,NULL,Gym Heroes 
+442,132/132,Water Energy,Water,NULL,Gym Heroes 
+443,1/132,Blaine's Arcanine,Fire,Rare Holo,Gym Challenge 
+444,2/132,Blaine's Charizard,Fire,Rare Holo,Gym Challenge 
+445,3/132,Brock's Ninetales,Fire,Rare Holo,Gym Challenge 
+446,4/132,Erika's Venusaur,Grass,Rare Holo,Gym Challenge 
+447,5/132,Giovanni's Gyarados,Water,Rare Holo,Gym Challenge 
+448,6/132,Giovanni's Machamp,Fighting,Rare Holo,Gym Challenge 
+449,7/132,Giovanni's Nidoking,Grass,Rare Holo,Gym Challenge 
+450,8/132,Giovanni's Persian,Colorless,Rare Holo,Gym Challenge 
+451,9/132,Koga's Beedrill,Grass,Rare Holo,Gym Challenge 
+452,10/132,Koga's Ditto,Colorless,Rare Holo,Gym Challenge 
+453,11/132,Lt. Surge's Raichu,Lightning,Rare Holo,Gym Challenge 
+454,12/132,Misty's Golduck,Water,Rare Holo,Gym Challenge 
+455,13/132,Misty's Gyarados,Water,Rare Holo,Gym Challenge 
+456,14/132,Rocket's Mewtwo,Psychic,Rare Holo,Gym Challenge 
+457,15/132,Rocket's Zapdos,Lightning,Rare Holo,Gym Challenge 
+458,16/132,Sabrina's Alakazam,Psychic,Rare Holo,Gym Challenge 
+459,17/132,Blaine,T,Rare Holo,Gym Challenge 
+460,18/132,Giovanni,T,Rare Holo,Gym Challenge 
+461,19/132,Koga,T,Rare Holo,Gym Challenge 
+462,20/132,Sabrina,T,Rare Holo,Gym Challenge 
+463,21/132,Blaine's Ninetales,Fire,Rare,Gym Challenge 
+464,22/132,Brock's Dugtrio,Fighting,Rare,Gym Challenge 
+465,23/132,Giovanni's Nidoqueen,Grass,Rare,Gym Challenge 
+466,24/132,Giovanni's Pinsir,Grass,Rare,Gym Challenge 
+467,25/132,Koga's Arbok,Grass,Rare,Gym Challenge 
+468,26/132,Koga's Muk,Grass,Rare,Gym Challenge 
+469,27/132,Koga's Pidgeotto,Colorless,Rare,Gym Challenge 
+470,28/132,Lt. Surge's Jolteon,Lightning,Rare,Gym Challenge 
+471,29/132,Sabrina's Gengar,Psychic,Rare,Gym Challenge 
+472,30/132,Sabrina's Golduck,Water,Rare,Gym Challenge 
+473,31/132,Blaine's Charmeleon,Fire,Uncommon,Gym Challenge 
+474,32/132,Blaine's Dodrio,Colorless,Uncommon,Gym Challenge 
+475,33/132,Blaine's Rapidash,Fire,Uncommon,Gym Challenge 
+476,34/132,Brock's Graveler,Fighting,Uncommon,Gym Challenge 
+477,35/132,Brock's Primeape,Fighting,Uncommon,Gym Challenge 
+478,36/132,Brock's Sandslash,Fighting,Uncommon,Gym Challenge 
+479,37/132,Brock's Vulpix,Fire,Uncommon,Gym Challenge 
+480,38/132,Erika's Bellsprout,Grass,Uncommon,Gym Challenge 
+481,39/132,Erika's Bulbasaur,Grass,Uncommon,Gym Challenge 
+482,40/132,Erika's Clefairy,Colorless,Uncommon,Gym Challenge 
+483,41/132,Erika's Ivysaur,Grass,Uncommon,Gym Challenge 
+484,42/132,Giovanni's Machoke,Fighting,Uncommon,Gym Challenge 
+485,43/132,Giovanni's Meowth,Colorless,Uncommon,Gym Challenge 
+486,44/132,Giovanni's Nidorina,Grass,Uncommon,Gym Challenge 
+487,45/132,Giovanni's Nidorino,Grass,Uncommon,Gym Challenge 
+488,46/132,Koga's Golbat,Grass,Uncommon,Gym Challenge 
+489,47/132,Koga's Kakuna,Grass,Uncommon,Gym Challenge 
+490,48/132,Koga's Koffing,Grass,Uncommon,Gym Challenge 
+491,49/132,Koga's Pidgey,Colorless,Uncommon,Gym Challenge 
+492,50/132,Koga's Weezing,Grass,Uncommon,Gym Challenge 
+493,51/132,Lt. Surge's Eevee,Colorless,Uncommon,Gym Challenge 
+494,52/132,Lt. Surge's Electrode,Lightning,Uncommon,Gym Challenge 
+495,53/132,Lt. Surge's Raticate,Colorless,Uncommon,Gym Challenge 
+496,54/132,Misty's Dewgong,Water,Uncommon,Gym Challenge 
+497,55/132,Sabrina's Haunter,Psychic,Uncommon,Gym Challenge 
+498,56/132,Sabrina's Hypno,Psychic,Uncommon,Gym Challenge 
+499,57/132,Sabrina's Jynx,Psychic,Uncommon,Gym Challenge 
+500,58/132,Sabrina's Kadabra,Psychic,Uncommon,Gym Challenge 
+501,59/132,Sabrina's Mr. Mime,Psychic,Uncommon,Gym Challenge 
+502,60/132,Blaine's Charmander,Fire,Common,Gym Challenge 
+503,61/132,Blaine's Doduo,Colorless,Common,Gym Challenge 
+504,62/132,Blaine's Growlithe,Fire,Common,Gym Challenge 
+505,63/132,Blaine's Mankey,Fighting,Common,Gym Challenge 
+506,64/132,Blaine's Ponyta,Fire,Common,Gym Challenge 
+507,65/132,Blaine's Rhyhorn,Fighting,Common,Gym Challenge 
+508,66/132,Blaine's Vulpix,Fire,Common,Gym Challenge 
+509,67/132,Brock's Diglett,Fighting,Common,Gym Challenge 
+510,68/132,Brock's Geodude,Fighting,Common,Gym Challenge 
+511,69/132,Erika's Jigglypuff,Colorless,Common,Gym Challenge 
+512,70/132,Erika's Oddish,Grass,Common,Gym Challenge 
+513,71/132,Erika's Paras,Grass,Common,Gym Challenge 
+514,72/132,Giovanni's Machop,Fighting,Common,Gym Challenge 
+515,73/132,Giovanni's Magikarp,Water,Common,Gym Challenge 
+516,74/132,Giovanni's Meowth,Colorless,Common,Gym Challenge 
+517,75/132,Giovanni's Nidoran♀,Grass,Common,Gym Challenge 
+518,76/132,Giovanni's Nidoran♂,Grass,Common,Gym Challenge 
+519,77/132,Koga's Ekans,Grass,Common,Gym Challenge 
+520,78/132,Koga's Grimer,Grass,Common,Gym Challenge 
+521,79/132,Koga's Koffing,Grass,Common,Gym Challenge 
+522,80/132,Koga's Pidgey,Colorless,Common,Gym Challenge 
+523,81/132,Koga's Tangela,Grass,Common,Gym Challenge 
+524,82/132,Koga's Weedle,Grass,Common,Gym Challenge 
+525,83/132,Koga's Zubat,Grass,Common,Gym Challenge 
+526,84/132,Lt. Surge's Pikachu,Lightning,Common,Gym Challenge 
+527,85/132,Lt. Surge's Rattata,Colorless,Common,Gym Challenge 
+528,86/132,Lt. Surge's Voltorb,Lightning,Common,Gym Challenge 
+529,87/132,Misty's Horsea,Water,Common,Gym Challenge 
+530,88/132,Misty's Magikarp,Water,Common,Gym Challenge 
+531,89/132,Misty's Poliwag,Water,Common,Gym Challenge 
+532,90/132,Misty's Psyduck,Water,Common,Gym Challenge 
+533,91/132,Misty's Seel,Water,Common,Gym Challenge 
+534,92/132,Misty's Staryu,Water,Common,Gym Challenge 
+535,93/132,Sabrina's Abra,Psychic,Common,Gym Challenge 
+536,94/132,Sabrina's Abra,Psychic,Common,Gym Challenge 
+537,95/132,Sabrina's Drowzee,Psychic,Common,Gym Challenge 
+538,96/132,Sabrina's Gastly,Psychic,Common,Gym Challenge 
+539,97/132,Sabrina's Gastly,Psychic,Common,Gym Challenge 
+540,98/132,Sabrina's Porygon,Colorless,Common,Gym Challenge 
+541,99/132,Sabrina's Psyduck,Water,Common,Gym Challenge 
+542,100/132,Blaine,T,Rare,Gym Challenge 
+543,101/132,Brock's Protection,T,Rare,Gym Challenge 
+544,102/132,Chaos Gym,T [St],Rare,Gym Challenge 
+545,103/132,Erika's Kindness,T,Rare,Gym Challenge 
+546,104/132,Giovanni,T,Rare,Gym Challenge 
+547,105/132,Giovanni's Last Resort,T,Rare,Gym Challenge 
+548,106/132,Koga,T,Rare,Gym Challenge 
+549,107/132,Lt. Surge's Secret Plan,T,Rare,Gym Challenge 
+550,108/132,Misty's Wish,T,Rare,Gym Challenge 
+551,109/132,Resistance Gym,T [St],Rare,Gym Challenge 
+552,110/132,Sabrina,T,Rare,Gym Challenge 
+553,111/132,Blaine's Quiz #2,T,Uncommon,Gym Challenge 
+554,112/132,Blaine's Quiz #3,T,Uncommon,Gym Challenge 
+555,113/132,Cinnabar City Gym,T [St],Uncommon,Gym Challenge 
+556,114/132,Fuchsia City Gym,T [St],Uncommon,Gym Challenge 
+557,115/132,Koga's Ninja Trick,T,Uncommon,Gym Challenge 
+558,116/132,Master Ball,T,Uncommon,Gym Challenge 
+559,117/132,Max Revive,T,Uncommon,Gym Challenge 
+560,118/132,Misty's Tears,T,Uncommon,Gym Challenge 
+561,119/132,Rocket's Minefield Gym,T [St],Uncommon,Gym Challenge 
+562,120/132,Rocket's Secret Experiment,T,Uncommon,Gym Challenge 
+563,121/132,Sabrina's Psychic Control,T,Uncommon,Gym Challenge 
+564,122/132,Saffron City Gym,T [St],Uncommon,Gym Challenge 
+565,123/132,Viridian City Gym,T [St],Uncommon,Gym Challenge 
+566,124/132,Fervor,T,Common,Gym Challenge 
+567,125/132,Transparent Walls,T,Common,Gym Challenge 
+568,126/132,Warp Point,T,Common,Gym Challenge 
+569,127/132,Fighting Energy,Fighting,NULL,Gym Challenge 
+570,128/132,Fire Energy,Fire,NULL,Gym Challenge 
+571,129/132,Grass Energy,Grass,NULL,Gym Challenge 
+572,130/132,Lightning Energy,Lightning,NULL,Gym Challenge 
+573,131/132,Psychic Energy,Psychic,NULL,Gym Challenge 
+574,132/132,Water Energy,Water,NULL,Gym Challenge 
+575,1/111,Ampharos,Lightning,Rare Holo,Neo Genesis 
+576,2/111,Azumarill,Water,Rare Holo,Neo Genesis 
+577,3/111,Bellossom,Grass,Rare Holo,Neo Genesis 
+578,4/111,Feraligatr,Water,Rare Holo,Neo Genesis 
+579,5/111,Feraligatr,Water,Rare Holo,Neo Genesis 
+580,6/111,Heracross,Grass,Rare Holo,Neo Genesis 
+581,7/111,Jumpluff,Grass,Rare Holo,Neo Genesis 
+582,8/111,Kingdra,Water,Rare Holo,Neo Genesis 
+583,9/111,Lugia,Colorless,Rare Holo,Neo Genesis 
+584,10/111,Meganium,Grass,Rare Holo,Neo Genesis 
+585,11/111,Meganium,Grass,Rare Holo,Neo Genesis 
+586,12/111,Pichu,Lightning,Rare Holo,Neo Genesis 
+587,13/111,Skarmory,Metal,Rare Holo,Neo Genesis 
+588,14/111,Slowking,Psychic,Rare Holo,Neo Genesis 
+589,15/111,Steelix,Metal,Rare Holo,Neo Genesis 
+590,16/111,Togetic,Colorless,Rare Holo,Neo Genesis 
+591,17/111,Typhlosion,Fire,Rare Holo,Neo Genesis 
+592,18/111,Typhlosion,Fire,Rare Holo,Neo Genesis 
+593,19/111,Metal Energy,Metal,Rare Holo,Neo Genesis 
+594,20/111,Cleffa,Colorless,Rare,Neo Genesis 
+595,21/111,Donphan,Fighting,Rare,Neo Genesis 
+596,22/111,Elekid,Lightning,Rare,Neo Genesis 
+597,23/111,Magby,Fire,Rare,Neo Genesis 
+598,24/111,Murkrow,Darkness,Rare,Neo Genesis 
+599,25/111,Sneasel,Darkness,Rare,Neo Genesis 
+600,26/111,Aipom,Colorless,Uncommon,Neo Genesis 
+601,27/111,Ariados,Grass,Uncommon,Neo Genesis 
+602,28/111,Bayleef,Grass,Uncommon,Neo Genesis 
+603,29/111,Bayleef,Grass,Uncommon,Neo Genesis 
+604,30/111,Clefairy,Colorless,Uncommon,Neo Genesis 
+605,31/111,Croconaw,Water,Uncommon,Neo Genesis 
+606,32/111,Croconaw,Water,Uncommon,Neo Genesis 
+607,33/111,Electabuzz,Lightning,Uncommon,Neo Genesis 
+608,34/111,Flaaffy,Lightning,Uncommon,Neo Genesis 
+609,35/111,Furret,Colorless,Uncommon,Neo Genesis 
+610,36/111,Gloom,Grass,Uncommon,Neo Genesis 
+611,37/111,Granbull,Colorless,Uncommon,Neo Genesis 
+612,38/111,Lanturn,Lightning,Uncommon,Neo Genesis 
+613,39/111,Ledian,Grass,Uncommon,Neo Genesis 
+614,40/111,Magmar,Fire,Uncommon,Neo Genesis 
+615,41/111,Miltank,Colorless,Uncommon,Neo Genesis 
+616,42/111,Noctowl,Colorless,Uncommon,Neo Genesis 
+617,43/111,Phanpy,Fighting,Uncommon,Neo Genesis 
+618,44/111,Piloswine,Water,Uncommon,Neo Genesis 
+619,45/111,Quagsire,Water,Uncommon,Neo Genesis 
+620,46/111,Quilava,Fire,Uncommon,Neo Genesis 
+621,47/111,Quilava,Fire,Uncommon,Neo Genesis 
+622,48/111,Seadra,Water,Uncommon,Neo Genesis 
+623,49/111,Skiploom,Grass,Uncommon,Neo Genesis 
+624,50/111,Sunflora,Grass,Uncommon,Neo Genesis 
+625,51/111,Togepi,Colorless,Uncommon,Neo Genesis 
+626,52/111,Xatu,Psychic,Uncommon,Neo Genesis 
+627,53/111,Chikorita,Grass,Common,Neo Genesis 
+628,54/111,Chikorita,Grass,Common,Neo Genesis 
+629,55/111,Chinchou,Lightning,Common,Neo Genesis 
+630,56/111,Cyndaquil,Fire,Common,Neo Genesis 
+631,57/111,Cyndaquil,Fire,Common,Neo Genesis 
+632,58/111,Girafarig,Psychic,Common,Neo Genesis 
+633,59/111,Gligar,Fighting,Common,Neo Genesis 
+634,60/111,Hoothoot,Colorless,Common,Neo Genesis 
+635,61/111,Hoppip,Grass,Common,Neo Genesis 
+636,62/111,Horsea,Water,Common,Neo Genesis 
+637,63/111,Ledyba,Grass,Common,Neo Genesis 
+638,64/111,Mantine,Water,Common,Neo Genesis 
+639,65/111,Mareep,Lightning,Common,Neo Genesis 
+640,66/111,Marill,Water,Common,Neo Genesis 
+641,67/111,Natu,Psychic,Common,Neo Genesis 
+642,68/111,Oddish,Grass,Common,Neo Genesis 
+643,69/111,Onix,Fighting,Common,Neo Genesis 
+644,70/111,Pikachu,Lightning,Common,Neo Genesis 
+645,71/111,Sentret,Colorless,Common,Neo Genesis 
+646,72/111,Shuckle,Grass,Common,Neo Genesis 
+647,73/111,Slowpoke,Psychic,Common,Neo Genesis 
+648,74/111,Snubbull,Colorless,Common,Neo Genesis 
+649,75/111,Spinarak,Grass,Common,Neo Genesis 
+650,76/111,Stantler,Colorless,Common,Neo Genesis 
+651,77/111,Sudowoodo,Fighting,Common,Neo Genesis 
+652,78/111,Sunkern,Grass,Common,Neo Genesis 
+653,79/111,Swinub,Water,Common,Neo Genesis 
+654,80/111,Totodile,Water,Common,Neo Genesis 
+655,81/111,Totodile,Water,Common,Neo Genesis 
+656,82/111,Wooper,Water,Common,Neo Genesis 
+657,83/111,Arcade Game,T [GC],Rare,Neo Genesis 
+658,84/111,Ecogym,T [St],Rare,Neo Genesis 
+659,85/111,Energy Charge,T,Rare,Neo Genesis 
+660,86/111,Focus Band,T [Tool],Rare,Neo Genesis 
+661,87/111,Mary,T,Rare,Neo Genesis 
+662,88/111,PokéGear,T,Rare,Neo Genesis 
+663,89/111,Super Energy Retrieval,T,Rare,Neo Genesis 
+664,90/111,Time Capsule,T,Rare,Neo Genesis 
+665,91/111,Bill's Teleporter,T,Uncommon,Neo Genesis 
+666,92/111,Card-Flip Game,T [GC],Uncommon,Neo Genesis 
+667,93/111,Gold Berry,T [Tool],Uncommon,Neo Genesis 
+668,94/111,Miracle Berry,T [Tool],Uncommon,Neo Genesis 
+669,95/111,New Pokédex,T,Uncommon,Neo Genesis 
+670,96/111,Professor Elm,T,Uncommon,Neo Genesis 
+671,97/111,Sprout Tower,T [St],Uncommon,Neo Genesis 
+672,98/111,Super Scoop Up,T,Uncommon,Neo Genesis 
+673,99/111,Berry,T [Tool],Common,Neo Genesis 
+674,100/111,Double Gust,T,Common,Neo Genesis 
+675,101/111,Moo-Moo Milk,T,Common,Neo Genesis 
+676,102/111,Pokémon March,T,Common,Neo Genesis 
+677,103/111,Super Rod,T,Common,Neo Genesis 
+678,104/111,Darkness Energy,Darkness,Rare,Neo Genesis 
+679,105/111,Recycle Energy,Colorless,Rare,Neo Genesis 
+680,106/111,Fighting Energy,Fighting,NULL,Neo Genesis 
+681,107/111,Fire Energy,Fire,NULL,Neo Genesis 
+682,108/111,Grass Energy,Grass,NULL,Neo Genesis 
+683,109/111,Lightning Energy,Lightning,NULL,Neo Genesis 
+684,110/111,Psychic Energy,Psychic,NULL,Neo Genesis 
+685,111/111,Water Energy,Water,NULL,Neo Genesis 
+686,1/165,Alakazam,Psychic,Rare Holo,Expedition Base Set 
+687,2/165,Ampharos,Lightning,Rare Holo,Expedition Base Set 
+688,3/165,Arbok,Grass,Rare Holo,Expedition Base Set 
+689,4/165,Blastoise,Water,Rare Holo,Expedition Base Set 
+690,5/165,Butterfree,Grass,Rare Holo,Expedition Base Set 
+691,6/165,Charizard,Fire,Rare Holo,Expedition Base Set 
+692,7/165,Clefable,Colorless,Rare Holo,Expedition Base Set 
+693,8/165,Cloyster,Water,Rare Holo,Expedition Base Set 
+694,9/165,Dragonite,Colorless,Rare Holo,Expedition Base Set 
+695,10/165,Dugtrio,Fighting,Rare Holo,Expedition Base Set 
+696,11/165,Fearow,Colorless,Rare Holo,Expedition Base Set 
+697,12/165,Feraligatr,Water,Rare Holo,Expedition Base Set 
+698,13/165,Gengar,Psychic,Rare Holo,Expedition Base Set 
+699,14/165,Golem,Fighting,Rare Holo,Expedition Base Set 
+700,15/165,Kingler,Water,Rare Holo,Expedition Base Set 
+701,16/165,Machamp,Fighting,Rare Holo,Expedition Base Set 
+702,17/165,Magby,Fire,Rare Holo,Expedition Base Set 
+703,18/165,Meganium,Grass,Rare Holo,Expedition Base Set 
+704,19/165,Mew,Psychic,Rare Holo,Expedition Base Set 
+705,20/165,Mewtwo,Psychic,Rare Holo,Expedition Base Set 
+706,21/165,Ninetales,Fire,Rare Holo,Expedition Base Set 
+707,22/165,Pichu,Lightning,Rare Holo,Expedition Base Set 
+708,23/165,Pidgeot,Colorless,Rare Holo,Expedition Base Set 
+709,24/165,Poliwrath,Water,Rare Holo,Expedition Base Set 
+710,25/165,Raichu,Lightning,Rare Holo,Expedition Base Set 
+711,26/165,Rapidash,Fire,Rare Holo,Expedition Base Set 
+712,27/165,Skarmory,Metal,Rare Holo,Expedition Base Set 
+713,28/165,Typhlosion,Fire,Rare Holo,Expedition Base Set 
+714,29/165,Tyranitar,Darkness,Rare Holo,Expedition Base Set 
+715,30/165,Venusaur,Grass,Rare Holo,Expedition Base Set 
+716,31/165,Vileplume,Grass,Rare Holo,Expedition Base Set 
+717,32/165,Weezing,Grass,Rare Holo,Expedition Base Set 
+718,33/165,Alakazam,Psychic,Rare,Expedition Base Set 
+719,34/165,Ampharos,Lightning,Rare,Expedition Base Set 
+720,35/165,Arbok,Grass,Rare,Expedition Base Set 
+721,36/165,Blastoise,Water,Rare,Expedition Base Set 
+722,37/165,Blastoise,Water,Rare,Expedition Base Set 
+723,38/165,Butterfree,Grass,Rare,Expedition Base Set 
+724,39/165,Charizard,Fire,Rare,Expedition Base Set 
+725,40/165,Charizard,Fire,Rare,Expedition Base Set 
+726,41/165,Clefable,Colorless,Rare,Expedition Base Set 
+727,42/165,Cloyster,Water,Rare,Expedition Base Set 
+728,43/165,Dragonite,Colorless,Rare,Expedition Base Set 
+729,44/165,Dugtrio,Fighting,Rare,Expedition Base Set 
+730,45/165,Fearow,Colorless,Rare,Expedition Base Set 
+731,46/165,Feraligatr,Water,Rare,Expedition Base Set 
+732,47/165,Feraligatr,Water,Rare,Expedition Base Set 
+733,48/165,Gengar,Psychic,Rare,Expedition Base Set 
+734,49/165,Golem,Fighting,Rare,Expedition Base Set 
+735,50/165,Kingler,Water,Rare,Expedition Base Set 
+736,51/165,Machamp,Fighting,Rare,Expedition Base Set 
+737,52/165,Magby,Fire,Rare,Expedition Base Set 
+738,53/165,Meganium,Grass,Rare,Expedition Base Set 
+739,54/165,Meganium,Grass,Rare,Expedition Base Set 
+740,55/165,Mew,Psychic,Rare,Expedition Base Set 
+741,56/165,Mewtwo,Psychic,Rare,Expedition Base Set 
+742,57/165,Ninetales,Fire,Rare,Expedition Base Set 
+743,58/165,Pichu,Lightning,Rare,Expedition Base Set 
+744,59/165,Pidgeot,Colorless,Rare,Expedition Base Set 
+745,60/165,Poliwrath,Water,Rare,Expedition Base Set 
+746,61/165,Raichu,Lightning,Rare,Expedition Base Set 
+747,62/165,Rapidash,Fire,Rare,Expedition Base Set 
+748,63/165,Skarmory,Metal,Rare,Expedition Base Set 
+749,64/165,Typhlosion,Fire,Rare,Expedition Base Set 
+750,65/165,Typhlosion,Fire,Rare,Expedition Base Set 
+751,66/165,Tyranitar,Darkness,Rare,Expedition Base Set 
+752,67/165,Venusaur,Grass,Rare,Expedition Base Set 
+753,68/165,Venusaur,Grass,Rare,Expedition Base Set 
+754,69/165,Vileplume,Grass,Rare,Expedition Base Set 
+755,70/165,Weezing,Grass,Rare,Expedition Base Set 
+756,71/165,Bayleef,Grass,Uncommon,Expedition Base Set 
+757,72/165,Chansey,Colorless,Uncommon,Expedition Base Set 
+758,73/165,Charmeleon,Fire,Uncommon,Expedition Base Set 
+759,74/165,Croconaw,Water,Uncommon,Expedition Base Set 
+760,75/165,Dragonair,Colorless,Uncommon,Expedition Base Set 
+761,76/165,Electabuzz,Lightning,Uncommon,Expedition Base Set 
+762,77/165,Flaaffy,Lightning,Uncommon,Expedition Base Set 
+763,78/165,Gloom,Grass,Uncommon,Expedition Base Set 
+764,79/165,Graveler,Fighting,Uncommon,Expedition Base Set 
+765,80/165,Haunter,Psychic,Uncommon,Expedition Base Set 
+766,81/165,Hitmonlee,Fighting,Uncommon,Expedition Base Set 
+767,82/165,Ivysaur,Grass,Uncommon,Expedition Base Set 
+768,83/165,Jynx,Water,Uncommon,Expedition Base Set 
+769,84/165,Kadabra,Psychic,Uncommon,Expedition Base Set 
+770,85/165,Machoke,Fighting,Uncommon,Expedition Base Set 
+771,86/165,Magmar,Fire,Uncommon,Expedition Base Set 
+772,87/165,Metapod,Grass,Uncommon,Expedition Base Set 
+773,88/165,Pidgeotto,Colorless,Uncommon,Expedition Base Set 
+774,89/165,Poliwhirl,Water,Uncommon,Expedition Base Set 
+775,90/165,Pupitar,Fighting,Uncommon,Expedition Base Set 
+776,91/165,Quilava,Fire,Uncommon,Expedition Base Set 
+777,92/165,Wartortle,Water,Uncommon,Expedition Base Set 
+778,93/165,Abra,Psychic,Common,Expedition Base Set 
+779,94/165,Bulbasaur,Grass,Common,Expedition Base Set 
+780,95/165,Bulbasaur,Grass,Common,Expedition Base Set 
+781,96/165,Caterpie,Grass,Common,Expedition Base Set 
+782,97/165,Charmander,Fire,Common,Expedition Base Set 
+783,98/165,Charmander,Fire,Common,Expedition Base Set 
+784,99/165,Chikorita,Grass,Common,Expedition Base Set 
+785,100/165,Chikorita,Grass,Common,Expedition Base Set 
+786,101/165,Clefairy,Colorless,Common,Expedition Base Set 
+787,102/165,Corsola,Water,Common,Expedition Base Set 
+788,103/165,Cubone,Fighting,Common,Expedition Base Set 
+789,104/165,Cyndaquil,Fire,Common,Expedition Base Set 
+790,105/165,Cyndaquil,Fire,Common,Expedition Base Set 
+791,106/165,Diglett,Fighting,Common,Expedition Base Set 
+792,107/165,Dratini,Colorless,Common,Expedition Base Set 
+793,108/165,Ekans,Grass,Common,Expedition Base Set 
+794,109/165,Gastly,Psychic,Common,Expedition Base Set 
+795,110/165,Geodude,Fighting,Common,Expedition Base Set 
+796,111/165,Goldeen,Water,Common,Expedition Base Set 
+797,112/165,Hoppip,Grass,Common,Expedition Base Set 
+798,113/165,Houndour,Darkness,Common,Expedition Base Set 
+799,114/165,Koffing,Grass,Common,Expedition Base Set 
+800,115/165,Krabby,Water,Common,Expedition Base Set 
+801,116/165,Larvitar,Fighting,Common,Expedition Base Set 
+802,117/165,Machop,Fighting,Common,Expedition Base Set 
+803,118/165,Magikarp,Water,Common,Expedition Base Set 
+804,119/165,Mareep,Lightning,Common,Expedition Base Set 
+805,120/165,Marill,Water,Common,Expedition Base Set 
+806,121/165,Meowth,Colorless,Common,Expedition Base Set 
+807,122/165,Oddish,Grass,Common,Expedition Base Set 
+808,123/165,Pidgey,Colorless,Common,Expedition Base Set 
+809,124/165,Pikachu,Lightning,Common,Expedition Base Set 
+810,125/165,Poliwag,Water,Common,Expedition Base Set 
+811,126/165,Ponyta,Fire,Common,Expedition Base Set 
+812,127/165,Qwilfish,Water,Common,Expedition Base Set 
+813,128/165,Rattata,Colorless,Common,Expedition Base Set 
+814,129/165,Shellder,Water,Common,Expedition Base Set 
+815,130/165,Spearow,Colorless,Common,Expedition Base Set 
+816,131/165,Squirtle,Water,Common,Expedition Base Set 
+817,132/165,Squirtle,Water,Common,Expedition Base Set 
+818,133/165,Tauros,Colorless,Common,Expedition Base Set 
+819,134/165,Totodile,Water,Common,Expedition Base Set 
+820,135/165,Totodile,Water,Common,Expedition Base Set 
+821,136/165,Vulpix,Fire,Common,Expedition Base Set 
+822,137/165,Bill's Maintenance,T [Su],Uncommon,Expedition Base Set 
+823,138/165,Copycat,T [Su],Uncommon,Expedition Base Set 
+824,139/165,Dual Ball,T,Uncommon,Expedition Base Set 
+825,140/165,Energy Removal 2,T,Uncommon,Expedition Base Set 
+826,141/165,Energy Restore,T,Uncommon,Expedition Base Set 
+827,142/165,Mary's Impulse,T [Su],Uncommon,Expedition Base Set 
+828,143/165,Master Ball,T,Uncommon,Expedition Base Set 
+829,144/165,Multi Technical Machine 01,T [TM],Uncommon,Expedition Base Set 
+830,145/165,Pokémon Nurse,T [Su],Uncommon,Expedition Base Set 
+831,146/165,Pokémon Reversal,T,Uncommon,Expedition Base Set 
+832,147/165,Power Charge,T,Uncommon,Expedition Base Set 
+833,148/165,Professor Elm's Training Method,T [Su],Uncommon,Expedition Base Set 
+834,149/165,Professor Oak's Research,T [Su],Uncommon,Expedition Base Set 
+835,150/165,Strength Charm,T [Tool],Uncommon,Expedition Base Set 
+836,151/165,Super Scoop Up,T,Uncommon,Expedition Base Set 
+837,152/165,Warp Point,T,Uncommon,Expedition Base Set 
+838,153/165,Energy Search,T,Common,Expedition Base Set 
+839,154/165,Full Heal,T,Common,Expedition Base Set 
+840,155/165,Moo-Moo Milk,T,Common,Expedition Base Set 
+841,156/165,Potion,T,Common,Expedition Base Set 
+842,157/165,Switch,T,Common,Expedition Base Set 
+843,158/165,Darkness Energy,Darkness,Rare,Expedition Base Set 
+844,159/165,Metal Energy,Metal,Rare,Expedition Base Set 
+845,160/165,Fighting Energy,Fighting,NULL,Expedition Base Set 
+846,161/165,Fire Energy,Fire,NULL,Expedition Base Set 
+847,162/165,Grass Energy,Grass,NULL,Expedition Base Set 
+848,163/165,Lightning Energy,Lightning,NULL,Expedition Base Set 
+849,164/165,Psychic Energy,Psychic,NULL,Expedition Base Set 
+850,165/165,Water Energy,Water,NULL,Expedition Base Set 
+851,1/109,Aggron,Metal,Rare Holo,EX Ruby & Sapphire 
+852,2/109,Beautifly,Grass,Rare Holo,EX Ruby & Sapphire 
+853,3/109,Blaziken,Fire,Rare Holo,EX Ruby & Sapphire 
+854,4/109,Camerupt,Fire,Rare Holo,EX Ruby & Sapphire 
+855,5/109,Delcatty,Colorless,Rare Holo,EX Ruby & Sapphire 
+856,6/109,Dustox,Grass,Rare Holo,EX Ruby & Sapphire 
+857,7/109,Gardevoir,Psychic,Rare Holo,EX Ruby & Sapphire 
+858,8/109,Hariyama,Fighting,Rare Holo,EX Ruby & Sapphire 
+859,9/109,Manectric,Lightning,Rare Holo,EX Ruby & Sapphire 
+860,10/109,Mightyena,Darkness,Rare Holo,EX Ruby & Sapphire 
+861,11/109,Sceptile,Grass,Rare Holo,EX Ruby & Sapphire 
+862,12/109,Slaking,Colorless,Rare Holo,EX Ruby & Sapphire 
+863,13/109,Swampert,Water,Rare Holo,EX Ruby & Sapphire 
+864,14/109,Wailord,Water,Rare Holo,EX Ruby & Sapphire 
+865,15/109,Blaziken,Fire,Rare,EX Ruby & Sapphire 
+866,16/109,Breloom,Grass,Rare,EX Ruby & Sapphire 
+867,17/109,Donphan,Fighting,Rare,EX Ruby & Sapphire 
+868,18/109,Nosepass,Fighting,Rare,EX Ruby & Sapphire 
+869,19/109,Pelipper,Water,Rare,EX Ruby & Sapphire 
+870,20/109,Sceptile,Grass,Rare,EX Ruby & Sapphire 
+871,21/109,Seaking,Water,Rare,EX Ruby & Sapphire 
+872,22/109,Sharpedo,Water,Rare,EX Ruby & Sapphire 
+873,23/109,Swampert,Water,Rare,EX Ruby & Sapphire 
+874,24/109,Weezing,Grass,Rare,EX Ruby & Sapphire 
+875,25/109,Aron,Metal,Uncommon,EX Ruby & Sapphire 
+876,26/109,Cascoon,Grass,Uncommon,EX Ruby & Sapphire 
+877,27/109,Combusken,Fire,Uncommon,EX Ruby & Sapphire 
+878,28/109,Combusken,Fire,Uncommon,EX Ruby & Sapphire 
+879,29/109,Delcatty,Colorless,Uncommon,EX Ruby & Sapphire 
+880,30/109,Electrike,Lightning,Uncommon,EX Ruby & Sapphire 
+881,31/109,Grovyle,Grass,Uncommon,EX Ruby & Sapphire 
+882,32/109,Grovyle,Grass,Uncommon,EX Ruby & Sapphire 
+883,33/109,Hariyama,Fighting,Uncommon,EX Ruby & Sapphire 
+884,34/109,Kirlia,Psychic,Uncommon,EX Ruby & Sapphire 
+885,35/109,Kirlia,Psychic,Uncommon,EX Ruby & Sapphire 
+886,36/109,Lairon,Metal,Uncommon,EX Ruby & Sapphire 
+887,37/109,Lairon,Metal,Uncommon,EX Ruby & Sapphire 
+888,38/109,Linoone,Colorless,Uncommon,EX Ruby & Sapphire 
+889,39/109,Manectric,Lightning,Uncommon,EX Ruby & Sapphire 
+890,40/109,Marshtomp,Water,Uncommon,EX Ruby & Sapphire 
+891,41/109,Marshtomp,Water,Uncommon,EX Ruby & Sapphire 
+892,42/109,Mightyena,Darkness,Uncommon,EX Ruby & Sapphire 
+893,43/109,Silcoon,Grass,Uncommon,EX Ruby & Sapphire 
+894,44/109,Skitty,Colorless,Uncommon,EX Ruby & Sapphire 
+895,45/109,Slakoth,Colorless,Uncommon,EX Ruby & Sapphire 
+896,46/109,Swellow,Colorless,Uncommon,EX Ruby & Sapphire 
+897,47/109,Vigoroth,Colorless,Uncommon,EX Ruby & Sapphire 
+898,48/109,Wailmer,Water,Uncommon,EX Ruby & Sapphire 
+899,49/109,Aron,Metal,Common,EX Ruby & Sapphire 
+900,50/109,Aron,Metal,Common,EX Ruby & Sapphire 
+901,51/109,Carvanha,Water,Common,EX Ruby & Sapphire 
+902,52/109,Electrike,Lightning,Common,EX Ruby & Sapphire 
+903,53/109,Electrike,Lightning,Common,EX Ruby & Sapphire 
+904,54/109,Koffing,Grass,Common,EX Ruby & Sapphire 
+905,55/109,Goldeen,Water,Common,EX Ruby & Sapphire 
+906,56/109,Makuhita,Fighting,Common,EX Ruby & Sapphire 
+907,57/109,Makuhita,Fighting,Common,EX Ruby & Sapphire 
+908,58/109,Makuhita,Fighting,Common,EX Ruby & Sapphire 
+909,59/109,Mudkip,Water,Common,EX Ruby & Sapphire 
+910,60/109,Mudkip,Water,Common,EX Ruby & Sapphire 
+911,61/109,Numel,Fire,Common,EX Ruby & Sapphire 
+912,62/109,Phanpy,Fighting,Common,EX Ruby & Sapphire 
+913,63/109,Poochyena,Darkness,Common,EX Ruby & Sapphire 
+914,64/109,Poochyena,Darkness,Common,EX Ruby & Sapphire 
+915,65/109,Poochyena,Darkness,Common,EX Ruby & Sapphire 
+916,66/109,Ralts,Psychic,Common,EX Ruby & Sapphire 
+917,67/109,Ralts,Psychic,Common,EX Ruby & Sapphire 
+918,68/109,Ralts,Psychic,Common,EX Ruby & Sapphire 
+919,69/109,Shroomish,Grass,Common,EX Ruby & Sapphire 
+920,70/109,Skitty,Colorless,Common,EX Ruby & Sapphire 
+921,71/109,Skitty,Colorless,Common,EX Ruby & Sapphire 
+922,72/109,Taillow,Colorless,Common,EX Ruby & Sapphire 
+923,73/109,Torchic,Fire,Common,EX Ruby & Sapphire 
+924,74/109,Torchic,Fire,Common,EX Ruby & Sapphire 
+925,75/109,Treecko,Grass,Common,EX Ruby & Sapphire 
+926,76/109,Treecko,Grass,Common,EX Ruby & Sapphire 
+927,77/109,Wingull,Water,Common,EX Ruby & Sapphire 
+928,78/109,Wurmple,Grass,Common,EX Ruby & Sapphire 
+929,79/109,Zigzagoon,Colorless,Common,EX Ruby & Sapphire 
+930,80/109,Energy Removal 2,T,Uncommon,EX Ruby & Sapphire 
+931,81/109,Energy Restore,T,Uncommon,EX Ruby & Sapphire 
+932,82/109,Energy Switch,T,Uncommon,EX Ruby & Sapphire 
+933,83/109,Lady Outing,T [Su],Uncommon,EX Ruby & Sapphire 
+934,84/109,Lum Berry,T [Tool],Uncommon,EX Ruby & Sapphire 
+935,85/109,Oran Berry,T [Tool],Uncommon,EX Ruby & Sapphire 
+936,86/109,Poké Ball,T,Uncommon,EX Ruby & Sapphire 
+937,87/109,Pokémon Reversal,T,Uncommon,EX Ruby & Sapphire 
+938,88/109,PokéNav,T,Uncommon,EX Ruby & Sapphire 
+939,89/109,Professor Birch,T [Su],Uncommon,EX Ruby & Sapphire 
+940,90/109,Energy Search,T,Common,EX Ruby & Sapphire 
+941,91/109,Potion,T,Common,EX Ruby & Sapphire 
+942,92/109,Switch,T,Common,EX Ruby & Sapphire 
+943,93/109,Darkness Energy,Darkness,Rare,EX Ruby & Sapphire 
+944,94/109,Metal Energy,Metal,Rare,EX Ruby & Sapphire 
+945,95/109,Rainbow Energy,Rainbow,Rare,EX Ruby & Sapphire 
+946,96/109,Chansey ex,Colorless,Rare Holo ex,EX Ruby & Sapphire 
+947,97/109,Electabuzz ex,Lightning,Rare Holo ex,EX Ruby & Sapphire 
+948,98/109,Hitmonchan ex,Fighting,Rare Holo ex,EX Ruby & Sapphire 
+949,99/109,Lapras ex,Water,Rare Holo ex,EX Ruby & Sapphire 
+950,100/109,Magmar ex,Fire,Rare Holo ex,EX Ruby & Sapphire 
+951,101/109,Mewtwo ex,Psychic,Rare Holo ex,EX Ruby & Sapphire 
+952,102/109,Scyther ex,Grass,Rare Holo ex,EX Ruby & Sapphire 
+953,103/109,Sneasel ex,Darkness,Rare Holo ex,EX Ruby & Sapphire 
+954,104/109,Grass Energy,Grass,Common,EX Ruby & Sapphire 
+955,105/109,Fighting Energy,Fighting,Common,EX Ruby & Sapphire 
+956,106/109,Water Energy,Water,Common,EX Ruby & Sapphire 
+957,107/109,Psychic Energy,Psychic,Common,EX Ruby & Sapphire 
+958,108/109,Fire Energy,Fire,Common,EX Ruby & Sapphire 
+959,109/109,Lightning Energy,Lightning,Common,EX Ruby & Sapphire 
+960,1/100,Armaldo,Fighting,Rare Holo,EX Sandstorm 
+961,2/100,Cacturne,Grass,Rare Holo,EX Sandstorm 
+962,3/100,Cradily,Grass,Rare Holo,EX Sandstorm 
+963,4/100,Dusclops,Psychic,Rare Holo,EX Sandstorm 
+964,5/100,Flareon,Fire,Rare Holo,EX Sandstorm 
+965,6/100,Jolteon,Lightning,Rare Holo,EX Sandstorm 
+966,7/100,Ludicolo,Water,Rare Holo,EX Sandstorm 
+967,8/100,Lunatone,Psychic,Rare Holo,EX Sandstorm 
+968,9/100,Mawile,Metal,Rare Holo,EX Sandstorm 
+969,10/100,Sableye,Darkness,Rare Holo,EX Sandstorm 
+970,11/100,Seviper,Grass,Rare Holo,EX Sandstorm 
+971,12/100,Shiftry,Grass,Rare Holo,EX Sandstorm 
+972,13/100,Solrock,Fighting,Rare Holo,EX Sandstorm 
+973,14/100,Zangoose,Colorless,Rare Holo,EX Sandstorm 
+974,15/100,Arcanine,Fire,Rare,EX Sandstorm 
+975,16/100,Espeon,Psychic,Rare,EX Sandstorm 
+976,17/100,Golduck,Water,Rare,EX Sandstorm 
+977,18/100,Kecleon,Colorless,Rare,EX Sandstorm 
+978,19/100,Omastar,Water,Rare,EX Sandstorm 
+979,20/100,Pichu,Lightning,Rare,EX Sandstorm 
+980,21/100,Sandslash,Fighting,Rare,EX Sandstorm 
+981,22/100,Shiftry,Grass,Rare,EX Sandstorm 
+982,23/100,Steelix,Metal,Rare,EX Sandstorm 
+983,24/100,Umbreon,Darkness,Rare,EX Sandstorm 
+984,25/100,Vaporeon,Water,Rare,EX Sandstorm 
+985,26/100,Wobbuffet,Psychic,Rare,EX Sandstorm 
+986,27/100,Anorith,Fighting,Uncommon,EX Sandstorm 
+987,28/100,Anorith,Fighting,Uncommon,EX Sandstorm 
+988,29/100,Arbok,Grass,Uncommon,EX Sandstorm 
+989,30/100,Azumarill,Water,Uncommon,EX Sandstorm 
+990,31/100,Azurill,Colorless,Uncommon,EX Sandstorm 
+991,32/100,Baltoy,Fighting,Uncommon,EX Sandstorm 
+992,33/100,Breloom,Grass,Uncommon,EX Sandstorm 
+993,34/100,Delcatty,Colorless,Uncommon,EX Sandstorm 
+994,35/100,Electabuzz,Lightning,Uncommon,EX Sandstorm 
+995,36/100,Elekid,Lightning,Uncommon,EX Sandstorm 
+996,37/100,Fearow,Colorless,Uncommon,EX Sandstorm 
+997,38/100,Illumise,Grass,Uncommon,EX Sandstorm 
+998,39/100,Kabuto,Water,Uncommon,EX Sandstorm 
+999,40/100,Kirlia,Psychic,Uncommon,EX Sandstorm 
+1000,41/100,Lairon,Metal,Uncommon,EX Sandstorm 
+1001,42/100,Lileep,Grass,Uncommon,EX Sandstorm 
+1002,43/100,Lileep,Grass,Uncommon,EX Sandstorm 
+1003,44/100,Linoone,Colorless,Uncommon,EX Sandstorm 
+1004,45/100,Lombre,Water,Uncommon,EX Sandstorm 
+1005,46/100,Lombre,Water,Uncommon,EX Sandstorm 
+1006,47/100,Murkrow,Darkness,Uncommon,EX Sandstorm 
+1007,48/100,Nuzleaf,Grass,Uncommon,EX Sandstorm 
+1008,49/100,Nuzleaf,Grass,Uncommon,EX Sandstorm 
+1009,50/100,Pelipper,Water,Uncommon,EX Sandstorm 
+1010,51/100,Quilava,Fire,Uncommon,EX Sandstorm 
+1011,52/100,Vigoroth,Colorless,Uncommon,EX Sandstorm 
+1012,53/100,Volbeat,Grass,Uncommon,EX Sandstorm 
+1013,54/100,Wynaut,Psychic,Uncommon,EX Sandstorm 
+1014,55/100,Xatu,Psychic,Uncommon,EX Sandstorm 
+1015,56/100,Aron,Metal,Common,EX Sandstorm 
+1016,57/100,Cacnea,Grass,Common,EX Sandstorm 
+1017,58/100,Cacnea,Grass,Common,EX Sandstorm 
+1018,59/100,Cyndaquil,Fire,Common,EX Sandstorm 
+1019,60/100,Dunsparce,Colorless,Common,EX Sandstorm 
+1020,61/100,Duskull,Psychic,Common,EX Sandstorm 
+1021,62/100,Duskull,Psychic,Common,EX Sandstorm 
+1022,63/100,Eevee,Colorless,Common,EX Sandstorm 
+1023,64/100,Ekans,Grass,Common,EX Sandstorm 
+1024,65/100,Growlithe,Fire,Common,EX Sandstorm 
+1025,66/100,Lotad,Water,Common,EX Sandstorm 
+1026,67/100,Lotad,Water,Common,EX Sandstorm 
+1027,68/100,Marill,Water,Common,EX Sandstorm 
+1028,69/100,Natu,Psychic,Common,EX Sandstorm 
+1029,70/100,Omanyte,Water,Common,EX Sandstorm 
+1030,71/100,Onix,Fighting,Common,EX Sandstorm 
+1031,72/100,Pikachu,Lightning,Common,EX Sandstorm 
+1032,73/100,Psyduck,Water,Common,EX Sandstorm 
+1033,74/100,Ralts,Psychic,Common,EX Sandstorm 
+1034,75/100,Sandshrew,Fighting,Common,EX Sandstorm 
+1035,76/100,Seedot,Grass,Common,EX Sandstorm 
+1036,77/100,Seedot,Grass,Common,EX Sandstorm 
+1037,78/100,Shroomish,Grass,Common,EX Sandstorm 
+1038,79/100,Skitty,Colorless,Common,EX Sandstorm 
+1039,80/100,Slakoth,Colorless,Common,EX Sandstorm 
+1040,81/100,Spearow,Colorless,Common,EX Sandstorm 
+1041,82/100,Trapinch,Fighting,Common,EX Sandstorm 
+1042,83/100,Wailmer,Water,Common,EX Sandstorm 
+1043,84/100,Wingull,Water,Common,EX Sandstorm 
+1044,85/100,Zigzagoon,Colorless,Common,EX Sandstorm 
+1045,86/100,Double Full Heal,T,Uncommon,EX Sandstorm 
+1046,87/100,Lanette's Net Search,T [Su],Uncommon,EX Sandstorm 
+1047,88/100,Rare Candy,T,Uncommon,EX Sandstorm 
+1048,89/100,Wally's Training,T [Su],Uncommon,EX Sandstorm 
+1049,90/100,Claw Fossil,T,Common,EX Sandstorm 
+1050,91/100,Mysterious Fossil,T,Common,EX Sandstorm 
+1051,92/100,Root Fossil,T,Common,EX Sandstorm 
+1052,93/100,Multi Energy,Rainbow,Rare,EX Sandstorm 
+1053,94/100,Aerodactyl ex,Colorless,Rare Holo ex,EX Sandstorm 
+1054,95/100,Aggron ex,Metal,Rare Holo ex,EX Sandstorm 
+1055,96/100,Gardevoir ex,Psychic,Rare Holo ex,EX Sandstorm 
+1056,97/100,Kabutops ex,Water,Rare Holo ex,EX Sandstorm 
+1057,98/100,Raichu ex,Lightning,Rare Holo ex,EX Sandstorm 
+1058,99/100,Typhlosion ex,Fire,Rare Holo ex,EX Sandstorm 
+1059,100/100,Wailord ex,Water,Rare Holo ex,EX Sandstorm 
+1060,1/97,Absol,Darkness,Rare Holo,EX Dragon 
+1061,2/97,Altaria,Colorless,Rare Holo,EX Dragon 
+1062,3/97,Crawdaunt,Water,Rare Holo,EX Dragon 
+1063,4/97,Flygon,Colorless,Rare Holo,EX Dragon 
+1064,5/97,Golem,Fighting,Rare Holo,EX Dragon 
+1065,6/97,Grumpig,Psychic,Rare Holo,EX Dragon 
+1066,7/97,Minun,Lightning,Rare Holo,EX Dragon 
+1067,8/97,Plusle,Lightning,Rare Holo,EX Dragon 
+1068,9/97,Roselia,Grass,Rare Holo,EX Dragon 
+1069,10/97,Salamence,Colorless,Rare Holo,EX Dragon 
+1070,11/97,Shedinja,Grass,Rare Holo,EX Dragon 
+1071,12/97,Torkoal,Fire,Rare Holo,EX Dragon 
+1072,13/97,Crawdaunt,Water,Rare,EX Dragon 
+1073,14/97,Dragonair,Colorless,Rare,EX Dragon 
+1074,15/97,Flygon,Colorless,Rare,EX Dragon 
+1075,16/97,Girafarig,Psychic,Rare,EX Dragon 
+1076,17/97,Magneton,Lightning,Rare,EX Dragon 
+1077,18/97,Ninjask,Grass,Rare,EX Dragon 
+1078,19/97,Salamence,Colorless,Rare,EX Dragon 
+1079,20/97,Shelgon,Colorless,Rare,EX Dragon 
+1080,21/97,Skarmory,Metal,Rare,EX Dragon 
+1081,22/97,Vibrava,Colorless,Rare,EX Dragon 
+1082,23/97,Bagon,Colorless,Uncommon,EX Dragon 
+1083,24/97,Camerupt,Fire,Uncommon,EX Dragon 
+1084,25/97,Combusken,Fire,Uncommon,EX Dragon 
+1085,26/97,Dratini,Colorless,Uncommon,EX Dragon 
+1086,27/97,Flaaffy,Lightning,Uncommon,EX Dragon 
+1087,28/97,Forretress,Metal,Uncommon,EX Dragon 
+1088,29/97,Graveler,Fighting,Uncommon,EX Dragon 
+1089,30/97,Graveler,Fighting,Uncommon,EX Dragon 
+1090,31/97,Grovyle,Grass,Uncommon,EX Dragon 
+1091,32/97,Gyarados,Water,Uncommon,EX Dragon 
+1092,33/97,Horsea,Water,Uncommon,EX Dragon 
+1093,34/97,Houndoom,Darkness,Uncommon,EX Dragon 
+1094,35/97,Magneton,Lightning,Uncommon,EX Dragon 
+1095,36/97,Marshtomp,Water,Uncommon,EX Dragon 
+1096,37/97,Meditite,Fighting,Uncommon,EX Dragon 
+1097,38/97,Ninjask,Grass,Uncommon,EX Dragon 
+1098,39/97,Seadra,Water,Uncommon,EX Dragon 
+1099,40/97,Seadra,Water,Uncommon,EX Dragon 
+1100,41/97,Shelgon,Colorless,Uncommon,EX Dragon 
+1101,42/97,Shelgon,Colorless,Uncommon,EX Dragon 
+1102,43/97,Shuppet,Psychic,Uncommon,EX Dragon 
+1103,44/97,Snorunt,Water,Uncommon,EX Dragon 
+1104,45/97,Swellow,Colorless,Uncommon,EX Dragon 
+1105,46/97,Vibrava,Colorless,Uncommon,EX Dragon 
+1106,47/97,Vibrava,Colorless,Uncommon,EX Dragon 
+1107,48/97,Whiscash,Water,Uncommon,EX Dragon 
+1108,49/97,Bagon,Colorless,Common,EX Dragon 
+1109,50/97,Bagon,Colorless,Common,EX Dragon 
+1110,51/97,Barboach,Water,Common,EX Dragon 
+1111,52/97,Corphish,Water,Common,EX Dragon 
+1112,53/97,Corphish,Water,Common,EX Dragon 
+1113,54/97,Corphish,Water,Common,EX Dragon 
+1114,55/97,Geodude,Fighting,Common,EX Dragon 
+1115,56/97,Geodude,Fighting,Common,EX Dragon 
+1116,57/97,Grimer,Grass,Common,EX Dragon 
+1117,58/97,Horsea,Water,Common,EX Dragon 
+1118,59/97,Houndour,Darkness,Common,EX Dragon 
+1119,60/97,Magikarp,Water,Common,EX Dragon 
+1120,61/97,Magnemite,Lightning,Common,EX Dragon 
+1121,62/97,Magnemite,Lightning,Common,EX Dragon 
+1122,63/97,Magnemite,Lightning,Common,EX Dragon 
+1123,64/97,Mareep,Lightning,Common,EX Dragon 
+1124,65/97,Mudkip,Water,Common,EX Dragon 
+1125,66/97,Nincada,Grass,Common,EX Dragon 
+1126,67/97,Nincada,Grass,Common,EX Dragon 
+1127,68/97,Nincada,Grass,Common,EX Dragon 
+1128,69/97,Numel,Fire,Common,EX Dragon 
+1129,70/97,Numel,Fire,Common,EX Dragon 
+1130,71/97,Pineco,Grass,Common,EX Dragon 
+1131,72/97,Slugma,Fire,Common,EX Dragon 
+1132,73/97,Spoink,Psychic,Common,EX Dragon 
+1133,74/97,Spoink,Psychic,Common,EX Dragon 
+1134,75/97,Swablu,Colorless,Common,EX Dragon 
+1135,76/97,Taillow,Colorless,Common,EX Dragon 
+1136,77/97,Torchic,Fire,Common,EX Dragon 
+1137,78/97,Trapinch,Fighting,Common,EX Dragon 
+1138,79/97,Trapinch,Fighting,Common,EX Dragon 
+1139,80/97,Treecko,Grass,Common,EX Dragon 
+1140,81/97,Wurmple,Grass,Common,EX Dragon 
+1141,82/97,Balloon Berry,T [Tool],Uncommon,EX Dragon 
+1142,83/97,Buffer Piece,T [Tool],Uncommon,EX Dragon 
+1143,84/97,Energy Recycle System,T,Uncommon,EX Dragon 
+1144,85/97,High Pressure System,T [St],Uncommon,EX Dragon 
+1145,86/97,Low Pressure System,T [St],Uncommon,EX Dragon 
+1146,87/97,Mr. Briney's Compassion,T [Su],Uncommon,EX Dragon 
+1147,88/97,TV Reporter,T [Su],Uncommon,EX Dragon 
+1148,89/97,Ampharos ex,Lightning,Rare Holo ex,EX Dragon 
+1149,90/97,Dragonite ex,Colorless,Rare Holo ex,EX Dragon 
+1150,91/97,Golem ex,Fighting,Rare Holo ex,EX Dragon 
+1151,92/97,Kingdra ex,Water,Rare Holo ex,EX Dragon 
+1152,93/97,Latias ex,Colorless,Rare Holo ex,EX Dragon 
+1153,94/97,Latios ex,Colorless,Rare Holo ex,EX Dragon 
+1154,95/97,Magcargo ex,Fire,Rare Holo ex,EX Dragon 
+1155,96/97,Muk ex,Grass,Rare Holo ex,EX Dragon 
+1156,97/97,Rayquaza ex,Colorless,Rare Holo ex,EX Dragon 
+1157,98/97,Charmander,Fire,NULL,EX Dragon 
+1158,99/97,Charmeleon,Fire,NULL,EX Dragon 
+1159,100/97,Charizard,Fire,NULL,EX Dragon 
+1160,1/95,Team Aqua's Cacturne,"['Grass', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1161,2/95,Team Aqua's Crawdaunt,"['Water', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1162,3/95,Team Aqua's Kyogre,"['Water', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1163,4/95,Team Aqua's Manectric,"['Lightning', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1164,5/95,Team Aqua's Sharpedo,"['Water', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1165,6/95,Team Aqua's Walrein,"['Water', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1166,7/95,Team Magma's Aggron,"['Fighting', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1167,8/95,Team Magma's Claydol,"['Psychic', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1168,9/95,Team Magma's Groudon,"['Fighting', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1169,10/95,Team Magma's Houndoom,"['Fire', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1170,11/95,Team Magma's Rhydon,"['Fighting', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1171,12/95,Team Magma's Torkoal,"['Fire', 'Darkness']",Rare Holo,EX Team Magma vs Team Aqua 
+1172,13/95,Raichu,Lightning,Rare,EX Team Magma vs Team Aqua 
+1173,14/95,Team Aqua's Crawdaunt,Water,Rare,EX Team Magma vs Team Aqua 
+1174,15/95,Team Aqua's Mightyena,Darkness,Rare,EX Team Magma vs Team Aqua 
+1175,16/95,Team Aqua's Sealeo,Water,Rare,EX Team Magma vs Team Aqua 
+1176,17/95,Team Aqua's Seviper,Grass,Rare,EX Team Magma vs Team Aqua 
+1177,18/95,Team Aqua's Sharpedo,Water,Rare,EX Team Magma vs Team Aqua 
+1178,19/95,Team Magma's Camerupt,Fire,Rare,EX Team Magma vs Team Aqua 
+1179,20/95,Team Magma's Lairon,Fighting,Rare,EX Team Magma vs Team Aqua 
+1180,21/95,Team Magma's Mightyena,Darkness,Rare,EX Team Magma vs Team Aqua 
+1181,22/95,Team Magma's Rhydon,Fighting,Rare,EX Team Magma vs Team Aqua 
+1182,23/95,Team Magma's Zangoose,Colorless,Rare,EX Team Magma vs Team Aqua 
+1183,24/95,Team Aqua's Cacnea,"['Grass', 'Darkness']",Uncommon,EX Team Magma vs Team Aqua 
+1184,25/95,Team Aqua's Carvanha,Water,Uncommon,EX Team Magma vs Team Aqua 
+1185,26/95,Team Aqua's Corphish,Water,Uncommon,EX Team Magma vs Team Aqua 
+1186,27/95,Team Aqua's Electrike,Lightning,Uncommon,EX Team Magma vs Team Aqua 
+1187,28/95,Team Aqua's Lanturn,Lightning,Uncommon,EX Team Magma vs Team Aqua 
+1188,29/95,Team Aqua's Manectric,Lightning,Uncommon,EX Team Magma vs Team Aqua 
+1189,30/95,Team Aqua's Mightyena,Darkness,Uncommon,EX Team Magma vs Team Aqua 
+1190,31/95,Team Aqua's Sealeo,Water,Uncommon,EX Team Magma vs Team Aqua 
+1191,32/95,Team Magma's Baltoy,Psychic,Uncommon,EX Team Magma vs Team Aqua 
+1192,33/95,Team Magma's Claydol,Fighting,Uncommon,EX Team Magma vs Team Aqua 
+1193,34/95,Team Magma's Houndoom,Fire,Uncommon,EX Team Magma vs Team Aqua 
+1194,35/95,Team Magma's Houndour,Fire,Uncommon,EX Team Magma vs Team Aqua 
+1195,36/95,Team Magma's Lairon,Fighting,Uncommon,EX Team Magma vs Team Aqua 
+1196,37/95,Team Magma's Mightyena,Darkness,Uncommon,EX Team Magma vs Team Aqua 
+1197,38/95,Team Magma's Rhyhorn,Fighting,Uncommon,EX Team Magma vs Team Aqua 
+1198,39/95,Bulbasaur,Grass,Common,EX Team Magma vs Team Aqua 
+1199,40/95,Cubone,Fighting,Common,EX Team Magma vs Team Aqua 
+1200,41/95,Jigglypuff,Colorless,Common,EX Team Magma vs Team Aqua 
+1201,42/95,Meowth,Colorless,Common,EX Team Magma vs Team Aqua 
+1202,43/95,Pikachu,Lightning,Common,EX Team Magma vs Team Aqua 
+1203,44/95,Psyduck,Water,Common,EX Team Magma vs Team Aqua 
+1204,45/95,Slowpoke,Psychic,Common,EX Team Magma vs Team Aqua 
+1205,46/95,Squirtle,Water,Common,EX Team Magma vs Team Aqua 
+1206,47/95,Team Aqua's Carvanha,Water,Common,EX Team Magma vs Team Aqua 
+1207,48/95,Team Aqua's Carvanha,Water,Common,EX Team Magma vs Team Aqua 
+1208,49/95,Team Aqua's Chinchou,Lightning,Common,EX Team Magma vs Team Aqua 
+1209,50/95,Team Aqua's Corphish,Water,Common,EX Team Magma vs Team Aqua 
+1210,51/95,Team Aqua's Corphish,Water,Common,EX Team Magma vs Team Aqua 
+1211,52/95,Team Aqua's Electrike,Lightning,Common,EX Team Magma vs Team Aqua 
+1212,53/95,Team Aqua's Electrike,Lightning,Common,EX Team Magma vs Team Aqua 
+1213,54/95,Team Aqua's Poochyena,Darkness,Common,EX Team Magma vs Team Aqua 
+1214,55/95,Team Aqua's Poochyena,Darkness,Common,EX Team Magma vs Team Aqua 
+1215,56/95,Team Aqua's Spheal,Water,Common,EX Team Magma vs Team Aqua 
+1216,57/95,Team Aqua's Spheal,Water,Common,EX Team Magma vs Team Aqua 
+1217,58/95,Team Magma's Aron,Fighting,Common,EX Team Magma vs Team Aqua 
+1218,59/95,Team Magma's Aron,Fighting,Common,EX Team Magma vs Team Aqua 
+1219,60/95,Team Magma's Baltoy,Fighting,Common,EX Team Magma vs Team Aqua 
+1220,61/95,Team Magma's Baltoy,Fighting,Common,EX Team Magma vs Team Aqua 
+1221,62/95,Team Magma's Houndour,Fire,Common,EX Team Magma vs Team Aqua 
+1222,63/95,Team Magma's Houndour,Fire,Common,EX Team Magma vs Team Aqua 
+1223,64/95,Team Magma's Numel,Fire,Common,EX Team Magma vs Team Aqua 
+1224,65/95,Team Magma's Poochyena,Darkness,Common,EX Team Magma vs Team Aqua 
+1225,66/95,Team Magma's Poochyena,Darkness,Common,EX Team Magma vs Team Aqua 
+1226,67/95,Team Magma's Rhyhorn,Fighting,Common,EX Team Magma vs Team Aqua 
+1227,68/95,Team Magma's Rhyhorn,Fighting,Common,EX Team Magma vs Team Aqua 
+1228,69/95,Team Aqua Schemer,T [Su],Common,EX Team Magma vs Team Aqua 
+1229,70/95,Team Magma Schemer,T [Su],Common,EX Team Magma vs Team Aqua 
+1230,71/95,Archie,T [Su],Uncommon,EX Team Magma vs Team Aqua 
+1231,72/95,Dual Ball,T,Uncommon,EX Team Magma vs Team Aqua 
+1232,73/95,Maxie,T [Su],Uncommon,EX Team Magma vs Team Aqua 
+1233,74/95,Strength Charm,T [Tool],Uncommon,EX Team Magma vs Team Aqua 
+1234,75/95,Team Aqua Ball,T,Uncommon,EX Team Magma vs Team Aqua 
+1235,76/95,Team Aqua Belt,T [Tool],Uncommon,EX Team Magma vs Team Aqua 
+1236,77/95,Team Aqua Conspirator,T [Su],Uncommon,EX Team Magma vs Team Aqua 
+1237,78/95,Team Aqua Hideout,T [St],Uncommon,EX Team Magma vs Team Aqua 
+1238,79/95,Team Aqua Technical Machine 01,T [TM],Uncommon,EX Team Magma vs Team Aqua 
+1239,80/95,Team Magma Ball,T,Uncommon,EX Team Magma vs Team Aqua 
+1240,81/95,Team Magma Belt,T [Tool],Uncommon,EX Team Magma vs Team Aqua 
+1241,82/95,Team Magma Conspirator,T [Su],Uncommon,EX Team Magma vs Team Aqua 
+1242,83/95,Team Magma Hideout,T [St],Uncommon,EX Team Magma vs Team Aqua 
+1243,84/95,Team Magma Technical Machine 01,T [TM],Uncommon,EX Team Magma vs Team Aqua 
+1244,85/95,Warp Point,T,Uncommon,EX Team Magma vs Team Aqua 
+1245,86/95,Aqua Energy,Water,Uncommon,EX Team Magma vs Team Aqua 
+1246,87/95,Magma Energy,Fighting,Uncommon,EX Team Magma vs Team Aqua 
+1247,88/95,Double Rainbow Energy,Rainbow,Rare,EX Team Magma vs Team Aqua 
+1248,89/95,Blaziken ex,Fire,Rare Holo ex,EX Team Magma vs Team Aqua 
+1249,90/95,Cradily ex,Grass,Rare Holo ex,EX Team Magma vs Team Aqua 
+1250,91/95,Entei ex,Fire,Rare Holo ex,EX Team Magma vs Team Aqua 
+1251,92/95,Raikou ex,Lightning,Rare Holo ex,EX Team Magma vs Team Aqua 
+1252,93/95,Sceptile ex,Grass,Rare Holo ex,EX Team Magma vs Team Aqua 
+1253,94/95,Suicune ex,Water,Rare Holo ex,EX Team Magma vs Team Aqua 
+1254,95/95,Swampert ex,Fighting,Rare Holo ex,EX Team Magma vs Team Aqua 
+1255,96/95,Absol,Darkness,NULL,EX Team Magma vs Team Aqua 
+1256,97/95,Jirachi,Psychic,NULL,EX Team Magma vs Team Aqua 
+1257,1/101,Banette,Psychic,Rare Holo,EX Hidden Legends 
+1258,2/101,Claydol,Psychic,Rare Holo,EX Hidden Legends 
+1259,3/101,Crobat,Grass,Rare Holo,EX Hidden Legends 
+1260,4/101,Dark Celebi,"['Grass', 'Darkness']",Rare Holo,EX Hidden Legends 
+1261,5/101,Electrode,Lightning,Rare Holo,EX Hidden Legends 
+1262,6/101,Exploud,Colorless,Rare Holo,EX Hidden Legends 
+1263,7/101,Heracross,Grass,Rare Holo,EX Hidden Legends 
+1264,8/101,Jirachi,"['Psychic', 'Metal']",Rare Holo,EX Hidden Legends 
+1265,9/101,Machamp,Fighting,Rare Holo,EX Hidden Legends 
+1266,10/101,Medicham,Fighting,Rare Holo,EX Hidden Legends 
+1267,11/101,Metagross,"['Psychic', 'Metal']",Rare Holo,EX Hidden Legends 
+1268,12/101,Milotic,Water,Rare Holo,EX Hidden Legends 
+1269,13/101,Pinsir,Grass,Rare Holo,EX Hidden Legends 
+1270,14/101,Shiftry,Darkness,Rare Holo,EX Hidden Legends 
+1271,15/101,Walrein,Water,Rare Holo,EX Hidden Legends 
+1272,16/101,Bellossom,Grass,Rare,EX Hidden Legends 
+1273,17/101,Chimecho,Psychic,Rare,EX Hidden Legends 
+1274,18/101,Gorebyss,Water,Rare,EX Hidden Legends 
+1275,19/101,Huntail,Water,Rare,EX Hidden Legends 
+1276,20/101,Masquerain,Grass,Rare,EX Hidden Legends 
+1277,21/101,Metang,Metal,Rare,EX Hidden Legends 
+1278,22/101,Ninetales,Fire,Rare,EX Hidden Legends 
+1279,23/101,Rain Castform,Water,Rare,EX Hidden Legends 
+1280,24/101,Relicanth,Water,Rare,EX Hidden Legends 
+1281,25/101,Snow-cloud Castform,Water,Rare,EX Hidden Legends 
+1282,26/101,Sunny Castform,Fire,Rare,EX Hidden Legends 
+1283,27/101,Tropius,Grass,Rare,EX Hidden Legends 
+1284,28/101,Beldum,Metal,Uncommon,EX Hidden Legends 
+1285,29/101,Beldum,Metal,Uncommon,EX Hidden Legends 
+1286,30/101,Castform,Colorless,Uncommon,EX Hidden Legends 
+1287,31/101,Claydol,Fighting,Uncommon,EX Hidden Legends 
+1288,32/101,Corsola,Water,Uncommon,EX Hidden Legends 
+1289,33/101,Dodrio,Colorless,Uncommon,EX Hidden Legends 
+1290,34/101,Glalie,Water,Uncommon,EX Hidden Legends 
+1291,35/101,Gloom,Grass,Uncommon,EX Hidden Legends 
+1292,36/101,Golbat,Grass,Uncommon,EX Hidden Legends 
+1293,37/101,Igglybuff,Colorless,Uncommon,EX Hidden Legends 
+1294,38/101,Lanturn,Lightning,Uncommon,EX Hidden Legends 
+1295,39/101,Loudred,Colorless,Uncommon,EX Hidden Legends 
+1296,40/101,Luvdisc,Water,Uncommon,EX Hidden Legends 
+1297,41/101,Machoke,Fighting,Uncommon,EX Hidden Legends 
+1298,42/101,Medicham,Fighting,Uncommon,EX Hidden Legends 
+1299,43/101,Metang,Psychic,Uncommon,EX Hidden Legends 
+1300,44/101,Metang,Metal,Uncommon,EX Hidden Legends 
+1301,45/101,Nuzleaf,Darkness,Uncommon,EX Hidden Legends 
+1302,46/101,Rhydon,Fighting,Uncommon,EX Hidden Legends 
+1303,47/101,Sealeo,Water,Uncommon,EX Hidden Legends 
+1304,48/101,Spinda,Colorless,Uncommon,EX Hidden Legends 
+1305,49/101,Starmie,Psychic,Uncommon,EX Hidden Legends 
+1306,50/101,Swalot,Grass,Uncommon,EX Hidden Legends 
+1307,51/101,Tentacruel,Water,Uncommon,EX Hidden Legends 
+1308,52/101,Baltoy,Psychic,Common,EX Hidden Legends 
+1309,53/101,Baltoy,Fighting,Common,EX Hidden Legends 
+1310,54/101,Beldum,Psychic,Common,EX Hidden Legends 
+1311,55/101,Chikorita,Grass,Common,EX Hidden Legends 
+1312,56/101,Chinchou,Lightning,Common,EX Hidden Legends 
+1313,57/101,Chinchou,Lightning,Common,EX Hidden Legends 
+1314,58/101,Clamperl,Water,Common,EX Hidden Legends 
+1315,59/101,Cyndaquil,Fire,Common,EX Hidden Legends 
+1316,60/101,Doduo,Colorless,Common,EX Hidden Legends 
+1317,61/101,Feebas,Water,Common,EX Hidden Legends 
+1318,62/101,Gulpin,Grass,Common,EX Hidden Legends 
+1319,63/101,Jigglypuff,Colorless,Common,EX Hidden Legends 
+1320,64/101,Machop,Fighting,Common,EX Hidden Legends 
+1321,65/101,Meditite,Psychic,Common,EX Hidden Legends 
+1322,66/101,Meditite,Fighting,Common,EX Hidden Legends 
+1323,67/101,Minun,Lightning,Common,EX Hidden Legends 
+1324,68/101,Oddish,Grass,Common,EX Hidden Legends 
+1325,69/101,Plusle,Lightning,Common,EX Hidden Legends 
+1326,70/101,Rhyhorn,Fighting,Common,EX Hidden Legends 
+1327,71/101,Seedot,Grass,Common,EX Hidden Legends 
+1328,72/101,Shuppet,Psychic,Common,EX Hidden Legends 
+1329,73/101,Snorunt,Water,Common,EX Hidden Legends 
+1330,74/101,Spheal,Water,Common,EX Hidden Legends 
+1331,75/101,Staryu,Water,Common,EX Hidden Legends 
+1332,76/101,Surskit,Grass,Common,EX Hidden Legends 
+1333,77/101,Tentacool,Water,Common,EX Hidden Legends 
+1334,78/101,Togepi,Colorless,Common,EX Hidden Legends 
+1335,79/101,Totodile,Water,Common,EX Hidden Legends 
+1336,80/101,Voltorb,Lightning,Common,EX Hidden Legends 
+1337,81/101,Vulpix,Fire,Common,EX Hidden Legends 
+1338,82/101,Whismur,Colorless,Common,EX Hidden Legends 
+1339,83/101,Zubat,Grass,Common,EX Hidden Legends 
+1340,84/101,Ancient Technical Machine [Ice],T [TM],Uncommon,EX Hidden Legends 
+1341,85/101,Ancient Technical Machine [Rock],T [TM],Uncommon,EX Hidden Legends 
+1342,86/101,Ancient Technical Machine [Steel],T [TM],Uncommon,EX Hidden Legends 
+1343,87/101,Ancient Tomb,T [St],Uncommon,EX Hidden Legends 
+1344,88/101,Desert Ruins,T [St],Uncommon,EX Hidden Legends 
+1345,89/101,Island Cave,T [St],Uncommon,EX Hidden Legends 
+1346,90/101,Life Herb,T,Uncommon,EX Hidden Legends 
+1347,91/101,Magnetic Storm,T [St],Uncommon,EX Hidden Legends 
+1348,92/101,Steven's Advice,T [Su],Uncommon,EX Hidden Legends 
+1349,93/101,Groudon ex,Fighting,Rare Holo ex,EX Hidden Legends 
+1350,94/101,Kyogre ex,Water,Rare Holo ex,EX Hidden Legends 
+1351,95/101,Metagross ex,Metal,Rare Holo ex,EX Hidden Legends 
+1352,96/101,Ninetales ex,Fire,Rare Holo ex,EX Hidden Legends 
+1353,97/101,Regice ex,Water,Rare Holo ex,EX Hidden Legends 
+1354,98/101,Regirock ex,Fighting,Rare Holo ex,EX Hidden Legends 
+1355,99/101,Registeel ex,Metal,Rare Holo ex,EX Hidden Legends 
+1356,100/101,Vileplume ex,Grass,Rare Holo ex,EX Hidden Legends 
+1357,101/101,Wigglytuff ex,Colorless,Rare Holo ex,EX Hidden Legends 
+1358,102/101,Groudon,Fighting,NULL,EX Hidden Legends 
+1359,1/112,Beedrill,Grass,Rare Holo,EX FireRed & LeafGreen 
+1360,2/112,Butterfree,Grass,Rare Holo,EX FireRed & LeafGreen 
+1361,3/112,Dewgong,Water,Rare Holo,EX FireRed & LeafGreen 
+1362,4/112,Ditto,Colorless,Rare Holo,EX FireRed & LeafGreen 
+1363,5/112,Exeggutor,Psychic,Rare Holo,EX FireRed & LeafGreen 
+1364,6/112,Kangaskhan,Colorless,Rare Holo,EX FireRed & LeafGreen 
+1365,7/112,Marowak,Fighting,Rare Holo,EX FireRed & LeafGreen 
+1366,8/112,Nidoking,Fighting,Rare Holo,EX FireRed & LeafGreen 
+1367,9/112,Nidoqueen,Fighting,Rare Holo,EX FireRed & LeafGreen 
+1368,10/112,Pidgeot,Colorless,Rare Holo,EX FireRed & LeafGreen 
+1369,11/112,Poliwrath,Water,Rare Holo,EX FireRed & LeafGreen 
+1370,12/112,Raichu,Lightning,Rare Holo,EX FireRed & LeafGreen 
+1371,13/112,Rapidash,Fire,Rare Holo,EX FireRed & LeafGreen 
+1372,14/112,Slowbro,Psychic,Rare Holo,EX FireRed & LeafGreen 
+1373,15/112,Snorlax,Colorless,Rare Holo,EX FireRed & LeafGreen 
+1374,16/112,Tauros,Colorless,Rare Holo,EX FireRed & LeafGreen 
+1375,17/112,Victreebel,Grass,Rare Holo,EX FireRed & LeafGreen 
+1376,18/112,Arcanine,Fire,Rare,EX FireRed & LeafGreen 
+1377,19/112,Chansey,Colorless,Rare,EX FireRed & LeafGreen 
+1378,20/112,Cloyster,Water,Rare,EX FireRed & LeafGreen 
+1379,21/112,Dodrio,Colorless,Rare,EX FireRed & LeafGreen 
+1380,22/112,Dugtrio,Fighting,Rare,EX FireRed & LeafGreen 
+1381,23/112,Farfetch'd,Colorless,Rare,EX FireRed & LeafGreen 
+1382,24/112,Fearow,Colorless,Rare,EX FireRed & LeafGreen 
+1383,25/112,Hypno,Psychic,Rare,EX FireRed & LeafGreen 
+1384,26/112,Kingler,Water,Rare,EX FireRed & LeafGreen 
+1385,27/112,Magneton,Lightning,Rare,EX FireRed & LeafGreen 
+1386,28/112,Primeape,Fighting,Rare,EX FireRed & LeafGreen 
+1387,29/112,Scyther,Grass,Rare,EX FireRed & LeafGreen 
+1388,30/112,Tangela,Grass,Rare,EX FireRed & LeafGreen 
+1389,31/112,Charmeleon,Fire,Uncommon,EX FireRed & LeafGreen 
+1390,32/112,Drowzee,Psychic,Uncommon,EX FireRed & LeafGreen 
+1391,33/112,Exeggcute,Psychic,Uncommon,EX FireRed & LeafGreen 
+1392,34/112,Haunter,Psychic,Uncommon,EX FireRed & LeafGreen 
+1393,35/112,Ivysaur,Grass,Uncommon,EX FireRed & LeafGreen 
+1394,36/112,Kakuna,Grass,Uncommon,EX FireRed & LeafGreen 
+1395,37/112,Lickitung,Colorless,Uncommon,EX FireRed & LeafGreen 
+1396,38/112,Mankey,Fighting,Uncommon,EX FireRed & LeafGreen 
+1397,39/112,Metapod,Grass,Uncommon,EX FireRed & LeafGreen 
+1398,40/112,Nidorina,Grass,Uncommon,EX FireRed & LeafGreen 
+1399,41/112,Nidorino,Grass,Uncommon,EX FireRed & LeafGreen 
+1400,42/112,Onix,Fighting,Uncommon,EX FireRed & LeafGreen 
+1401,43/112,Parasect,Grass,Uncommon,EX FireRed & LeafGreen 
+1402,44/112,Persian,Colorless,Uncommon,EX FireRed & LeafGreen 
+1403,45/112,Pidgeotto,Colorless,Uncommon,EX FireRed & LeafGreen 
+1404,46/112,Poliwhirl,Water,Uncommon,EX FireRed & LeafGreen 
+1405,47/112,Porygon,Colorless,Uncommon,EX FireRed & LeafGreen 
+1406,48/112,Raticate,Colorless,Uncommon,EX FireRed & LeafGreen 
+1407,49/112,Venomoth,Grass,Uncommon,EX FireRed & LeafGreen 
+1408,50/112,Wartortle,Water,Uncommon,EX FireRed & LeafGreen 
+1409,51/112,Weepinbell,Grass,Uncommon,EX FireRed & LeafGreen 
+1410,52/112,Wigglytuff,Colorless,Uncommon,EX FireRed & LeafGreen 
+1411,53/112,Bellsprout,Grass,Common,EX FireRed & LeafGreen 
+1412,54/112,Bulbasaur,Grass,Common,EX FireRed & LeafGreen 
+1413,55/112,Bulbasaur,Grass,Common,EX FireRed & LeafGreen 
+1414,56/112,Caterpie,Grass,Common,EX FireRed & LeafGreen 
+1415,57/112,Charmander,Fire,Common,EX FireRed & LeafGreen 
+1416,58/112,Charmander,Fire,Common,EX FireRed & LeafGreen 
+1417,59/112,Clefairy,Colorless,Common,EX FireRed & LeafGreen 
+1418,60/112,Cubone,Fighting,Common,EX FireRed & LeafGreen 
+1419,61/112,Diglett,Fighting,Common,EX FireRed & LeafGreen 
+1420,62/112,Doduo,Colorless,Common,EX FireRed & LeafGreen 
+1421,63/112,Gastly,Psychic,Common,EX FireRed & LeafGreen 
+1422,64/112,Growlithe,Fire,Common,EX FireRed & LeafGreen 
+1423,65/112,Jigglypuff,Colorless,Common,EX FireRed & LeafGreen 
+1424,66/112,Krabby,Water,Common,EX FireRed & LeafGreen 
+1425,67/112,Magikarp,Water,Common,EX FireRed & LeafGreen 
+1426,68/112,Magnemite,Lightning,Common,EX FireRed & LeafGreen 
+1427,69/112,Meowth,Colorless,Common,EX FireRed & LeafGreen 
+1428,70/112,Nidoran♀,Grass,Common,EX FireRed & LeafGreen 
+1429,71/112,Nidoran♂,Grass,Common,EX FireRed & LeafGreen 
+1430,72/112,Paras,Grass,Common,EX FireRed & LeafGreen 
+1431,73/112,Pidgey,Colorless,Common,EX FireRed & LeafGreen 
+1432,74/112,Pikachu,Lightning,Common,EX FireRed & LeafGreen 
+1433,75/112,Poliwag,Water,Common,EX FireRed & LeafGreen 
+1434,76/112,Ponyta,Fire,Common,EX FireRed & LeafGreen 
+1435,77/112,Rattata,Colorless,Common,EX FireRed & LeafGreen 
+1436,78/112,Seel,Water,Common,EX FireRed & LeafGreen 
+1437,79/112,Shellder,Water,Common,EX FireRed & LeafGreen 
+1438,80/112,Slowpoke,Psychic,Common,EX FireRed & LeafGreen 
+1439,81/112,Spearow,Colorless,Common,EX FireRed & LeafGreen 
+1440,82/112,Squirtle,Water,Common,EX FireRed & LeafGreen 
+1441,83/112,Squirtle,Water,Common,EX FireRed & LeafGreen 
+1442,84/112,Venonat,Grass,Common,EX FireRed & LeafGreen 
+1443,85/112,Voltorb,Lightning,Common,EX FireRed & LeafGreen 
+1444,86/112,Weedle,Grass,Common,EX FireRed & LeafGreen 
+1445,87/112,Bill's Maintenance,T [Su],Uncommon,EX FireRed & LeafGreen 
+1446,88/112,Celio's Network,T [Su],Uncommon,EX FireRed & LeafGreen 
+1447,89/112,Energy Removal 2,T,Uncommon,EX FireRed & LeafGreen 
+1448,90/112,Energy Switch,T,Uncommon,EX FireRed & LeafGreen 
+1449,91/112,EXP.ALL,T [Tool],Uncommon,EX FireRed & LeafGreen 
+1450,92/112,Great Ball,T,Uncommon,EX FireRed & LeafGreen 
+1451,93/112,Life Herb,T,Uncommon,EX FireRed & LeafGreen 
+1452,94/112,Mt. Moon,T [St],Uncommon,EX FireRed & LeafGreen 
+1453,95/112,Poké Ball,T,Uncommon,EX FireRed & LeafGreen 
+1454,96/112,PokéDex HANDY909,T,Uncommon,EX FireRed & LeafGreen 
+1455,97/112,Pokémon Reversal,T,Uncommon,EX FireRed & LeafGreen 
+1456,98/112,Prof. Oak's Research,T [Su],Uncommon,EX FireRed & LeafGreen 
+1457,99/112,Super Scoop Up,T,Uncommon,EX FireRed & LeafGreen 
+1458,100/112,VS Seeker,T,Uncommon,EX FireRed & LeafGreen 
+1459,101/112,Potion,T,Common,EX FireRed & LeafGreen 
+1460,102/112,Switch,T,Common,EX FireRed & LeafGreen 
+1461,103/112,Multi Energy,Rainbow,Rare,EX FireRed & LeafGreen 
+1462,104/112,Blastoise ex,Water,Rare Holo ex,EX FireRed & LeafGreen 
+1463,105/112,Charizard ex,Fire,Rare Holo ex,EX FireRed & LeafGreen 
+1464,106/112,Clefable ex,Colorless,Rare Holo ex,EX FireRed & LeafGreen 
+1465,107/112,Electrode ex,Lightning,Rare Holo ex,EX FireRed & LeafGreen 
+1466,108/112,Gengar ex,Psychic,Rare Holo ex,EX FireRed & LeafGreen 
+1467,109/112,Gyarados ex,Water,Rare Holo ex,EX FireRed & LeafGreen 
+1468,110/112,Mr. Mime ex,Psychic,Rare Holo ex,EX FireRed & LeafGreen 
+1469,111/112,Mr. Mime ex,Psychic,Rare Holo ex,EX FireRed & LeafGreen 
+1470,112/112,Venusaur ex,Grass,Rare Holo ex,EX FireRed & LeafGreen 
+1471,113/112,Charmander,Fire,NULL,EX FireRed & LeafGreen 
+1472,114/112,Articuno ex,Water,NULL,EX FireRed & LeafGreen 
+1473,115/112,Moltres ex,Fire,NULL,EX FireRed & LeafGreen 
+1474,116/112,Zapdos ex,Lightning,NULL,EX FireRed & LeafGreen 
+1475,1/109,Azumarill,Water,Rare Holo,EX Team Rocket Returns 
+1476,2/109,Dark Ampharos,"['Lightning', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1477,3/109,Dark Crobat,"['Grass', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1478,4/109,Dark Electrode,"['Lightning', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1479,5/109,Dark Houndoom,"['Fire', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1480,6/109,Dark Hypno,"['Psychic', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1481,7/109,Dark Marowak,"['Fighting', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1482,8/109,Dark Octillery,"['Water', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1483,9/109,Dark Slowking,"['Psychic', 'Darkness']",Rare Holo,EX Team Rocket Returns 
+1484,10/109,Dark Steelix,"['Darkness', 'Metal']",Rare Holo,EX Team Rocket Returns 
+1485,11/109,Jumpluff,Grass,Rare Holo,EX Team Rocket Returns 
+1486,12/109,Kingdra,Water,Rare Holo,EX Team Rocket Returns 
+1487,13/109,Piloswine,Fighting,Rare Holo,EX Team Rocket Returns 
+1488,14/109,Togetic,Colorless,Rare Holo,EX Team Rocket Returns 
+1489,15/109,Dark Dragonite,Darkness,Rare,EX Team Rocket Returns 
+1490,16/109,Dark Muk,"['Grass', 'Darkness']",Rare,EX Team Rocket Returns 
+1491,17/109,Dark Raticate,Darkness,Rare,EX Team Rocket Returns 
+1492,18/109,Dark Sandslash,"['Fighting', 'Darkness']",Rare,EX Team Rocket Returns 
+1493,19/109,Dark Tyranitar,Darkness,Rare,EX Team Rocket Returns 
+1494,20/109,Dark Tyranitar,"['Fighting', 'Darkness']",Rare,EX Team Rocket Returns 
+1495,21/109,Delibird,Water,Rare,EX Team Rocket Returns 
+1496,22/109,Furret,Colorless,Rare,EX Team Rocket Returns 
+1497,23/109,Ledian,Grass,Rare,EX Team Rocket Returns 
+1498,24/109,Magby,Fire,Rare,EX Team Rocket Returns 
+1499,25/109,Misdreavus,Psychic,Rare,EX Team Rocket Returns 
+1500,26/109,Quagsire,Water,Rare,EX Team Rocket Returns 
+1501,27/109,Qwilfish,Water,Rare,EX Team Rocket Returns 
+1502,28/109,Yanma,Grass,Rare,EX Team Rocket Returns 
+1503,29/109,Dark Arbok,"['Grass', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1504,30/109,Dark Ariados,"['Grass', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1505,31/109,Dark Dragonair,Darkness,Uncommon,EX Team Rocket Returns 
+1506,32/109,Dark Dragonair,Darkness,Uncommon,EX Team Rocket Returns 
+1507,33/109,Dark Flaaffy,"['Lightning', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1508,34/109,Dark Golbat,"['Grass', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1509,35/109,Dark Golduck,"['Water', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1510,36/109,Dark Gyarados,"['Water', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1511,37/109,Dark Houndoom,"['Fire', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1512,38/109,Dark Magcargo,"['Fire', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1513,39/109,Dark Magneton,"['Lightning', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1514,40/109,Dark Pupitar,"['Fighting', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1515,41/109,Dark Pupitar,"['Fighting', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1516,42/109,Dark Weezing,"['Grass', 'Darkness']",Uncommon,EX Team Rocket Returns 
+1517,43/109,Heracross,Fighting,Uncommon,EX Team Rocket Returns 
+1518,44/109,Magmar,Fire,Uncommon,EX Team Rocket Returns 
+1519,45/109,Mantine,Water,Uncommon,EX Team Rocket Returns 
+1520,46/109,Rocket's Meowth,Darkness,Uncommon,EX Team Rocket Returns 
+1521,47/109,Rocket's Wobbuffet,Darkness,Uncommon,EX Team Rocket Returns 
+1522,48/109,Seadra,Water,Uncommon,EX Team Rocket Returns 
+1523,49/109,Skiploom,Grass,Uncommon,EX Team Rocket Returns 
+1524,50/109,Togepi,Colorless,Uncommon,EX Team Rocket Returns 
+1525,51/109,Cubone,Fighting,Common,EX Team Rocket Returns 
+1526,52/109,Dratini,Colorless,Common,EX Team Rocket Returns 
+1527,53/109,Dratini,Colorless,Common,EX Team Rocket Returns 
+1528,54/109,Drowzee,Psychic,Common,EX Team Rocket Returns 
+1529,55/109,Ekans,Grass,Common,EX Team Rocket Returns 
+1530,56/109,Grimer,Grass,Common,EX Team Rocket Returns 
+1531,57/109,Hoppip,Grass,Common,EX Team Rocket Returns 
+1532,58/109,Horsea,Water,Common,EX Team Rocket Returns 
+1533,59/109,Houndour,Fire,Common,EX Team Rocket Returns 
+1534,60/109,Houndour,Fire,Common,EX Team Rocket Returns 
+1535,61/109,Koffing,Grass,Common,EX Team Rocket Returns 
+1536,62/109,Larvitar,Fighting,Common,EX Team Rocket Returns 
+1537,63/109,Larvitar,Fighting,Common,EX Team Rocket Returns 
+1538,64/109,Ledyba,Grass,Common,EX Team Rocket Returns 
+1539,65/109,Magikarp,Water,Common,EX Team Rocket Returns 
+1540,66/109,Magnemite,Lightning,Common,EX Team Rocket Returns 
+1541,67/109,Mareep,Lightning,Common,EX Team Rocket Returns 
+1542,68/109,Marill,Water,Common,EX Team Rocket Returns 
+1543,69/109,Onix,Fighting,Common,EX Team Rocket Returns 
+1544,70/109,Psyduck,Water,Common,EX Team Rocket Returns 
+1545,71/109,Rattata,Colorless,Common,EX Team Rocket Returns 
+1546,72/109,Rattata,Colorless,Common,EX Team Rocket Returns 
+1547,73/109,Remoraid,Water,Common,EX Team Rocket Returns 
+1548,74/109,Sandshrew,Fighting,Common,EX Team Rocket Returns 
+1549,75/109,Sentret,Colorless,Common,EX Team Rocket Returns 
+1550,76/109,Slowpoke,Psychic,Common,EX Team Rocket Returns 
+1551,77/109,Slugma,Fire,Common,EX Team Rocket Returns 
+1552,78/109,Spinarak,Grass,Common,EX Team Rocket Returns 
+1553,79/109,Swinub,Fighting,Common,EX Team Rocket Returns 
+1554,80/109,Voltorb,Lightning,Common,EX Team Rocket Returns 
+1555,81/109,Wooper,Water,Common,EX Team Rocket Returns 
+1556,82/109,Zubat,Grass,Common,EX Team Rocket Returns 
+1557,83/109,Copycat,T [Su],Uncommon,EX Team Rocket Returns 
+1558,84/109,Pokémon Retriever,T [R],Uncommon,EX Team Rocket Returns 
+1559,85/109,Pow! Hand Extension,T [R],Uncommon,EX Team Rocket Returns 
+1560,86/109,Rocket's Admin.,T [Su],Uncommon,EX Team Rocket Returns 
+1561,87/109,Rocket's Hideout,T [St],Uncommon,EX Team Rocket Returns 
+1562,88/109,Rocket's Mission,T [Su],Uncommon,EX Team Rocket Returns 
+1563,89/109,Rocket's Poké Ball,T,Uncommon,EX Team Rocket Returns 
+1564,90/109,Rocket's Tricky Gym,T [St],Uncommon,EX Team Rocket Returns 
+1565,91/109,Surprise! Time Machine,T [R],Uncommon,EX Team Rocket Returns 
+1566,92/109,Swoop! Teleporter,T [R],Uncommon,EX Team Rocket Returns 
+1567,93/109,Venture Bomb,T [R],Uncommon,EX Team Rocket Returns 
+1568,94/109,Dark Metal Energy,Darkness,Uncommon,EX Team Rocket Returns 
+1569,95/109,R Energy,Darkness,Uncommon,EX Team Rocket Returns 
+1570,96/109,Rocket's Articuno ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1571,97/109,Rocket's Entei ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1572,98/109,Rocket's Hitmonchan ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1573,99/109,Rocket's Mewtwo ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1574,100/109,Rocket's Moltres ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1575,101/109,Rocket's Scizor ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1576,102/109,Rocket's Scyther ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1577,103/109,Rocket's Sneasel ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1578,104/109,Rocket's Snorlax ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1579,105/109,Rocket's Suicune ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1580,106/109,Rocket's Zapdos ex,Darkness,Rare Holo ex,EX Team Rocket Returns 
+1581,107/109,Mudkip,Water,ShinyRare Holo,EX Team Rocket Returns 
+1582,108/109,Torchic,Fire,ShinyRare Holo,EX Team Rocket Returns 
+1583,109/109,Treecko,Grass,ShinyRare Holo,EX Team Rocket Returns 
+1584,110/109,Charmeleon,Fire,NULL,EX Team Rocket Returns 
+1585,111/109,Here Comes Team Rocket!,T [Su],NULL,EX Team Rocket Returns 
+1586,1/107,Altaria,Colorless,Rare Holo,EX Deoxys 
+1587,2/107,Beautifly,Grass,Rare Holo,EX Deoxys 
+1588,3/107,Breloom,Fighting,Rare Holo,EX Deoxys 
+1589,4/107,Camerupt,Fire,Rare Holo,EX Deoxys 
+1590,5/107,Claydol,Fighting,Rare Holo,EX Deoxys 
+1591,6/107,Crawdaunt,Darkness,Rare Holo,EX Deoxys 
+1592,7/107,Dusclops,Psychic,Rare Holo,EX Deoxys 
+1593,8/107,Gyarados,Water,Rare Holo,EX Deoxys 
+1594,9/107,Jirachi,Metal,Rare Holo,EX Deoxys 
+1595,10/107,Ludicolo,Water,Rare Holo,EX Deoxys 
+1596,11/107,Metagross,Psychic,Rare Holo,EX Deoxys 
+1597,12/107,Mightyena,Darkness,Rare Holo,EX Deoxys 
+1598,13/107,Ninjask,Grass,Rare Holo,EX Deoxys 
+1599,14/107,Shedinja,Psychic,Rare Holo,EX Deoxys 
+1600,15/107,Slaking,Colorless,Rare Holo,EX Deoxys 
+1601,16/107,Deoxys,Psychic,Rare,EX Deoxys 
+1602,17/107,Deoxys,Psychic,Rare,EX Deoxys 
+1603,18/107,Deoxys,Psychic,Rare,EX Deoxys 
+1604,19/107,Ludicolo,Water,Rare,EX Deoxys 
+1605,20/107,Magcargo,Fire,Rare,EX Deoxys 
+1606,21/107,Pelipper,Water,Rare,EX Deoxys 
+1607,22/107,Rayquaza,Colorless,Rare,EX Deoxys 
+1608,23/107,Sableye,Darkness,Rare,EX Deoxys 
+1609,24/107,Seaking,Water,Rare,EX Deoxys 
+1610,25/107,Shiftry,Grass,Rare,EX Deoxys 
+1611,26/107,Skarmory,Metal,Rare,EX Deoxys 
+1612,27/107,Tropius,Grass,Rare,EX Deoxys 
+1613,28/107,Whiscash,Fighting,Rare,EX Deoxys 
+1614,29/107,Xatu,Psychic,Rare,EX Deoxys 
+1615,30/107,Donphan,Fighting,Uncommon,EX Deoxys 
+1616,31/107,Golbat,Grass,Uncommon,EX Deoxys 
+1617,32/107,Grumpig,Psychic,Uncommon,EX Deoxys 
+1618,33/107,Lombre,Water,Uncommon,EX Deoxys 
+1619,34/107,Lombre,Water,Uncommon,EX Deoxys 
+1620,35/107,Lotad,Water,Uncommon,EX Deoxys 
+1621,36/107,Lunatone,Fighting,Uncommon,EX Deoxys 
+1622,37/107,Magcargo,Fire,Uncommon,EX Deoxys 
+1623,38/107,Manectric,Lightning,Uncommon,EX Deoxys 
+1624,39/107,Masquerain,Grass,Uncommon,EX Deoxys 
+1625,40/107,Metang,Psychic,Uncommon,EX Deoxys 
+1626,41/107,Minun,Lightning,Uncommon,EX Deoxys 
+1627,42/107,Nosepass,Fighting,Uncommon,EX Deoxys 
+1628,43/107,Nuzleaf,Grass,Uncommon,EX Deoxys 
+1629,44/107,Plusle,Lightning,Uncommon,EX Deoxys 
+1630,45/107,Shelgon,Colorless,Uncommon,EX Deoxys 
+1631,46/107,Silcoon,Grass,Uncommon,EX Deoxys 
+1632,47/107,Solrock,Psychic,Uncommon,EX Deoxys 
+1633,48/107,Starmie,Water,Uncommon,EX Deoxys 
+1634,49/107,Swellow,Colorless,Uncommon,EX Deoxys 
+1635,50/107,Vigoroth,Colorless,Uncommon,EX Deoxys 
+1636,51/107,Weezing,Grass,Uncommon,EX Deoxys 
+1637,52/107,Bagon,Colorless,Common,EX Deoxys 
+1638,53/107,Baltoy,Fighting,Common,EX Deoxys 
+1639,54/107,Barboach,Water,Common,EX Deoxys 
+1640,55/107,Beldum,Psychic,Common,EX Deoxys 
+1641,56/107,Carvanha,Darkness,Common,EX Deoxys 
+1642,57/107,Corphish,Water,Common,EX Deoxys 
+1643,58/107,Duskull,Psychic,Common,EX Deoxys 
+1644,59/107,Electrike,Lightning,Common,EX Deoxys 
+1645,60/107,Electrike,Lightning,Common,EX Deoxys 
+1646,61/107,Goldeen,Water,Common,EX Deoxys 
+1647,62/107,Koffing,Grass,Common,EX Deoxys 
+1648,63/107,Lotad,Water,Common,EX Deoxys 
+1649,64/107,Magikarp,Water,Common,EX Deoxys 
+1650,65/107,Makuhita,Fighting,Common,EX Deoxys 
+1651,66/107,Natu,Psychic,Common,EX Deoxys 
+1652,67/107,Nincada,Grass,Common,EX Deoxys 
+1653,68/107,Numel,Fire,Common,EX Deoxys 
+1654,69/107,Phanpy,Fighting,Common,EX Deoxys 
+1655,70/107,Poochyena,Darkness,Common,EX Deoxys 
+1656,71/107,Seedot,Grass,Common,EX Deoxys 
+1657,72/107,Shroomish,Grass,Common,EX Deoxys 
+1658,73/107,Slakoth,Colorless,Common,EX Deoxys 
+1659,74/107,Slugma,Fire,Common,EX Deoxys 
+1660,75/107,Slugma,Fire,Common,EX Deoxys 
+1661,76/107,Spoink,Psychic,Common,EX Deoxys 
+1662,77/107,Staryu,Water,Common,EX Deoxys 
+1663,78/107,Surskit,Grass,Common,EX Deoxys 
+1664,79/107,Swablu,Colorless,Common,EX Deoxys 
+1665,80/107,Taillow,Colorless,Common,EX Deoxys 
+1666,81/107,Wingull,Water,Common,EX Deoxys 
+1667,82/107,Wurmple,Grass,Common,EX Deoxys 
+1668,83/107,Zubat,Grass,Common,EX Deoxys 
+1669,84/107,Balloon Berry,T [Tool],Uncommon,EX Deoxys 
+1670,85/107,Crystal Shard,T [Tool],Uncommon,EX Deoxys 
+1671,86/107,Energy Charge,T,Uncommon,EX Deoxys 
+1672,87/107,Lady Outing,T [Su],Uncommon,EX Deoxys 
+1673,88/107,Master Ball,T,Uncommon,EX Deoxys 
+1674,89/107,Meteor Falls,T [St],Uncommon,EX Deoxys 
+1675,90/107,Professor Cozmo's Discovery,T [Su],Uncommon,EX Deoxys 
+1676,91/107,Space Center,T [St],Uncommon,EX Deoxys 
+1677,92/107,Strength Charm,T [Tool],Uncommon,EX Deoxys 
+1678,93/107,Boost Energy,Colorless,Uncommon,EX Deoxys 
+1679,94/107,Heal Energy,Colorless,Uncommon,EX Deoxys 
+1680,95/107,Scramble Energy,Colorless,Uncommon,EX Deoxys 
+1681,96/107,Crobat ex,Grass,Rare Holo ex,EX Deoxys 
+1682,97/107,Deoxys ex,Psychic,Rare Holo ex,EX Deoxys 
+1683,98/107,Deoxys ex,Psychic,Rare Holo ex,EX Deoxys 
+1684,99/107,Deoxys ex,Psychic,Rare Holo ex,EX Deoxys 
+1685,100/107,Hariyama ex,Fighting,Rare Holo ex,EX Deoxys 
+1686,101/107,Manectric ex,Lightning,Rare Holo ex,EX Deoxys 
+1687,102/107,Rayquaza ex,Colorless,Rare Holo ex,EX Deoxys 
+1688,103/107,Salamence ex,Colorless,Rare Holo ex,EX Deoxys 
+1689,104/107,Sharpedo ex,Darkness,Rare Holo ex,EX Deoxys 
+1690,105/107,Latias,Colorless,ShinyRare Holo,EX Deoxys 
+1691,106/107,Latios,Colorless,ShinyRare Holo,EX Deoxys 
+1692,107/107,Rayquaza,Colorless,ShinyRare Holo,EX Deoxys 
+1693,108/107,Rocket's Raikou ex,Darkness,NULL,EX Deoxys 
+1694,1/115,Ampharos,Lightning,Rare Holo,EX Unseen Forces 
+1695,2/115,Ariados,Grass,Rare Holo,EX Unseen Forces 
+1696,3/115,Bellossom,Grass,Rare Holo,EX Unseen Forces 
+1697,4/115,Feraligatr,Water,Rare Holo,EX Unseen Forces 
+1698,5/115,Flareon,Fire,Rare Holo,EX Unseen Forces 
+1699,6/115,Forretress,Metal,Rare Holo,EX Unseen Forces 
+1700,7/115,Houndoom,Fire,Rare Holo,EX Unseen Forces 
+1701,8/115,Jolteon,Lightning,Rare Holo,EX Unseen Forces 
+1702,9/115,Meganium,Grass,Rare Holo,EX Unseen Forces 
+1703,10/115,Octillery,Water,Rare Holo,EX Unseen Forces 
+1704,11/115,Poliwrath,Fighting,Rare Holo,EX Unseen Forces 
+1705,12/115,Porygon2,Colorless,Rare Holo,EX Unseen Forces 
+1706,13/115,Slowbro,Water,Rare Holo,EX Unseen Forces 
+1707,14/115,Slowking,Psychic,Rare Holo,EX Unseen Forces 
+1708,15/115,Sudowoodo,Fighting,Rare Holo,EX Unseen Forces 
+1709,16/115,Sunflora,Grass,Rare Holo,EX Unseen Forces 
+1710,17/115,Typhlosion,Fire,Rare Holo,EX Unseen Forces 
+1711,18/115,Ursaring,Colorless,Rare Holo,EX Unseen Forces 
+1712,19/115,Vaporeon,Water,Rare Holo,EX Unseen Forces 
+1713,20/115,Chansey,Colorless,Rare,EX Unseen Forces 
+1714,21/115,Cleffa,Colorless,Rare,EX Unseen Forces 
+1715,22/115,Electabuzz,Lightning,Rare,EX Unseen Forces 
+1716,23/115,Elekid,Lightning,Rare,EX Unseen Forces 
+1717,24/115,Hitmonchan,Fighting,Rare,EX Unseen Forces 
+1718,25/115,Hitmonlee,Fighting,Rare,EX Unseen Forces 
+1719,26/115,Hitmontop,Fighting,Rare,EX Unseen Forces 
+1720,27/115,Ho-Oh,Fire,Rare,EX Unseen Forces 
+1721,28/115,Jynx,Water,Rare,EX Unseen Forces 
+1722,29/115,Lugia,Psychic,Rare,EX Unseen Forces 
+1723,30/115,Murkrow,Darkness,Rare,EX Unseen Forces 
+1724,31/115,Smoochum,Water,Rare,EX Unseen Forces 
+1725,32/115,Stantler,Colorless,Rare,EX Unseen Forces 
+1726,33/115,Tyrogue,Fighting,Rare,EX Unseen Forces 
+1727,34/115,Aipom,Colorless,Uncommon,EX Unseen Forces 
+1728,35/115,Bayleef,Grass,Uncommon,EX Unseen Forces 
+1729,36/115,Clefable,Colorless,Uncommon,EX Unseen Forces 
+1730,37/115,Corsola,Water,Uncommon,EX Unseen Forces 
+1731,38/115,Croconaw,Water,Uncommon,EX Unseen Forces 
+1732,39/115,Granbull,Colorless,Uncommon,EX Unseen Forces 
+1733,40/115,Lanturn,Lightning,Uncommon,EX Unseen Forces 
+1734,41/115,Magcargo,Fire,Uncommon,EX Unseen Forces 
+1735,42/115,Miltank,Colorless,Uncommon,EX Unseen Forces 
+1736,43/115,Noctowl,Colorless,Uncommon,EX Unseen Forces 
+1737,44/115,Quagsire,Fighting,Uncommon,EX Unseen Forces 
+1738,45/115,Quilava,Fire,Uncommon,EX Unseen Forces 
+1739,46/115,Scyther,Grass,Uncommon,EX Unseen Forces 
+1740,47/115,Shuckle,Grass,Uncommon,EX Unseen Forces 
+1741,48/115,Smeargle,Colorless,Uncommon,EX Unseen Forces 
+1742,49/115,Xatu,Psychic,Uncommon,EX Unseen Forces 
+1743,50/115,Yanma,Grass,Uncommon,EX Unseen Forces 
+1744,51/115,Chikorita,Grass,Common,EX Unseen Forces 
+1745,52/115,Chinchou,Lightning,Common,EX Unseen Forces 
+1746,53/115,Clefairy,Colorless,Common,EX Unseen Forces 
+1747,54/115,Cyndaquil,Fire,Common,EX Unseen Forces 
+1748,55/115,Eevee,Colorless,Common,EX Unseen Forces 
+1749,56/115,Flaaffy,Lightning,Common,EX Unseen Forces 
+1750,57/115,Gligar,Fighting,Common,EX Unseen Forces 
+1751,58/115,Gloom,Grass,Common,EX Unseen Forces 
+1752,59/115,Hoothoot,Colorless,Common,EX Unseen Forces 
+1753,60/115,Houndour,Fire,Common,EX Unseen Forces 
+1754,61/115,Larvitar,Fighting,Common,EX Unseen Forces 
+1755,62/115,Mareep,Lightning,Common,EX Unseen Forces 
+1756,63/115,Natu,Psychic,Common,EX Unseen Forces 
+1757,64/115,Oddish,Grass,Common,EX Unseen Forces 
+1758,65/115,Onix,Fighting,Common,EX Unseen Forces 
+1759,66/115,Pineco,Grass,Common,EX Unseen Forces 
+1760,67/115,Poliwag,Water,Common,EX Unseen Forces 
+1761,68/115,Poliwhirl,Water,Common,EX Unseen Forces 
+1762,69/115,Porygon,Colorless,Common,EX Unseen Forces 
+1763,70/115,Pupitar,Fighting,Common,EX Unseen Forces 
+1764,71/115,Remoraid,Water,Common,EX Unseen Forces 
+1765,72/115,Slowpoke,Psychic,Common,EX Unseen Forces 
+1766,73/115,Slugma,Fire,Common,EX Unseen Forces 
+1767,74/115,Snubbull,Colorless,Common,EX Unseen Forces 
+1768,75/115,Spinarak,Grass,Common,EX Unseen Forces 
+1769,76/115,Sunkern,Grass,Common,EX Unseen Forces 
+1770,77/115,Teddiursa,Colorless,Common,EX Unseen Forces 
+1771,78/115,Totodile,Water,Common,EX Unseen Forces 
+1772,79/115,Wooper,Fighting,Common,EX Unseen Forces 
+1773,80/115,Curse Powder,T [Tool],Uncommon,EX Unseen Forces 
+1774,81/115,Energy Recycle System,T,Uncommon,EX Unseen Forces 
+1775,82/115,Energy Removal 2,T,Uncommon,EX Unseen Forces 
+1776,83/115,Energy Root,T [Tool],Uncommon,EX Unseen Forces 
+1777,84/115,Energy Switch,T,Uncommon,EX Unseen Forces 
+1778,85/115,Fluffy Berry,T [Tool],Uncommon,EX Unseen Forces 
+1779,86/115,Mary's Request,T [Su],Uncommon,EX Unseen Forces 
+1780,87/115,Poké Ball,T,Uncommon,EX Unseen Forces 
+1781,88/115,Pokémon Reversal,T,Uncommon,EX Unseen Forces 
+1782,89/115,Professor Elm's Training Method,T [Su],Uncommon,EX Unseen Forces 
+1783,90/115,Protective Orb,T [Tool],Uncommon,EX Unseen Forces 
+1784,91/115,Sitrus Berry,T [Tool],Uncommon,EX Unseen Forces 
+1785,92/115,Solid Rage,T [Tool],Uncommon,EX Unseen Forces 
+1786,93/115,Warp Point,T,Uncommon,EX Unseen Forces 
+1787,94/115,Energy Search,T,Common,EX Unseen Forces 
+1788,95/115,Potion,T,Common,EX Unseen Forces 
+1789,96/115,Darkness Energy,Darkness,Rare,EX Unseen Forces 
+1790,97/115,Metal Energy,Metal,Rare,EX Unseen Forces 
+1791,98/115,Boost Energy,Colorless,Uncommon,EX Unseen Forces 
+1792,99/115,Cyclone Energy,Colorless,Uncommon,EX Unseen Forces 
+1793,100/115,Warp Energy,Colorless,Uncommon,EX Unseen Forces 
+1794,101/115,Blissey ex,Colorless,Rare Holo ex,EX Unseen Forces 
+1795,102/115,Espeon ex,Psychic,Rare Holo ex,EX Unseen Forces 
+1796,103/115,Feraligatr ex,Water,Rare Holo ex,EX Unseen Forces 
+1797,104/115,Ho-Oh ex,Fire,Rare Holo ex,EX Unseen Forces 
+1798,105/115,Lugia ex,Colorless,Rare Holo ex,EX Unseen Forces 
+1799,106/115,Meganium ex,Grass,Rare Holo ex,EX Unseen Forces 
+1800,107/115,Politoed ex,Water,Rare Holo ex,EX Unseen Forces 
+1801,108/115,Scizor ex,Metal,Rare Holo ex,EX Unseen Forces 
+1802,109/115,Steelix ex,Metal,Rare Holo ex,EX Unseen Forces 
+1803,110/115,Typhlosion ex,Fire,Rare Holo ex,EX Unseen Forces 
+1804,111/115,Tyranitar ex,Darkness,Rare Holo ex,EX Unseen Forces 
+1805,112/115,Umbreon ex,Darkness,Rare Holo ex,EX Unseen Forces 
+1806,113/115,Entei,Fire,ShinyRare Holo,EX Unseen Forces 
+1807,114/115,Raikou,Lightning,ShinyRare Holo,EX Unseen Forces 
+1808,115/115,Suicune,Water,ShinyRare Holo,EX Unseen Forces 
+1809,116/115,Rocket's Persian ex,Darkness,NULL,EX Unseen Forces 
+1810,117/115,Celebi ex,Grass,NULL,EX Unseen Forces 
+1811,1/113,Beedrill δ,"['Grass', 'Metal']",Rare Holo,EX Delta Species 
+1812,2/113,Crobat δ,"['Grass', 'Metal']",Rare Holo,EX Delta Species 
+1813,3/113,Dragonite δ,"['Lightning', 'Metal']",Rare Holo,EX Delta Species 
+1814,4/113,Espeon δ,"['Psychic', 'Metal']",Rare Holo,EX Delta Species 
+1815,5/113,Flareon δ,"['Fire', 'Metal']",Rare Holo,EX Delta Species 
+1816,6/113,Gardevoir δ,"['Psychic', 'Metal']",Rare Holo,EX Delta Species 
+1817,7/113,Jolteon δ,"['Lightning', 'Metal']",Rare Holo,EX Delta Species 
+1818,8/113,Latias δ,"['Lightning', 'Metal']",Rare Holo,EX Delta Species 
+1819,9/113,Latios δ,"['Lightning', 'Metal']",Rare Holo,EX Delta Species 
+1820,10/113,Marowak δ,"['Fighting', 'Metal']",Rare Holo,EX Delta Species 
+1821,11/113,Metagross δ,"['Lightning', 'Metal']",Rare Holo,EX Delta Species 
+1822,12/113,Mewtwo δ,"['Fire', 'Metal']",Rare Holo,EX Delta Species 
+1823,13/113,Rayquaza δ,"['Lightning', 'Metal']",Rare Holo,EX Delta Species 
+1824,14/113,Salamence δ,"['Fire', 'Metal']",Rare Holo,EX Delta Species 
+1825,15/113,Starmie δ,"['Water', 'Metal']",Rare Holo,EX Delta Species 
+1826,16/113,Tyranitar δ,"['Fire', 'Metal']",Rare Holo,EX Delta Species 
+1827,17/113,Umbreon δ,"['Darkness', 'Metal']",Rare Holo,EX Delta Species 
+1828,18/113,Vaporeon δ,"['Water', 'Metal']",Rare Holo,EX Delta Species 
+1829,19/113,Azumarill δ,"['Water', 'Metal']",Rare,EX Delta Species 
+1830,20/113,Azurill,Colorless,Rare,EX Delta Species 
+1831,21/113,Holon's Electrode,Lightning,Rare,EX Delta Species 
+1832,22/113,Holon's Magneton,Metal,Rare,EX Delta Species 
+1833,23/113,Hypno,Psychic,Rare,EX Delta Species 
+1834,24/113,Mightyena δ,"['Darkness', 'Metal']",Rare,EX Delta Species 
+1835,25/113,Porygon2,Colorless,Rare,EX Delta Species 
+1836,26/113,Rain Castform,Water,Rare,EX Delta Species 
+1837,27/113,Sandslash δ,"['Fighting', 'Metal']",Rare,EX Delta Species 
+1838,28/113,Slowking,Water,Rare,EX Delta Species 
+1839,29/113,Snow-cloud Castform,Water,Rare,EX Delta Species 
+1840,30/113,Starmie δ,"['Water', 'Metal']",Rare,EX Delta Species 
+1841,31/113,Sunny Castform,Fire,Rare,EX Delta Species 
+1842,32/113,Swellow,Colorless,Rare,EX Delta Species 
+1843,33/113,Weezing,Grass,Rare,EX Delta Species 
+1844,34/113,Castform,Colorless,Uncommon,EX Delta Species 
+1845,35/113,Ditto,Colorless,Uncommon,EX Delta Species 
+1846,36/113,Ditto,Grass,Uncommon,EX Delta Species 
+1847,37/113,Ditto,Fire,Uncommon,EX Delta Species 
+1848,38/113,Ditto,Psychic,Uncommon,EX Delta Species 
+1849,39/113,Ditto,Lightning,Uncommon,EX Delta Species 
+1850,40/113,Ditto,Water,Uncommon,EX Delta Species 
+1851,41/113,Dragonair δ,Lightning,Uncommon,EX Delta Species 
+1852,42/113,Dragonair δ,Lightning,Uncommon,EX Delta Species 
+1853,43/113,Golbat,Grass,Uncommon,EX Delta Species 
+1854,44/113,Hariyama,Fighting,Uncommon,EX Delta Species 
+1855,45/113,Illumise,Grass,Uncommon,EX Delta Species 
+1856,46/113,Kakuna,Grass,Uncommon,EX Delta Species 
+1857,47/113,Kirlia,Psychic,Uncommon,EX Delta Species 
+1858,48/113,Magneton,Lightning,Uncommon,EX Delta Species 
+1859,49/113,Metang δ,Lightning,Uncommon,EX Delta Species 
+1860,50/113,Persian,Colorless,Uncommon,EX Delta Species 
+1861,51/113,Pupitar δ,Fire,Uncommon,EX Delta Species 
+1862,52/113,Rapidash,Fire,Uncommon,EX Delta Species 
+1863,53/113,Shelgon δ,Fire,Uncommon,EX Delta Species 
+1864,54/113,Shelgon δ,Fire,Uncommon,EX Delta Species 
+1865,55/113,Skarmory,Metal,Uncommon,EX Delta Species 
+1866,56/113,Volbeat,Grass,Uncommon,EX Delta Species 
+1867,57/113,Bagon δ,Fire,Common,EX Delta Species 
+1868,58/113,Bagon δ,Fire,Common,EX Delta Species 
+1869,59/113,Beldum δ,Lightning,Common,EX Delta Species 
+1870,60/113,Cubone,Fighting,Common,EX Delta Species 
+1871,61/113,Ditto,Fire,Common,EX Delta Species 
+1872,62/113,Ditto,Fighting,Common,EX Delta Species 
+1873,63/113,Ditto,Lightning,Common,EX Delta Species 
+1874,64/113,Ditto,Water,Common,EX Delta Species 
+1875,65/113,Dratini δ,Lightning,Common,EX Delta Species 
+1876,66/113,Dratini δ,Lightning,Common,EX Delta Species 
+1877,67/113,Drowzee,Psychic,Common,EX Delta Species 
+1878,68/113,Eevee δ,Metal,Common,EX Delta Species 
+1879,69/113,Eevee,Colorless,Common,EX Delta Species 
+1880,70/113,Holon's Magnemite,Metal,Common,EX Delta Species 
+1881,71/113,Holon's Voltorb,Lightning,Common,EX Delta Species 
+1882,72/113,Koffing,Grass,Common,EX Delta Species 
+1883,73/113,Larvitar δ,Fire,Common,EX Delta Species 
+1884,74/113,Magnemite,Lightning,Common,EX Delta Species 
+1885,75/113,Makuhita,Fighting,Common,EX Delta Species 
+1886,76/113,Marill,Water,Common,EX Delta Species 
+1887,77/113,Meowth,Colorless,Common,EX Delta Species 
+1888,78/113,Ponyta,Fire,Common,EX Delta Species 
+1889,79/113,Poochyena,Darkness,Common,EX Delta Species 
+1890,80/113,Porygon,Colorless,Common,EX Delta Species 
+1891,81/113,Ralts,Psychic,Common,EX Delta Species 
+1892,82/113,Sandshrew,Fighting,Common,EX Delta Species 
+1893,83/113,Slowpoke,Water,Common,EX Delta Species 
+1894,84/113,Staryu,Water,Common,EX Delta Species 
+1895,85/113,Staryu,Water,Common,EX Delta Species 
+1896,86/113,Taillow,Colorless,Common,EX Delta Species 
+1897,87/113,Weedle,Grass,Common,EX Delta Species 
+1898,88/113,Zubat,Grass,Common,EX Delta Species 
+1899,89/113,Dual Ball,T,Uncommon,EX Delta Species 
+1900,90/113,Great Ball,T,Uncommon,EX Delta Species 
+1901,91/113,Holon Farmer,T [Su],Uncommon,EX Delta Species 
+1902,92/113,Holon Lass,T [Su],Uncommon,EX Delta Species 
+1903,93/113,Holon Mentor,T [Su],Uncommon,EX Delta Species 
+1904,94/113,Holon Research Tower,T [St],Uncommon,EX Delta Species 
+1905,95/113,Holon Researcher,T [Su],Uncommon,EX Delta Species 
+1906,96/113,Holon Ruins,T [St],Uncommon,EX Delta Species 
+1907,97/113,Holon Scientist,T [Su],Uncommon,EX Delta Species 
+1908,98/113,Holon Transceiver,T,Uncommon,EX Delta Species 
+1909,99/113,Master Ball,T,Uncommon,EX Delta Species 
+1910,100/113,Super Scoop Up,T,Uncommon,EX Delta Species 
+1911,101/113,Potion,T,Common,EX Delta Species 
+1912,102/113,Switch,T,Common,EX Delta Species 
+1913,103/113,Darkness Energy,Darkness,Rare,EX Delta Species 
+1914,104/113,Holon Energy FF,Colorless,Rare,EX Delta Species 
+1915,105/113,Holon Energy GL,Colorless,Rare,EX Delta Species 
+1916,106/113,Holon Energy WP,Colorless,Rare,EX Delta Species 
+1917,107/113,Metal Energy,Metal,Rare,EX Delta Species 
+1918,108/113,Flareon ex,Fire,Rare Holo ex,EX Delta Species 
+1919,109/113,Jolteon ex,Lightning,Rare Holo ex,EX Delta Species 
+1920,110/113,Vaporeon ex,Water,Rare Holo ex,EX Delta Species 
+1921,111/113,Groudon,Fighting,ShinyRare Holo,EX Delta Species 
+1922,112/113,Kyogre,Water,ShinyRare Holo,EX Delta Species 
+1923,113/113,Metagross,Metal,ShinyRare Holo,EX Delta Species 
+1924,114/113,Azumarill,Water,NULL,EX Delta Species 
+1925,1/92,Aerodactyl,Colorless,Rare Holo,EX Legend Maker 
+1926,2/92,Aggron,Metal,Rare Holo,EX Legend Maker 
+1927,3/92,Cradily,Grass,Rare Holo,EX Legend Maker 
+1928,4/92,Delcatty,Colorless,Rare Holo,EX Legend Maker 
+1929,5/92,Gengar,Psychic,Rare Holo,EX Legend Maker 
+1930,6/92,Golem,Fighting,Rare Holo,EX Legend Maker 
+1931,7/92,Kabutops,Fighting,Rare Holo,EX Legend Maker 
+1932,8/92,Lapras,Water,Rare Holo,EX Legend Maker 
+1933,9/92,Machamp,Fighting,Rare Holo,EX Legend Maker 
+1934,10/92,Mew,Psychic,Rare Holo,EX Legend Maker 
+1935,11/92,Muk,Grass,Rare Holo,EX Legend Maker 
+1936,12/92,Shiftry,Darkness,Rare Holo,EX Legend Maker 
+1937,13/92,Victreebel,Grass,Rare Holo,EX Legend Maker 
+1938,14/92,Wailord,Water,Rare Holo,EX Legend Maker 
+1939,15/92,Absol,Darkness,Rare,EX Legend Maker 
+1940,16/92,Girafarig,Psychic,Rare,EX Legend Maker 
+1941,17/92,Gorebyss,Water,Rare,EX Legend Maker 
+1942,18/92,Huntail,Water,Rare,EX Legend Maker 
+1943,19/92,Lanturn,Lightning,Rare,EX Legend Maker 
+1944,20/92,Lunatone,Psychic,Rare,EX Legend Maker 
+1945,21/92,Magmar,Fire,Rare,EX Legend Maker 
+1946,22/92,Magneton,Lightning,Rare,EX Legend Maker 
+1947,23/92,Omastar,Water,Rare,EX Legend Maker 
+1948,24/92,Pinsir,Grass,Rare,EX Legend Maker 
+1949,25/92,Solrock,Fighting,Rare,EX Legend Maker 
+1950,26/92,Spinda,Colorless,Rare,EX Legend Maker 
+1951,27/92,Torkoal,Fire,Rare,EX Legend Maker 
+1952,28/92,Wobbuffet,Psychic,Rare,EX Legend Maker 
+1953,29/92,Anorith,Fighting,Uncommon,EX Legend Maker 
+1954,30/92,Cascoon,Grass,Uncommon,EX Legend Maker 
+1955,31/92,Dunsparce,Colorless,Uncommon,EX Legend Maker 
+1956,32/92,Electrode,Lightning,Uncommon,EX Legend Maker 
+1957,33/92,Furret,Colorless,Uncommon,EX Legend Maker 
+1958,34/92,Graveler,Fighting,Uncommon,EX Legend Maker 
+1959,35/92,Haunter,Psychic,Uncommon,EX Legend Maker 
+1960,36/92,Kabuto,Fighting,Uncommon,EX Legend Maker 
+1961,37/92,Kecleon,Colorless,Uncommon,EX Legend Maker 
+1962,38/92,Lairon,Metal,Uncommon,EX Legend Maker 
+1963,39/92,Machoke,Fighting,Uncommon,EX Legend Maker 
+1964,40/92,Misdreavus,Psychic,Uncommon,EX Legend Maker 
+1965,41/92,Nuzleaf,Darkness,Uncommon,EX Legend Maker 
+1966,42/92,Roselia,Grass,Uncommon,EX Legend Maker 
+1967,43/92,Sealeo,Water,Uncommon,EX Legend Maker 
+1968,44/92,Tangela,Grass,Uncommon,EX Legend Maker 
+1969,45/92,Tentacruel,Water,Uncommon,EX Legend Maker 
+1970,46/92,Vibrava,Colorless,Uncommon,EX Legend Maker 
+1971,47/92,Weepinbell,Grass,Uncommon,EX Legend Maker 
+1972,48/92,Aron,Metal,Common,EX Legend Maker 
+1973,49/92,Bellsprout,Grass,Common,EX Legend Maker 
+1974,50/92,Chinchou,Lightning,Common,EX Legend Maker 
+1975,51/92,Clamperl,Water,Common,EX Legend Maker 
+1976,52/92,Gastly,Psychic,Common,EX Legend Maker 
+1977,53/92,Geodude,Fighting,Common,EX Legend Maker 
+1978,54/92,Grimer,Grass,Common,EX Legend Maker 
+1979,55/92,Growlithe,Fire,Common,EX Legend Maker 
+1980,56/92,Lileep,Grass,Common,EX Legend Maker 
+1981,57/92,Machop,Fighting,Common,EX Legend Maker 
+1982,58/92,Magby,Fire,Common,EX Legend Maker 
+1983,59/92,Magnemite,Lightning,Common,EX Legend Maker 
+1984,60/92,Omanyte,Water,Common,EX Legend Maker 
+1985,61/92,Seedot,Grass,Common,EX Legend Maker 
+1986,62/92,Sentret,Colorless,Common,EX Legend Maker 
+1987,63/92,Shuppet,Psychic,Common,EX Legend Maker 
+1988,64/92,Skitty,Colorless,Common,EX Legend Maker 
+1989,65/92,Spheal,Water,Common,EX Legend Maker 
+1990,66/92,Tentacool,Water,Common,EX Legend Maker 
+1991,67/92,Trapinch,Fighting,Common,EX Legend Maker 
+1992,68/92,Voltorb,Lightning,Common,EX Legend Maker 
+1993,69/92,Wailmer,Water,Common,EX Legend Maker 
+1994,70/92,Wurmple,Grass,Common,EX Legend Maker 
+1995,71/92,Wynaut,Psychic,Common,EX Legend Maker 
+1996,72/92,Cursed Stone,T [St],Uncommon,EX Legend Maker 
+1997,73/92,Fieldworker,T [Su],Uncommon,EX Legend Maker 
+1998,74/92,Full Flame,T [St],Uncommon,EX Legend Maker 
+1999,75/92,Giant Stump,T [St],Uncommon,EX Legend Maker 
+2000,76/92,Power Tree,T [St],Uncommon,EX Legend Maker 
+2001,77/92,Strange Cave,T [St],Uncommon,EX Legend Maker 
+2002,78/92,Claw Fossil,T,Common,EX Legend Maker 
+2003,79/92,Mysterious Fossil,T,Common,EX Legend Maker 
+2004,80/92,Root Fossil,T,Common,EX Legend Maker 
+2005,81/92,Rainbow Energy,Rainbow,Rare,EX Legend Maker 
+2006,82/92,React Energy,Colorless,Uncommon,EX Legend Maker 
+2007,83/92,Arcanine ex,Fire,Rare Holo ex,EX Legend Maker 
+2008,84/92,Armaldo ex,Fighting,Rare Holo ex,EX Legend Maker 
+2009,85/92,Banette ex,Psychic,Rare Holo ex,EX Legend Maker 
+2010,86/92,Dustox ex,Grass,Rare Holo ex,EX Legend Maker 
+2011,87/92,Flygon ex,Colorless,Rare Holo ex,EX Legend Maker 
+2012,88/92,Mew ex,Psychic,Rare Holo ex,EX Legend Maker 
+2013,89/92,Walrein ex,Water,Rare Holo ex,EX Legend Maker 
+2014,90/92,Regice,Water,ShinyRare Holo,EX Legend Maker 
+2015,91/92,Regirock,Fighting,ShinyRare Holo,EX Legend Maker 
+2016,92/92,Registeel,Metal,ShinyRare Holo,EX Legend Maker 
+2017,93/92,Pikachu δ,Metal,NULL,EX Legend Maker 
+2018,1/110,Armaldo δ,"['Fighting', 'Metal']",Rare Holo,EX Holon Phantoms 
+2019,2/110,Cradily δ,"['Darkness', 'Metal']",Rare Holo,EX Holon Phantoms 
+2020,3/110,Deoxys δ,Darkness,Rare Holo,EX Holon Phantoms 
+2021,4/110,Deoxys δ,Metal,Rare Holo,EX Holon Phantoms 
+2022,5/110,Deoxys δ,Colorless,Rare Holo,EX Holon Phantoms 
+2023,6/110,Deoxys δ,Lightning,Rare Holo,EX Holon Phantoms 
+2024,7/110,Flygon δ,"['Grass', 'Metal']",Rare Holo,EX Holon Phantoms 
+2025,8/110,Gyarados δ,"['Lightning', 'Metal']",Rare Holo,EX Holon Phantoms 
+2026,9/110,Kabutops δ,Lightning,Rare Holo,EX Holon Phantoms 
+2027,10/110,Kingdra δ,"['Fire', 'Metal']",Rare Holo,EX Holon Phantoms 
+2028,11/110,Latias δ,Fire,Rare Holo,EX Holon Phantoms 
+2029,12/110,Latios δ,Water,Rare Holo,EX Holon Phantoms 
+2030,13/110,Omastar δ,Psychic,Rare Holo,EX Holon Phantoms 
+2031,14/110,Pidgeot δ,"['Lightning', 'Metal']",Rare Holo,EX Holon Phantoms 
+2032,15/110,Raichu δ,Metal,Rare Holo,EX Holon Phantoms 
+2033,16/110,Rayquaza δ,"['Water', 'Metal']",Rare Holo,EX Holon Phantoms 
+2034,17/110,Vileplume δ,"['Psychic', 'Metal']",Rare Holo,EX Holon Phantoms 
+2035,18/110,Absol,Darkness,Rare,EX Holon Phantoms 
+2036,19/110,Bellossom δ,Water,Rare,EX Holon Phantoms 
+2037,20/110,Blaziken,Fire,Rare,EX Holon Phantoms 
+2038,21/110,Latias δ,Fire,Rare,EX Holon Phantoms 
+2039,22/110,Latios δ,Water,Rare,EX Holon Phantoms 
+2040,23/110,Mawile,Metal,Rare,EX Holon Phantoms 
+2041,24/110,Mewtwo δ,Lightning,Rare,EX Holon Phantoms 
+2042,25/110,Nosepass,Fighting,Rare,EX Holon Phantoms 
+2043,26/110,Rayquaza δ,Fire,Rare,EX Holon Phantoms 
+2044,27/110,Regice,Water,Rare,EX Holon Phantoms 
+2045,28/110,Regirock,Fighting,Rare,EX Holon Phantoms 
+2046,29/110,Registeel,Metal,Rare,EX Holon Phantoms 
+2047,30/110,Relicanth,Water,Rare,EX Holon Phantoms 
+2048,31/110,Sableye,Darkness,Rare,EX Holon Phantoms 
+2049,32/110,Seviper,Grass,Rare,EX Holon Phantoms 
+2050,33/110,Torkoal,Fire,Rare,EX Holon Phantoms 
+2051,34/110,Zangoose,Colorless,Rare,EX Holon Phantoms 
+2052,35/110,Aerodactyl δ,Fire,Uncommon,EX Holon Phantoms 
+2053,36/110,Camerupt,Fire,Uncommon,EX Holon Phantoms 
+2054,37/110,Chimecho δ,Metal,Uncommon,EX Holon Phantoms 
+2055,38/110,Claydol,Psychic,Uncommon,EX Holon Phantoms 
+2056,39/110,Combusken,Fire,Uncommon,EX Holon Phantoms 
+2057,40/110,Donphan,Fighting,Uncommon,EX Holon Phantoms 
+2058,41/110,Exeggutor δ,Fighting,Uncommon,EX Holon Phantoms 
+2059,42/110,Gloom δ,Psychic,Uncommon,EX Holon Phantoms 
+2060,43/110,Golduck δ,Lightning,Uncommon,EX Holon Phantoms 
+2061,44/110,Holon's Castform,Colorless,Uncommon,EX Holon Phantoms 
+2062,45/110,Lairon,Metal,Uncommon,EX Holon Phantoms 
+2063,46/110,Manectric,Lightning,Uncommon,EX Holon Phantoms 
+2064,47/110,Masquerain,Grass,Uncommon,EX Holon Phantoms 
+2065,48/110,Persian δ,"['Darkness', 'Metal']",Uncommon,EX Holon Phantoms 
+2066,49/110,Pidgeotto δ,Lightning,Uncommon,EX Holon Phantoms 
+2067,50/110,Primeape δ,Fire,Uncommon,EX Holon Phantoms 
+2068,51/110,Raichu,Lightning,Uncommon,EX Holon Phantoms 
+2069,52/110,Seadra δ,Fire,Uncommon,EX Holon Phantoms 
+2070,53/110,Sharpedo δ,Fighting,Uncommon,EX Holon Phantoms 
+2071,54/110,Vibrava δ,Grass,Uncommon,EX Holon Phantoms 
+2072,55/110,Whiscash,Fighting,Uncommon,EX Holon Phantoms 
+2073,56/110,Wobbuffet,Psychic,Uncommon,EX Holon Phantoms 
+2074,57/110,Anorith δ,Metal,Common,EX Holon Phantoms 
+2075,58/110,Aron,Metal,Common,EX Holon Phantoms 
+2076,59/110,Baltoy,Psychic,Common,EX Holon Phantoms 
+2077,60/110,Barboach,Fighting,Common,EX Holon Phantoms 
+2078,61/110,Carvanha δ,Fighting,Common,EX Holon Phantoms 
+2079,62/110,Corphish,Water,Common,EX Holon Phantoms 
+2080,63/110,Corphish,Water,Common,EX Holon Phantoms 
+2081,64/110,Electrike,Lightning,Common,EX Holon Phantoms 
+2082,65/110,Exeggcute δ,Fighting,Common,EX Holon Phantoms 
+2083,66/110,Horsea δ,Fire,Common,EX Holon Phantoms 
+2084,67/110,Kabuto δ,Lightning,Common,EX Holon Phantoms 
+2085,68/110,Lileep δ,Darkness,Common,EX Holon Phantoms 
+2086,69/110,Magikarp δ,Metal,Common,EX Holon Phantoms 
+2087,70/110,Mankey δ,Fire,Common,EX Holon Phantoms 
+2088,71/110,Meowth δ,"['Darkness', 'Metal']",Common,EX Holon Phantoms 
+2089,72/110,Numel,Fire,Common,EX Holon Phantoms 
+2090,73/110,Oddish δ,Water,Common,EX Holon Phantoms 
+2091,74/110,Omanyte δ,Psychic,Common,EX Holon Phantoms 
+2092,75/110,Phanpy,Fighting,Common,EX Holon Phantoms 
+2093,76/110,Pichu δ,Metal,Common,EX Holon Phantoms 
+2094,77/110,Pidgey δ,Lightning,Common,EX Holon Phantoms 
+2095,78/110,Pikachu,Lightning,Common,EX Holon Phantoms 
+2096,79/110,Pikachu δ,Metal,Common,EX Holon Phantoms 
+2097,80/110,Poochyena,Darkness,Common,EX Holon Phantoms 
+2098,81/110,Psyduck δ,Lightning,Common,EX Holon Phantoms 
+2099,82/110,Surskit,Grass,Common,EX Holon Phantoms 
+2100,83/110,Torchic,Fire,Common,EX Holon Phantoms 
+2101,84/110,Trapinch δ,Grass,Common,EX Holon Phantoms 
+2102,85/110,Holon Adventurer,T [Su],Uncommon,EX Holon Phantoms 
+2103,86/110,Holon Fossil,T,Uncommon,EX Holon Phantoms 
+2104,87/110,Holon Lake,T [St],Uncommon,EX Holon Phantoms 
+2105,88/110,Mr. Stone's Project,T [Su],Uncommon,EX Holon Phantoms 
+2106,89/110,Professor Cozmo's Discovery,T [Su],Uncommon,EX Holon Phantoms 
+2107,90/110,Rare Candy,T,Uncommon,EX Holon Phantoms 
+2108,91/110,Claw Fossil,T,Common,EX Holon Phantoms 
+2109,92/110,Mysterious Fossil,T,Common,EX Holon Phantoms 
+2110,93/110,Root Fossil,T,Common,EX Holon Phantoms 
+2111,94/110,Darkness Energy,Darkness,Rare,EX Holon Phantoms 
+2112,95/110,Metal Energy,Metal,Rare,EX Holon Phantoms 
+2113,96/110,Multi Energy,Rainbow,Rare,EX Holon Phantoms 
+2114,97/110,Dark Metal Energy,Darkness,Uncommon,EX Holon Phantoms 
+2115,98/110,δ Rainbow Energy,Rainbow,Uncommon,EX Holon Phantoms 
+2116,99/110,Crawdaunt ex,Water,Rare Holo ex,EX Holon Phantoms 
+2117,100/110,Mew ex,Psychic,Rare Holo ex,EX Holon Phantoms 
+2118,101/110,Mightyena ex,Darkness,Rare Holo ex,EX Holon Phantoms 
+2119,102/110,Gyarados,Fire,ShinyRare Holo,EX Holon Phantoms 
+2120,103/110,Mewtwo,Psychic,ShinyRare Holo,EX Holon Phantoms 
+2121,104/110,Pikachu,Lightning,ShinyRare Holo,EX Holon Phantoms 
+2122,105/110,Grass Energy,Grass,Rare Holo,EX Holon Phantoms 
+2123,106/110,Fire Energy,Fire,Rare Holo,EX Holon Phantoms 
+2124,107/110,Water Energy,Water,Rare Holo,EX Holon Phantoms 
+2125,108/110,Lightning Energy,Lightning,Rare Holo,EX Holon Phantoms 
+2126,109/110,Psychic Energy,Psychic,Rare Holo,EX Holon Phantoms 
+2127,110/110,Fighting Energy,Fighting,Rare Holo,EX Holon Phantoms 
+2128,111/110,Mew,Psychic,NULL,EX Holon Phantoms 
+2129,1/100,Banette,Psychic,Rare Holo,EX Crystal Guardians 
+2130,2/100,Blastoise δ,"['Fighting', 'Metal']",Rare Holo,EX Crystal Guardians 
+2131,3/100,Camerupt,Fire,Rare Holo,EX Crystal Guardians 
+2132,4/100,Charizard δ,"['Lightning', 'Metal']",Rare Holo,EX Crystal Guardians 
+2133,5/100,Dugtrio,Fighting,Rare Holo,EX Crystal Guardians 
+2134,6/100,Ludicolo δ,Fire,Rare Holo,EX Crystal Guardians 
+2135,7/100,Luvdisc,Water,Rare Holo,EX Crystal Guardians 
+2136,8/100,Manectric,Lightning,Rare Holo,EX Crystal Guardians 
+2137,9/100,Mawile,Metal,Rare Holo,EX Crystal Guardians 
+2138,10/100,Sableye,Darkness,Rare Holo,EX Crystal Guardians 
+2139,11/100,Swalot,Grass,Rare Holo,EX Crystal Guardians 
+2140,12/100,Tauros,Colorless,Rare Holo,EX Crystal Guardians 
+2141,13/100,Wigglytuff,Colorless,Rare Holo,EX Crystal Guardians 
+2142,14/100,Blastoise,Water,Rare,EX Crystal Guardians 
+2143,15/100,Cacturne δ,Fighting,Rare,EX Crystal Guardians 
+2144,16/100,Combusken,Fighting,Rare,EX Crystal Guardians 
+2145,17/100,Dusclops,Psychic,Rare,EX Crystal Guardians 
+2146,18/100,Fearow δ,Lightning,Rare,EX Crystal Guardians 
+2147,19/100,Grovyle δ,Psychic,Rare,EX Crystal Guardians 
+2148,20/100,Grumpig,Psychic,Rare,EX Crystal Guardians 
+2149,21/100,Igglybuff,Colorless,Rare,EX Crystal Guardians 
+2150,22/100,Kingler δ,"['Fire', 'Metal']",Rare,EX Crystal Guardians 
+2151,23/100,Loudred,Colorless,Rare,EX Crystal Guardians 
+2152,24/100,Marshtomp,Water,Rare,EX Crystal Guardians 
+2153,25/100,Medicham,Fighting,Rare,EX Crystal Guardians 
+2154,26/100,Pelipper δ,Lightning,Rare,EX Crystal Guardians 
+2155,27/100,Swampert,Fighting,Rare,EX Crystal Guardians 
+2156,28/100,Venusaur,Grass,Rare,EX Crystal Guardians 
+2157,29/100,Charmeleon,Fire,Uncommon,EX Crystal Guardians 
+2158,30/100,Charmeleon δ,Lightning,Uncommon,EX Crystal Guardians 
+2159,31/100,Combusken,Fire,Uncommon,EX Crystal Guardians 
+2160,32/100,Grovyle,Grass,Uncommon,EX Crystal Guardians 
+2161,33/100,Gulpin,Grass,Uncommon,EX Crystal Guardians 
+2162,34/100,Ivysaur,Grass,Uncommon,EX Crystal Guardians 
+2163,35/100,Ivysaur,Grass,Uncommon,EX Crystal Guardians 
+2164,36/100,Lairon,Metal,Uncommon,EX Crystal Guardians 
+2165,37/100,Lombre,Water,Uncommon,EX Crystal Guardians 
+2166,38/100,Marshtomp,Fighting,Uncommon,EX Crystal Guardians 
+2167,39/100,Nuzleaf,Darkness,Uncommon,EX Crystal Guardians 
+2168,40/100,Shuppet,Psychic,Uncommon,EX Crystal Guardians 
+2169,41/100,Skitty,Colorless,Uncommon,EX Crystal Guardians 
+2170,42/100,Wartortle,Water,Uncommon,EX Crystal Guardians 
+2171,43/100,Wartortle,Water,Uncommon,EX Crystal Guardians 
+2172,44/100,Aron,Metal,Common,EX Crystal Guardians 
+2173,45/100,Bulbasaur,Grass,Common,EX Crystal Guardians 
+2174,46/100,Bulbasaur,Grass,Common,EX Crystal Guardians 
+2175,47/100,Cacnea,Grass,Common,EX Crystal Guardians 
+2176,48/100,Charmander,Fire,Common,EX Crystal Guardians 
+2177,49/100,Charmander δ,Lightning,Common,EX Crystal Guardians 
+2178,50/100,Diglett,Fighting,Common,EX Crystal Guardians 
+2179,51/100,Duskull,Psychic,Common,EX Crystal Guardians 
+2180,52/100,Electrike,Lightning,Common,EX Crystal Guardians 
+2181,53/100,Jigglypuff,Colorless,Common,EX Crystal Guardians 
+2182,54/100,Krabby,Water,Common,EX Crystal Guardians 
+2183,55/100,Lotad,Water,Common,EX Crystal Guardians 
+2184,56/100,Meditite,Fighting,Common,EX Crystal Guardians 
+2185,57/100,Mudkip,Water,Common,EX Crystal Guardians 
+2186,58/100,Mudkip,Water,Common,EX Crystal Guardians 
+2187,59/100,Numel,Fire,Common,EX Crystal Guardians 
+2188,60/100,Seedot,Grass,Common,EX Crystal Guardians 
+2189,61/100,Spearow,Colorless,Common,EX Crystal Guardians 
+2190,62/100,Spoink,Psychic,Common,EX Crystal Guardians 
+2191,63/100,Squirtle,Water,Common,EX Crystal Guardians 
+2192,64/100,Squirtle,Water,Common,EX Crystal Guardians 
+2193,65/100,Torchic,Fire,Common,EX Crystal Guardians 
+2194,66/100,Torchic,Fire,Common,EX Crystal Guardians 
+2195,67/100,Treecko,Grass,Common,EX Crystal Guardians 
+2196,68/100,Treecko δ,Psychic,Common,EX Crystal Guardians 
+2197,69/100,Whismur,Colorless,Common,EX Crystal Guardians 
+2198,70/100,Wingull,Water,Common,EX Crystal Guardians 
+2199,71/100,Bill's Maintenance,T [Su],Uncommon,EX Crystal Guardians 
+2200,72/100,Castaway,T [Su],Uncommon,EX Crystal Guardians 
+2201,73/100,Celio's Network,T [Su],Uncommon,EX Crystal Guardians 
+2202,74/100,Cessation Crystal,T [Tool],Uncommon,EX Crystal Guardians 
+2203,75/100,Crystal Beach,T [St],Uncommon,EX Crystal Guardians 
+2204,76/100,Crystal Shard,T [Tool],Uncommon,EX Crystal Guardians 
+2205,77/100,Double Full Heal,T,Uncommon,EX Crystal Guardians 
+2206,78/100,Dual Ball,T,Uncommon,EX Crystal Guardians 
+2207,79/100,Holon Circle,T [St],Uncommon,EX Crystal Guardians 
+2208,80/100,Memory Berry,T [Tool],Uncommon,EX Crystal Guardians 
+2209,81/100,Mysterious Shard,T [Tool],Uncommon,EX Crystal Guardians 
+2210,82/100,Poké Ball,T,Uncommon,EX Crystal Guardians 
+2211,83/100,PokéNav,T,Uncommon,EX Crystal Guardians 
+2212,84/100,Warp Point,T,Uncommon,EX Crystal Guardians 
+2213,85/100,Windstorm,T,Uncommon,EX Crystal Guardians 
+2214,86/100,Energy Search,T,Common,EX Crystal Guardians 
+2215,87/100,Potion,T,Common,EX Crystal Guardians 
+2216,88/100,Double Rainbow Energy,Rainbow,Rare,EX Crystal Guardians 
+2217,89/100,Aggron ex,Metal,Rare Holo ex,EX Crystal Guardians 
+2218,90/100,Blaziken ex,Fighting,Rare Holo ex,EX Crystal Guardians 
+2219,91/100,Delcatty ex,Colorless,Rare Holo ex,EX Crystal Guardians 
+2220,92/100,Exploud ex,Colorless,Rare Holo ex,EX Crystal Guardians 
+2221,93/100,Groudon ex,Fighting,Rare Holo ex,EX Crystal Guardians 
+2222,94/100,Jirachi ex,Psychic,Rare Holo ex,EX Crystal Guardians 
+2223,95/100,Kyogre ex,Water,Rare Holo ex,EX Crystal Guardians 
+2224,96/100,Sceptile ex δ,Psychic,Rare Holo ex,EX Crystal Guardians 
+2225,97/100,Shiftry ex,Darkness,Rare Holo ex,EX Crystal Guardians 
+2226,98/100,Swampert ex,Water,Rare Holo ex,EX Crystal Guardians 
+2227,99/100,Alakazam,Psychic,ShinyRare Holo,EX Crystal Guardians 
+2228,100/100,Celebi,Grass,ShinyRare Holo,EX Crystal Guardians 
+2229,1/101,Ampharos δ,Colorless,Rare Holo,EX Dragon Frontiers 
+2230,2/101,Feraligatr δ,Lightning,Rare Holo,EX Dragon Frontiers 
+2231,3/101,Heracross δ,Fire,Rare Holo,EX Dragon Frontiers 
+2232,4/101,Meganium δ,Fighting,Rare Holo,EX Dragon Frontiers 
+2233,5/101,Milotic δ,Fire,Rare Holo,EX Dragon Frontiers 
+2234,6/101,Nidoking δ,Darkness,Rare Holo,EX Dragon Frontiers 
+2235,7/101,Nidoqueen δ,Metal,Rare Holo,EX Dragon Frontiers 
+2236,8/101,Ninetales δ,Psychic,Rare Holo,EX Dragon Frontiers 
+2237,9/101,Pinsir δ,Fighting,Rare Holo,EX Dragon Frontiers 
+2238,10/101,Snorlax δ,Grass,Rare Holo,EX Dragon Frontiers 
+2239,11/101,Togetic δ,Water,Rare Holo,EX Dragon Frontiers 
+2240,12/101,Typhlosion δ,Psychic,Rare Holo,EX Dragon Frontiers 
+2241,13/101,Arbok δ,Fire,Rare,EX Dragon Frontiers 
+2242,14/101,Cloyster δ,Fighting,Rare,EX Dragon Frontiers 
+2243,15/101,Dewgong δ,Colorless,Rare,EX Dragon Frontiers 
+2244,16/101,Gligar δ,Lightning,Rare,EX Dragon Frontiers 
+2245,17/101,Jynx δ,Fire,Rare,EX Dragon Frontiers 
+2246,18/101,Ledian δ,Metal,Rare,EX Dragon Frontiers 
+2247,19/101,Lickitung δ,Psychic,Rare,EX Dragon Frontiers 
+2248,20/101,Mantine δ,Lightning,Rare,EX Dragon Frontiers 
+2249,21/101,Quagsire δ,Grass,Rare,EX Dragon Frontiers 
+2250,22/101,Seadra δ,Fighting,Rare,EX Dragon Frontiers 
+2251,23/101,Tropius δ,Metal,Rare,EX Dragon Frontiers 
+2252,24/101,Vibrava δ,Psychic,Rare,EX Dragon Frontiers 
+2253,25/101,Xatu δ,Darkness,Rare,EX Dragon Frontiers 
+2254,26/101,Bayleef δ,Fighting,Uncommon,EX Dragon Frontiers 
+2255,27/101,Croconaw δ,Lightning,Uncommon,EX Dragon Frontiers 
+2256,28/101,Dragonair δ,Grass,Uncommon,EX Dragon Frontiers 
+2257,29/101,Electabuzz δ,Fighting,Uncommon,EX Dragon Frontiers 
+2258,30/101,Flaaffy δ,Colorless,Uncommon,EX Dragon Frontiers 
+2259,31/101,Horsea δ,Fighting,Uncommon,EX Dragon Frontiers 
+2260,32/101,Kirlia,Psychic,Uncommon,EX Dragon Frontiers 
+2261,33/101,Kirlia δ,Fire,Uncommon,EX Dragon Frontiers 
+2262,34/101,Nidorina δ,Metal,Uncommon,EX Dragon Frontiers 
+2263,35/101,Nidorino δ,Darkness,Uncommon,EX Dragon Frontiers 
+2264,36/101,Quilava δ,Psychic,Uncommon,EX Dragon Frontiers 
+2265,37/101,Seadra δ,Fighting,Uncommon,EX Dragon Frontiers 
+2266,38/101,Shelgon δ,Water,Uncommon,EX Dragon Frontiers 
+2267,39/101,Smeargle δ,Psychic,Uncommon,EX Dragon Frontiers 
+2268,40/101,Swellow δ,Fire,Uncommon,EX Dragon Frontiers 
+2269,41/101,Togepi δ,Water,Uncommon,EX Dragon Frontiers 
+2270,42/101,Vibrava δ,Psychic,Uncommon,EX Dragon Frontiers 
+2271,43/101,Bagon δ,Water,Common,EX Dragon Frontiers 
+2272,44/101,Chikorita δ,Fighting,Common,EX Dragon Frontiers 
+2273,45/101,Cyndaquil δ,Psychic,Common,EX Dragon Frontiers 
+2274,46/101,Dratini δ,Grass,Common,EX Dragon Frontiers 
+2275,47/101,Ekans δ,Fire,Common,EX Dragon Frontiers 
+2276,48/101,Elekid δ,Fighting,Common,EX Dragon Frontiers 
+2277,49/101,Feebas δ,Fire,Common,EX Dragon Frontiers 
+2278,50/101,Horsea δ,Fighting,Common,EX Dragon Frontiers 
+2279,51/101,Larvitar,Fighting,Common,EX Dragon Frontiers 
+2280,52/101,Larvitar δ,Lightning,Common,EX Dragon Frontiers 
+2281,53/101,Ledyba δ,Metal,Common,EX Dragon Frontiers 
+2282,54/101,Mareep δ,Colorless,Common,EX Dragon Frontiers 
+2283,55/101,Natu δ,Darkness,Common,EX Dragon Frontiers 
+2284,56/101,Nidoran♀ δ,Metal,Common,EX Dragon Frontiers 
+2285,57/101,Nidoran♂ δ,Darkness,Common,EX Dragon Frontiers 
+2286,58/101,Pupitar,Fighting,Common,EX Dragon Frontiers 
+2287,59/101,Pupitar δ,Lightning,Common,EX Dragon Frontiers 
+2288,60/101,Ralts,Psychic,Common,EX Dragon Frontiers 
+2289,61/101,Ralts δ,Fire,Common,EX Dragon Frontiers 
+2290,62/101,Seel δ,Colorless,Common,EX Dragon Frontiers 
+2291,63/101,Shellder δ,Fighting,Common,EX Dragon Frontiers 
+2292,64/101,Smoochum δ,Fire,Common,EX Dragon Frontiers 
+2293,65/101,Swablu δ,Water,Common,EX Dragon Frontiers 
+2294,66/101,Taillow δ,Fire,Common,EX Dragon Frontiers 
+2295,67/101,Totodile δ,Lightning,Common,EX Dragon Frontiers 
+2296,68/101,Trapinch δ,Psychic,Common,EX Dragon Frontiers 
+2297,69/101,Trapinch δ,Psychic,Common,EX Dragon Frontiers 
+2298,70/101,Vulpix δ,Psychic,Common,EX Dragon Frontiers 
+2299,71/101,Wooper δ,Grass,Common,EX Dragon Frontiers 
+2300,72/101,Buffer Piece,T [Tool],Uncommon,EX Dragon Frontiers 
+2301,73/101,Copycat,T [Su],Uncommon,EX Dragon Frontiers 
+2302,74/101,Holon Legacy,T [St],Uncommon,EX Dragon Frontiers 
+2303,75/101,Holon Mentor,T [Su],Uncommon,EX Dragon Frontiers 
+2304,76/101,Island Hermit,T [Su],Uncommon,EX Dragon Frontiers 
+2305,77/101,Mr. Stone's Project,T [Su],Uncommon,EX Dragon Frontiers 
+2306,78/101,Old Rod,T,Uncommon,EX Dragon Frontiers 
+2307,79/101,Professor Elm's Training Method,T [Su],Uncommon,EX Dragon Frontiers 
+2308,80/101,Professor Oak's Research,T [Su],Uncommon,EX Dragon Frontiers 
+2309,81/101,Strength Charm,T [Tool],Uncommon,EX Dragon Frontiers 
+2310,82/101,TV Reporter,T [Su],Uncommon,EX Dragon Frontiers 
+2311,83/101,Switch,T,Common,EX Dragon Frontiers 
+2312,84/101,Holon Energy FF,Colorless,Rare,EX Dragon Frontiers 
+2313,85/101,Holon Energy GL,Colorless,Rare,EX Dragon Frontiers 
+2314,86/101,Holon Energy WP,Colorless,Rare,EX Dragon Frontiers 
+2315,87/101,Boost Energy,Colorless,Uncommon,EX Dragon Frontiers 
+2316,88/101,δ Rainbow Energy,Rainbow,Uncommon,EX Dragon Frontiers 
+2317,89/101,Scramble Energy,Colorless,Uncommon,EX Dragon Frontiers 
+2318,90/101,Altaria ex δ,Water,Rare Holo ex,EX Dragon Frontiers 
+2319,91/101,Dragonite ex δ,Grass,Rare Holo ex,EX Dragon Frontiers 
+2320,92/101,Flygon ex δ,Psychic,Rare Holo ex,EX Dragon Frontiers 
+2321,93/101,Gardevoir ex δ,Fire,Rare Holo ex,EX Dragon Frontiers 
+2322,94/101,Kingdra ex δ,Fighting,Rare Holo ex,EX Dragon Frontiers 
+2323,95/101,Latias ex δ,Fire,Rare Holo ex,EX Dragon Frontiers 
+2324,96/101,Latios ex δ,Water,Rare Holo ex,EX Dragon Frontiers 
+2325,97/101,Rayquaza ex δ,Lightning,Rare Holo ex,EX Dragon Frontiers 
+2326,98/101,Salamence ex δ,Water,Rare Holo ex,EX Dragon Frontiers 
+2327,99/101,Tyranitar ex δ,Lightning,Rare Holo ex,EX Dragon Frontiers 
+2328,100/101,Charizard,Darkness,ShinyRare Holo,EX Dragon Frontiers 
+2329,101/101,Mew,Water,ShinyRare Holo,EX Dragon Frontiers 
+2330,1/108,Aggron,Metal,Rare Holo,EX Power Keepers 
+2331,2/108,Altaria,Colorless,Rare Holo,EX Power Keepers 
+2332,3/108,Armaldo,Fighting,Rare Holo,EX Power Keepers 
+2333,4/108,Banette,Psychic,Rare Holo,EX Power Keepers 
+2334,5/108,Blaziken,Fire,Rare Holo,EX Power Keepers 
+2335,6/108,Charizard,Fire,Rare Holo,EX Power Keepers 
+2336,7/108,Cradily,Grass,Rare Holo,EX Power Keepers 
+2337,8/108,Delcatty,Colorless,Rare Holo,EX Power Keepers 
+2338,9/108,Gardevoir,Psychic,Rare Holo,EX Power Keepers 
+2339,10/108,Kabutops,Fighting,Rare Holo,EX Power Keepers 
+2340,11/108,Machamp,Fighting,Rare Holo,EX Power Keepers 
+2341,12/108,Raichu,Lightning,Rare Holo,EX Power Keepers 
+2342,13/108,Slaking,Colorless,Rare Holo,EX Power Keepers 
+2343,14/108,Dusclops,Psychic,Rare,EX Power Keepers 
+2344,15/108,Lanturn,Lightning,Rare,EX Power Keepers 
+2345,16/108,Magneton,Lightning,Rare,EX Power Keepers 
+2346,17/108,Mawile,Metal,Rare,EX Power Keepers 
+2347,18/108,Mightyena,Darkness,Rare,EX Power Keepers 
+2348,19/108,Ninetales,Fire,Rare,EX Power Keepers 
+2349,20/108,Omastar,Water,Rare,EX Power Keepers 
+2350,21/108,Pichu,Lightning,Rare,EX Power Keepers 
+2351,22/108,Sableye,Psychic,Rare,EX Power Keepers 
+2352,23/108,Seviper,Grass,Rare,EX Power Keepers 
+2353,24/108,Wobbuffet,Psychic,Rare,EX Power Keepers 
+2354,25/108,Zangoose,Colorless,Rare,EX Power Keepers 
+2355,26/108,Anorith,Fighting,Uncommon,EX Power Keepers 
+2356,27/108,Cacturne,Darkness,Uncommon,EX Power Keepers 
+2357,28/108,Charmeleon,Fire,Uncommon,EX Power Keepers 
+2358,29/108,Combusken,Fire,Uncommon,EX Power Keepers 
+2359,30/108,Glalie,Water,Uncommon,EX Power Keepers 
+2360,31/108,Kirlia,Psychic,Uncommon,EX Power Keepers 
+2361,32/108,Lairon,Metal,Uncommon,EX Power Keepers 
+2362,33/108,Machoke,Fighting,Uncommon,EX Power Keepers 
+2363,34/108,Medicham,Fighting,Uncommon,EX Power Keepers 
+2364,35/108,Metang,Metal,Uncommon,EX Power Keepers 
+2365,36/108,Nuzleaf,Darkness,Uncommon,EX Power Keepers 
+2366,37/108,Sealeo,Water,Uncommon,EX Power Keepers 
+2367,38/108,Sharpedo,Darkness,Uncommon,EX Power Keepers 
+2368,39/108,Shelgon,Colorless,Uncommon,EX Power Keepers 
+2369,40/108,Vibrava,Colorless,Uncommon,EX Power Keepers 
+2370,41/108,Vigoroth,Colorless,Uncommon,EX Power Keepers 
+2371,42/108,Aron,Metal,Common,EX Power Keepers 
+2372,43/108,Bagon,Colorless,Common,EX Power Keepers 
+2373,44/108,Baltoy,Psychic,Common,EX Power Keepers 
+2374,45/108,Beldum,Metal,Common,EX Power Keepers 
+2375,46/108,Cacnea,Grass,Common,EX Power Keepers 
+2376,47/108,Carvanha,Darkness,Common,EX Power Keepers 
+2377,48/108,Charmander,Fire,Common,EX Power Keepers 
+2378,49/108,Chinchou,Lightning,Common,EX Power Keepers 
+2379,50/108,Duskull,Psychic,Common,EX Power Keepers 
+2380,51/108,Kabuto,Fighting,Common,EX Power Keepers 
+2381,52/108,Lileep,Grass,Common,EX Power Keepers 
+2382,53/108,Machop,Fighting,Common,EX Power Keepers 
+2383,54/108,Magnemite,Lightning,Common,EX Power Keepers 
+2384,55/108,Meditite,Fighting,Common,EX Power Keepers 
+2385,56/108,Omanyte,Water,Common,EX Power Keepers 
+2386,57/108,Pikachu,Lightning,Common,EX Power Keepers 
+2387,58/108,Poochyena,Darkness,Common,EX Power Keepers 
+2388,59/108,Ralts,Psychic,Common,EX Power Keepers 
+2389,60/108,Seedot,Grass,Common,EX Power Keepers 
+2390,61/108,Shuppet,Psychic,Common,EX Power Keepers 
+2391,62/108,Skitty,Colorless,Common,EX Power Keepers 
+2392,63/108,Slakoth,Colorless,Common,EX Power Keepers 
+2393,64/108,Snorunt,Water,Common,EX Power Keepers 
+2394,65/108,Spheal,Water,Common,EX Power Keepers 
+2395,66/108,Swablu,Colorless,Common,EX Power Keepers 
+2396,67/108,Torchic,Fire,Common,EX Power Keepers 
+2397,68/108,Trapinch,Fighting,Common,EX Power Keepers 
+2398,69/108,Vulpix,Fire,Common,EX Power Keepers 
+2399,70/108,Wynaut,Psychic,Common,EX Power Keepers 
+2400,71/108,Battle Frontier,T [St],Uncommon,EX Power Keepers 
+2401,72/108,Drake's Stadium,T [St],Uncommon,EX Power Keepers 
+2402,73/108,Energy Recycle System,T,Uncommon,EX Power Keepers 
+2403,74/108,Energy Removal 2,T,Uncommon,EX Power Keepers 
+2404,75/108,Energy Switch,T,Uncommon,EX Power Keepers 
+2405,76/108,Glacia's Stadium,T [St],Uncommon,EX Power Keepers 
+2406,77/108,Great Ball,T,Uncommon,EX Power Keepers 
+2407,78/108,Master Ball,T,Uncommon,EX Power Keepers 
+2408,79/108,Phoebe's Stadium,T [St],Uncommon,EX Power Keepers 
+2409,80/108,Professor Birch,T [Su],Uncommon,EX Power Keepers 
+2410,81/108,Scott,T [Su],Uncommon,EX Power Keepers 
+2411,82/108,Sidney's Stadium,T [St],Uncommon,EX Power Keepers 
+2412,83/108,Steven's Advice,T [Su],Uncommon,EX Power Keepers 
+2413,84/108,Claw Fossil,T,Common,EX Power Keepers 
+2414,85/108,Mysterious Fossil,T,Common,EX Power Keepers 
+2415,86/108,Root Fossil,T,Common,EX Power Keepers 
+2416,87/108,Darkness Energy,Darkness,Rare,EX Power Keepers 
+2417,88/108,Metal Energy,Metal,Rare,EX Power Keepers 
+2418,89/108,Multi Energy,Rainbow,Rare,EX Power Keepers 
+2419,90/108,Cyclone Energy,Colorless,Uncommon,EX Power Keepers 
+2420,91/108,Warp Energy,Colorless,Uncommon,EX Power Keepers 
+2421,92/108,Absol ex,Darkness,Rare Holo ex,EX Power Keepers 
+2422,93/108,Claydol ex,Psychic,Rare Holo ex,EX Power Keepers 
+2423,94/108,Flygon ex,Colorless,Rare Holo ex,EX Power Keepers 
+2424,95/108,Metagross ex,Metal,Rare Holo ex,EX Power Keepers 
+2425,96/108,Salamence ex,Colorless,Rare Holo ex,EX Power Keepers 
+2426,97/108,Shiftry ex,Darkness,Rare Holo ex,EX Power Keepers 
+2427,98/108,Skarmory ex,Metal,Rare Holo ex,EX Power Keepers 
+2428,99/108,Walrein ex,Water,Rare Holo ex,EX Power Keepers 
+2429,100/108,Flareon,Fire,ShinyRare Holo,EX Power Keepers 
+2430,101/108,Jolteon,Lightning,ShinyRare Holo,EX Power Keepers 
+2431,102/108,Vaporeon,Water,ShinyRare Holo,EX Power Keepers 
+2432,103/108,Grass Energy,Grass,Rare Holo,EX Power Keepers 
+2433,104/108,Fire Energy,Fire,Rare Holo,EX Power Keepers 
+2434,105/108,Water Energy,Water,Rare Holo,EX Power Keepers 
+2435,106/108,Lightning Energy,Lightning,Rare Holo,EX Power Keepers 
+2436,107/108,Psychic Energy,Psychic,Rare Holo,EX Power Keepers 
+2437,108/108,Fighting Energy,Fighting,Rare Holo,EX Power Keepers 
+2438,1/130,Dialga,Metal,Rare Holo,Diamond & Pearl 
+2439,2/130,Dusknoir,Psychic,Rare Holo,Diamond & Pearl 
+2440,3/130,Electivire,Lightning,Rare Holo,Diamond & Pearl 
+2441,4/130,Empoleon,Water,Rare Holo,Diamond & Pearl 
+2442,5/130,Infernape,Fire,Rare Holo,Diamond & Pearl 
+2443,6/130,Lucario,Fighting,Rare Holo,Diamond & Pearl 
+2444,7/130,Luxray,Lightning,Rare Holo,Diamond & Pearl 
+2445,8/130,Magnezone,Metal,Rare Holo,Diamond & Pearl 
+2446,9/130,Manaphy,Water,Rare Holo,Diamond & Pearl 
+2447,10/130,Mismagius,Psychic,Rare Holo,Diamond & Pearl 
+2448,11/130,Palkia,Water,Rare Holo,Diamond & Pearl 
+2449,12/130,Rhyperior,Fighting,Rare Holo,Diamond & Pearl 
+2450,13/130,Roserade,Grass,Rare Holo,Diamond & Pearl 
+2451,14/130,Shiftry,Darkness,Rare Holo,Diamond & Pearl 
+2452,15/130,Skuntank,Darkness,Rare Holo,Diamond & Pearl 
+2453,16/130,Staraptor,Colorless,Rare Holo,Diamond & Pearl 
+2454,17/130,Torterra,Grass,Rare Holo,Diamond & Pearl 
+2455,18/130,Azumarill,Water,Rare,Diamond & Pearl 
+2456,19/130,Beautifly,Grass,Rare,Diamond & Pearl 
+2457,20/130,Bibarel,Colorless,Rare,Diamond & Pearl 
+2458,21/130,Carnivine,Grass,Rare,Diamond & Pearl 
+2459,22/130,Clefable,Colorless,Rare,Diamond & Pearl 
+2460,23/130,Drapion,Psychic,Rare,Diamond & Pearl 
+2461,24/130,Drifblim,Psychic,Rare,Diamond & Pearl 
+2462,25/130,Dustox,Grass,Rare,Diamond & Pearl 
+2463,26/130,Floatzel,Water,Rare,Diamond & Pearl 
+2464,27/130,Gengar,Psychic,Rare,Diamond & Pearl 
+2465,28/130,Heracross,Grass,Rare,Diamond & Pearl 
+2466,29/130,Hippowdon,Fighting,Rare,Diamond & Pearl 
+2467,30/130,Lopunny,Colorless,Rare,Diamond & Pearl 
+2468,31/130,Machamp,Fighting,Rare,Diamond & Pearl 
+2469,32/130,Medicham,Fighting,Rare,Diamond & Pearl 
+2470,33/130,Munchlax,Colorless,Rare,Diamond & Pearl 
+2471,34/130,Noctowl,Colorless,Rare,Diamond & Pearl 
+2472,35/130,Pachirisu,Lightning,Rare,Diamond & Pearl 
+2473,36/130,Purugly,Colorless,Rare,Diamond & Pearl 
+2474,37/130,Snorlax,Colorless,Rare,Diamond & Pearl 
+2475,38/130,Steelix,Metal,Rare,Diamond & Pearl 
+2476,39/130,Vespiquen,Grass,Rare,Diamond & Pearl 
+2477,40/130,Weavile,Darkness,Rare,Diamond & Pearl 
+2478,41/130,Wobbuffet,Psychic,Rare,Diamond & Pearl 
+2479,42/130,Wynaut,Psychic,Rare,Diamond & Pearl 
+2480,43/130,Budew,Grass,Uncommon,Diamond & Pearl 
+2481,44/130,Cascoon,Grass,Uncommon,Diamond & Pearl 
+2482,45/130,Cherrim,Grass,Uncommon,Diamond & Pearl 
+2483,46/130,Drifloon,Psychic,Uncommon,Diamond & Pearl 
+2484,47/130,Dusclops,Psychic,Uncommon,Diamond & Pearl 
+2485,48/130,Elekid,Lightning,Uncommon,Diamond & Pearl 
+2486,49/130,Grotle,Grass,Uncommon,Diamond & Pearl 
+2487,50/130,Haunter,Psychic,Uncommon,Diamond & Pearl 
+2488,51/130,Hippopotas,Fighting,Uncommon,Diamond & Pearl 
+2489,52/130,Luxio,Lightning,Uncommon,Diamond & Pearl 
+2490,53/130,Machoke,Fighting,Uncommon,Diamond & Pearl 
+2491,54/130,Magneton,Metal,Uncommon,Diamond & Pearl 
+2492,55/130,Mantyke,Water,Uncommon,Diamond & Pearl 
+2493,56/130,Monferno,Fire,Uncommon,Diamond & Pearl 
+2494,57/130,Nuzleaf,Darkness,Uncommon,Diamond & Pearl 
+2495,58/130,Prinplup,Water,Uncommon,Diamond & Pearl 
+2496,59/130,Rapidash,Fire,Uncommon,Diamond & Pearl 
+2497,60/130,Rhydon,Fighting,Uncommon,Diamond & Pearl 
+2498,61/130,Riolu,Fighting,Uncommon,Diamond & Pearl 
+2499,62/130,Seaking,Water,Uncommon,Diamond & Pearl 
+2500,63/130,Silcoon,Grass,Uncommon,Diamond & Pearl 
+2501,64/130,Staravia,Colorless,Uncommon,Diamond & Pearl 
+2502,65/130,Unown A,Psychic,Uncommon,Diamond & Pearl 
+2503,66/130,Unown B,Psychic,Uncommon,Diamond & Pearl 
+2504,67/130,Unown C,Psychic,Uncommon,Diamond & Pearl 
+2505,68/130,Unown D,Psychic,Uncommon,Diamond & Pearl 
+2506,69/130,Azurill,Colorless,Common,Diamond & Pearl 
+2507,70/130,Bidoof,Colorless,Common,Diamond & Pearl 
+2508,71/130,Bonsly,Fighting,Common,Diamond & Pearl 
+2509,72/130,Buizel,Water,Common,Diamond & Pearl 
+2510,73/130,Buneary,Colorless,Common,Diamond & Pearl 
+2511,74/130,Chatot,Colorless,Common,Diamond & Pearl 
+2512,75/130,Cherubi,Grass,Common,Diamond & Pearl 
+2513,76/130,Chimchar,Fire,Common,Diamond & Pearl 
+2514,77/130,Clefairy,Colorless,Common,Diamond & Pearl 
+2515,78/130,Cleffa,Colorless,Common,Diamond & Pearl 
+2516,79/130,Combee,Grass,Common,Diamond & Pearl 
+2517,80/130,Duskull,Psychic,Common,Diamond & Pearl 
+2518,81/130,Electabuzz,Lightning,Common,Diamond & Pearl 
+2519,82/130,Gastly,Psychic,Common,Diamond & Pearl 
+2520,83/130,Glameow,Colorless,Common,Diamond & Pearl 
+2521,84/130,Goldeen,Water,Common,Diamond & Pearl 
+2522,85/130,Hoothoot,Colorless,Common,Diamond & Pearl 
+2523,86/130,Machop,Fighting,Common,Diamond & Pearl 
+2524,87/130,Magnemite,Metal,Common,Diamond & Pearl 
+2525,88/130,Marill,Water,Common,Diamond & Pearl 
+2526,89/130,Meditite,Fighting,Common,Diamond & Pearl 
+2527,90/130,Mime Jr.,Psychic,Common,Diamond & Pearl 
+2528,91/130,Misdreavus,Psychic,Common,Diamond & Pearl 
+2529,92/130,Onix,Fighting,Common,Diamond & Pearl 
+2530,93/130,Piplup,Water,Common,Diamond & Pearl 
+2531,94/130,Ponyta,Fire,Common,Diamond & Pearl 
+2532,95/130,Rhyhorn,Fighting,Common,Diamond & Pearl 
+2533,96/130,Roselia,Grass,Common,Diamond & Pearl 
+2534,97/130,Seedot,Grass,Common,Diamond & Pearl 
+2535,98/130,Shinx,Lightning,Common,Diamond & Pearl 
+2536,99/130,Skorupi,Psychic,Common,Diamond & Pearl 
+2537,100/130,Sneasel,Darkness,Common,Diamond & Pearl 
+2538,101/130,Starly,Colorless,Common,Diamond & Pearl 
+2539,102/130,Stunky,Darkness,Common,Diamond & Pearl 
+2540,103/130,Turtwig,Grass,Common,Diamond & Pearl 
+2541,104/130,Wurmple,Grass,Common,Diamond & Pearl 
+2542,105/130,Double Full Heal,T,Uncommon,Diamond & Pearl 
+2543,106/130,Energy Restore,T,Uncommon,Diamond & Pearl 
+2544,107/130,Energy Switch,T,Uncommon,Diamond & Pearl 
+2545,108/130,Night Pokémon Center,T,Uncommon,Diamond & Pearl 
+2546,109/130,PlusPower,T,Uncommon,Diamond & Pearl 
+2547,110/130,Poké Ball,T,Uncommon,Diamond & Pearl 
+2548,111/130,Pokédex HANDY910is,T,Uncommon,Diamond & Pearl 
+2549,112/130,Professor Rowan,Su,Uncommon,Diamond & Pearl 
+2550,113/130,Rival,Su,Uncommon,Diamond & Pearl 
+2551,114/130,Speed Stadium,St,Uncommon,Diamond & Pearl 
+2552,115/130,Super Scoop Up,T,Uncommon,Diamond & Pearl 
+2553,116/130,Warp Point,T,Uncommon,Diamond & Pearl 
+2554,117/130,Energy Search,T,Common,Diamond & Pearl 
+2555,118/130,Potion,T,Common,Diamond & Pearl 
+2556,119/130,Switch,T,Common,Diamond & Pearl 
+2557,120/130,Empoleon LV.X,Water,Common,Diamond & Pearl 
+2558,121/130,Infernape LV.X,Fire,Common,Diamond & Pearl 
+2559,122/130,Torterra LV.X,Grass,Common,Diamond & Pearl 
+2560,123/130,Grass Energy,Grass,Common,Diamond & Pearl 
+2561,124/130,Fire Energy,Fire,Common,Diamond & Pearl 
+2562,125/130,Water Energy,Water,Common,Diamond & Pearl 
+2563,126/130,Lightning Energy,Lightning,Common,Diamond & Pearl 
+2564,127/130,Psychic Energy,Psychic,Common,Diamond & Pearl 
+2565,128/130,Fighting Energy,Fighting,NULL,Diamond & Pearl 
+2566,129/130,Darkness Energy,Darkness,NULL,Diamond & Pearl 
+2567,130/130,Metal Energy,Metal,NULL,Diamond & Pearl 
+2568,1/123,Aggron,Metal,Rare Holo,Mysterious Treasures 
+2569,2/123,Alakazam,Psychic,Rare Holo,Mysterious Treasures 
+2570,3/123,Ambipom,Colorless,Rare Holo,Mysterious Treasures 
+2571,4/123,Azelf,Psychic,Rare Holo,Mysterious Treasures 
+2572,5/123,Blissey,Colorless,Rare Holo,Mysterious Treasures 
+2573,6/123,Bronzong,Metal,Rare Holo,Mysterious Treasures 
+2574,7/123,Celebi,Grass,Rare Holo,Mysterious Treasures 
+2575,8/123,Feraligatr,Water,Rare Holo,Mysterious Treasures 
+2576,9/123,Garchomp,Colorless,Rare Holo,Mysterious Treasures 
+2577,10/123,Honchkrow,Darkness,Rare Holo,Mysterious Treasures 
+2578,11/123,Lumineon,Water,Rare Holo,Mysterious Treasures 
+2579,12/123,Magmortar,Fire,Rare Holo,Mysterious Treasures 
+2580,13/123,Meganium,Grass,Rare Holo,Mysterious Treasures 
+2581,14/123,Mesprit,Psychic,Rare Holo,Mysterious Treasures 
+2582,15/123,Raichu,Lightning,Rare Holo,Mysterious Treasures 
+2583,16/123,Typhlosion,Fire,Rare Holo,Mysterious Treasures 
+2584,17/123,Tyranitar,Darkness,Rare Holo,Mysterious Treasures 
+2585,18/123,Uxie,Psychic,Rare Holo,Mysterious Treasures 
+2586,19/123,Abomasnow,Grass,Rare,Mysterious Treasures 
+2587,20/123,Ariados,Grass,Rare,Mysterious Treasures 
+2588,21/123,Bastiodon,Metal,Rare,Mysterious Treasures 
+2589,22/123,Chimecho,Psychic,Rare,Mysterious Treasures 
+2590,23/123,Crobat,Psychic,Rare,Mysterious Treasures 
+2591,24/123,Exeggutor,Grass,Rare,Mysterious Treasures 
+2592,25/123,Glalie,Water,Rare,Mysterious Treasures 
+2593,26/123,Gyarados,Water,Rare,Mysterious Treasures 
+2594,27/123,Kricketune,Grass,Rare,Mysterious Treasures 
+2595,28/123,Manectric,Lightning,Rare,Mysterious Treasures 
+2596,29/123,Mantine,Water,Rare,Mysterious Treasures 
+2597,30/123,Mr. Mime,Psychic,Rare,Mysterious Treasures 
+2598,31/123,Nidoqueen,Psychic,Rare,Mysterious Treasures 
+2599,32/123,Ninetales,Fire,Rare,Mysterious Treasures 
+2600,33/123,Rampardos,Fighting,Rare,Mysterious Treasures 
+2601,34/123,Slaking,Colorless,Rare,Mysterious Treasures 
+2602,35/123,Sudowoodo,Fighting,Rare,Mysterious Treasures 
+2603,36/123,Toxicroak,Psychic,Rare,Mysterious Treasures 
+2604,37/123,Unown I,Psychic,Rare,Mysterious Treasures 
+2605,38/123,Ursaring,Colorless,Rare,Mysterious Treasures 
+2606,39/123,Walrein,Water,Rare,Mysterious Treasures 
+2607,40/123,Whiscash,Water,Rare,Mysterious Treasures 
+2608,41/123,Bayleef,Grass,Uncommon,Mysterious Treasures 
+2609,42/123,Chingling,Psychic,Uncommon,Mysterious Treasures 
+2610,43/123,Cranidos,Fighting,Uncommon,Mysterious Treasures 
+2611,44/123,Croconaw,Water,Uncommon,Mysterious Treasures 
+2612,45/123,Dewgong,Water,Uncommon,Mysterious Treasures 
+2613,46/123,Dodrio,Colorless,Uncommon,Mysterious Treasures 
+2614,47/123,Dunsparce,Colorless,Uncommon,Mysterious Treasures 
+2615,48/123,Gabite,Colorless,Uncommon,Mysterious Treasures 
+2616,49/123,Girafarig,Colorless,Uncommon,Mysterious Treasures 
+2617,50/123,Golbat,Psychic,Uncommon,Mysterious Treasures 
+2618,51/123,Graveler,Fighting,Uncommon,Mysterious Treasures 
+2619,52/123,Happiny,Colorless,Uncommon,Mysterious Treasures 
+2620,53/123,Lairon,Metal,Uncommon,Mysterious Treasures 
+2621,54/123,Magmar,Fire,Uncommon,Mysterious Treasures 
+2622,55/123,Masquerain,Grass,Uncommon,Mysterious Treasures 
+2623,56/123,Nidorina,Psychic,Uncommon,Mysterious Treasures 
+2624,57/123,Octillery,Water,Uncommon,Mysterious Treasures 
+2625,58/123,Parasect,Grass,Uncommon,Mysterious Treasures 
+2626,59/123,Pupitar,Fighting,Uncommon,Mysterious Treasures 
+2627,60/123,Quilava,Fire,Uncommon,Mysterious Treasures 
+2628,61/123,Sandslash,Fighting,Uncommon,Mysterious Treasures 
+2629,62/123,Sealeo,Water,Uncommon,Mysterious Treasures 
+2630,63/123,Shieldon,Metal,Uncommon,Mysterious Treasures 
+2631,64/123,Tropius,Grass,Uncommon,Mysterious Treasures 
+2632,65/123,Unown E,Psychic,Uncommon,Mysterious Treasures 
+2633,66/123,Unown M,Psychic,Uncommon,Mysterious Treasures 
+2634,67/123,Unown T,Psychic,Uncommon,Mysterious Treasures 
+2635,68/123,Vigoroth,Colorless,Uncommon,Mysterious Treasures 
+2636,69/123,Abra,Psychic,Common,Mysterious Treasures 
+2637,70/123,Aipom,Colorless,Common,Mysterious Treasures 
+2638,71/123,Aron,Metal,Common,Mysterious Treasures 
+2639,72/123,Barboach,Water,Common,Mysterious Treasures 
+2640,73/123,Bidoof,Colorless,Common,Mysterious Treasures 
+2641,74/123,Bronzor,Metal,Common,Mysterious Treasures 
+2642,75/123,Buizel,Water,Common,Mysterious Treasures 
+2643,76/123,Chansey,Colorless,Common,Mysterious Treasures 
+2644,77/123,Chikorita,Grass,Common,Mysterious Treasures 
+2645,78/123,Croagunk,Psychic,Common,Mysterious Treasures 
+2646,79/123,Cyndaquil,Fire,Common,Mysterious Treasures 
+2647,80/123,Doduo,Colorless,Common,Mysterious Treasures 
+2648,81/123,Electrike,Lightning,Common,Mysterious Treasures 
+2649,82/123,Exeggcute,Grass,Common,Mysterious Treasures 
+2650,83/123,Finneon,Water,Common,Mysterious Treasures 
+2651,84/123,Geodude,Fighting,Common,Mysterious Treasures 
+2652,85/123,Gible,Colorless,Common,Mysterious Treasures 
+2653,86/123,Kricketot,Grass,Common,Mysterious Treasures 
+2654,87/123,Larvitar,Fighting,Common,Mysterious Treasures 
+2655,88/123,Magby,Fire,Common,Mysterious Treasures 
+2656,89/123,Magikarp,Water,Common,Mysterious Treasures 
+2657,90/123,Murkrow,Darkness,Common,Mysterious Treasures 
+2658,91/123,Nidoran♀,Psychic,Common,Mysterious Treasures 
+2659,92/123,Paras,Grass,Common,Mysterious Treasures 
+2660,93/123,Pichu,Lightning,Common,Mysterious Treasures 
+2661,94/123,Pikachu,Lightning,Common,Mysterious Treasures 
+2662,95/123,Remoraid,Water,Common,Mysterious Treasures 
+2663,96/123,Sandshrew,Fighting,Common,Mysterious Treasures 
+2664,97/123,Seel,Water,Common,Mysterious Treasures 
+2665,98/123,Shinx,Lightning,Common,Mysterious Treasures 
+2666,99/123,Slakoth,Colorless,Common,Mysterious Treasures 
+2667,100/123,Snorunt,Water,Common,Mysterious Treasures 
+2668,101/123,Snover,Grass,Common,Mysterious Treasures 
+2669,102/123,Spheal,Water,Common,Mysterious Treasures 
+2670,103/123,Spinarak,Grass,Common,Mysterious Treasures 
+2671,104/123,Surskit,Grass,Common,Mysterious Treasures 
+2672,105/123,Teddiursa,Colorless,Common,Mysterious Treasures 
+2673,106/123,Totodile,Water,Common,Mysterious Treasures 
+2674,107/123,Vulpix,Fire,Common,Mysterious Treasures 
+2675,108/123,Zubat,Psychic,Common,Mysterious Treasures 
+2676,109/123,Bebe's Search,Su,Uncommon,Mysterious Treasures 
+2677,110/123,Dusk Ball,T,Uncommon,Mysterious Treasures 
+2678,111/123,Fossil Excavator,Su,Uncommon,Mysterious Treasures 
+2679,112/123,Lake Boundary,St,Uncommon,Mysterious Treasures 
+2680,113/123,Night Maintenance,T,Uncommon,Mysterious Treasures 
+2681,114/123,Quick Ball,T,Uncommon,Mysterious Treasures 
+2682,115/123,Team Galactic's Wager,Su,Uncommon,Mysterious Treasures 
+2683,116/123,Armor Fossil,T,Common,Mysterious Treasures 
+2684,117/123,Skull Fossil,T,Common,Mysterious Treasures 
+2685,118/123,Multi Energy,Rainbow,Rare,Mysterious Treasures 
+2686,119/123,Darkness Energy,Darkness,Uncommon,Mysterious Treasures 
+2687,120/123,Metal Energy,Metal,Uncommon,Mysterious Treasures 
+2688,121/123,Electivire LV.X,Lightning,NULL,Mysterious Treasures 
+2689,122/123,Lucario LV.X,Fighting,NULL,Mysterious Treasures 
+2690,123/123,Magmortar LV.X,Fire,NULL,Mysterious Treasures 
+2691,124/123,Time-Space Distortion,T,NULL,Mysterious Treasures 
+2692,1/132,Ampharos,Lightning,Rare Holo,Secret Wonders 
+2693,2/132,Blastoise,Water,Rare Holo,Secret Wonders 
+2694,3/132,Charizard,Fire,Rare Holo,Secret Wonders 
+2695,4/132,Entei,Fire,Rare Holo,Secret Wonders 
+2696,5/132,Flygon,Fighting,Rare Holo,Secret Wonders 
+2697,6/132,Gallade,Fighting,Rare Holo,Secret Wonders 
+2698,7/132,Gardevoir,Psychic,Rare Holo,Secret Wonders 
+2699,8/132,Gastrodon,Water,Rare Holo,Secret Wonders 
+2700,9/132,Gastrodon,Fighting,Rare Holo,Secret Wonders 
+2701,10/132,Ho-Oh,Fire,Rare Holo,Secret Wonders 
+2702,11/132,Jumpluff,Grass,Rare Holo,Secret Wonders 
+2703,12/132,Lickilicky,Colorless,Rare Holo,Secret Wonders 
+2704,13/132,Ludicolo,Water,Rare Holo,Secret Wonders 
+2705,14/132,Lugia,Colorless,Rare Holo,Secret Wonders 
+2706,15/132,Mew,Psychic,Rare Holo,Secret Wonders 
+2707,16/132,Raikou,Lightning,Rare Holo,Secret Wonders 
+2708,17/132,Roserade,Grass,Rare Holo,Secret Wonders 
+2709,18/132,Salamence,Colorless,Rare Holo,Secret Wonders 
+2710,19/132,Suicune,Water,Rare Holo,Secret Wonders 
+2711,20/132,Venusaur,Grass,Rare Holo,Secret Wonders 
+2712,21/132,Absol,Darkness,Rare,Secret Wonders 
+2713,22/132,Arcanine,Fire,Rare,Secret Wonders 
+2714,23/132,Banette,Psychic,Rare,Secret Wonders 
+2715,24/132,Dugtrio,Fighting,Rare,Secret Wonders 
+2716,25/132,Electivire,Lightning,Rare,Secret Wonders 
+2717,26/132,Electrode,Lightning,Rare,Secret Wonders 
+2718,27/132,Furret,Colorless,Rare,Secret Wonders 
+2719,28/132,Golduck,Water,Rare,Secret Wonders 
+2720,29/132,Golem,Fighting,Rare,Secret Wonders 
+2721,30/132,Jynx,Psychic,Rare,Secret Wonders 
+2722,31/132,Magmortar,Fire,Rare,Secret Wonders 
+2723,32/132,Minun,Lightning,Rare,Secret Wonders 
+2724,33/132,Mothim,Grass,Rare,Secret Wonders 
+2725,34/132,Nidoking,Psychic,Rare,Secret Wonders 
+2726,35/132,Pidgeot,Colorless,Rare,Secret Wonders 
+2727,36/132,Plusle,Lightning,Rare,Secret Wonders 
+2728,37/132,Sharpedo,Darkness,Rare,Secret Wonders 
+2729,38/132,Sunflora,Grass,Rare,Secret Wonders 
+2730,39/132,Unown S,Psychic,Rare,Secret Wonders 
+2731,40/132,Weavile,Water,Rare,Secret Wonders 
+2732,41/132,Wormadam,Grass,Rare,Secret Wonders 
+2733,42/132,Wormadam,Fighting,Rare,Secret Wonders 
+2734,43/132,Wormadam,Metal,Rare,Secret Wonders 
+2735,44/132,Xatu,Psychic,Rare,Secret Wonders 
+2736,45/132,Breloom,Grass,Uncommon,Secret Wonders 
+2737,46/132,Charmeleon,Fire,Uncommon,Secret Wonders 
+2738,47/132,Cloyster,Water,Uncommon,Secret Wonders 
+2739,48/132,Donphan,Fighting,Uncommon,Secret Wonders 
+2740,49/132,Farfetch'd,Colorless,Uncommon,Secret Wonders 
+2741,50/132,Flaaffy,Lightning,Uncommon,Secret Wonders 
+2742,51/132,Ivysaur,Grass,Uncommon,Secret Wonders 
+2743,52/132,Kecleon,Colorless,Uncommon,Secret Wonders 
+2744,53/132,Kirlia,Psychic,Uncommon,Secret Wonders 
+2745,54/132,Lombre,Water,Uncommon,Secret Wonders 
+2746,55/132,Miltank,Colorless,Uncommon,Secret Wonders 
+2747,56/132,Muk,Psychic,Uncommon,Secret Wonders 
+2748,57/132,Nidorino,Psychic,Uncommon,Secret Wonders 
+2749,58/132,Pidgeotto,Colorless,Uncommon,Secret Wonders 
+2750,59/132,Pinsir,Grass,Uncommon,Secret Wonders 
+2751,60/132,Quagsire,Water,Uncommon,Secret Wonders 
+2752,61/132,Raticate,Colorless,Uncommon,Secret Wonders 
+2753,62/132,Roselia,Grass,Uncommon,Secret Wonders 
+2754,63/132,Sableye,Darkness,Uncommon,Secret Wonders 
+2755,64/132,Shelgon,Colorless,Uncommon,Secret Wonders 
+2756,65/132,Skiploom,Grass,Uncommon,Secret Wonders 
+2757,66/132,Smeargle,Colorless,Uncommon,Secret Wonders 
+2758,67/132,Smoochum,Psychic,Uncommon,Secret Wonders 
+2759,68/132,Unown K,Psychic,Uncommon,Secret Wonders 
+2760,69/132,Unown N,Psychic,Uncommon,Secret Wonders 
+2761,70/132,Unown O,Psychic,Uncommon,Secret Wonders 
+2762,71/132,Unown X,Psychic,Uncommon,Secret Wonders 
+2763,72/132,Unown Z,Psychic,Uncommon,Secret Wonders 
+2764,73/132,Venomoth,Grass,Uncommon,Secret Wonders 
+2765,74/132,Vibrava,Fighting,Uncommon,Secret Wonders 
+2766,75/132,Wartortle,Water,Uncommon,Secret Wonders 
+2767,76/132,Bagon,Colorless,Common,Secret Wonders 
+2768,77/132,Bulbasaur,Grass,Common,Secret Wonders 
+2769,78/132,Burmy,Grass,Common,Secret Wonders 
+2770,79/132,Burmy,Grass,Common,Secret Wonders 
+2771,80/132,Burmy,Grass,Common,Secret Wonders 
+2772,81/132,Carvanha,Darkness,Common,Secret Wonders 
+2773,82/132,Charmander,Fire,Common,Secret Wonders 
+2774,83/132,Clefairy,Colorless,Common,Secret Wonders 
+2775,84/132,Corsola,Water,Common,Secret Wonders 
+2776,85/132,Diglett,Fighting,Common,Secret Wonders 
+2777,86/132,Duskull,Psychic,Common,Secret Wonders 
+2778,87/132,Electabuzz,Lightning,Common,Secret Wonders 
+2779,88/132,Grimer,Psychic,Common,Secret Wonders 
+2780,89/132,Growlithe,Fire,Common,Secret Wonders 
+2781,90/132,Hoppip,Grass,Common,Secret Wonders 
+2782,91/132,Lickitung,Colorless,Common,Secret Wonders 
+2783,92/132,Lotad,Water,Common,Secret Wonders 
+2784,93/132,Magmar,Fire,Common,Secret Wonders 
+2785,94/132,Mareep,Lightning,Common,Secret Wonders 
+2786,95/132,Murkrow,Darkness,Common,Secret Wonders 
+2787,96/132,Natu,Psychic,Common,Secret Wonders 
+2788,97/132,Nidoran♂,Psychic,Common,Secret Wonders 
+2789,98/132,Phanpy,Fighting,Common,Secret Wonders 
+2790,99/132,Pidgey,Colorless,Common,Secret Wonders 
+2791,100/132,Psyduck,Water,Common,Secret Wonders 
+2792,101/132,Qwilfish,Water,Common,Secret Wonders 
+2793,102/132,Ralts,Psychic,Common,Secret Wonders 
+2794,103/132,Rattata,Colorless,Common,Secret Wonders 
+2795,104/132,Sentret,Colorless,Common,Secret Wonders 
+2796,105/132,Shellder,Water,Common,Secret Wonders 
+2797,106/132,Shellos,Water,Common,Secret Wonders 
+2798,107/132,Shellos,Water,Common,Secret Wonders 
+2799,108/132,Shroomish,Grass,Common,Secret Wonders 
+2800,109/132,Shuckle,Grass,Common,Secret Wonders 
+2801,110/132,Shuppet,Psychic,Common,Secret Wonders 
+2802,111/132,Spinda,Colorless,Common,Secret Wonders 
+2803,112/132,Squirtle,Water,Common,Secret Wonders 
+2804,113/132,Stantler,Colorless,Common,Secret Wonders 
+2805,114/132,Sunkern,Grass,Common,Secret Wonders 
+2806,115/132,Trapinch,Fighting,Common,Secret Wonders 
+2807,116/132,Venonat,Grass,Common,Secret Wonders 
+2808,117/132,Voltorb,Lightning,Common,Secret Wonders 
+2809,118/132,Wooper,Water,Common,Secret Wonders 
+2810,119/132,Bebe's Search,Su,Uncommon,Secret Wonders 
+2811,120/132,Night Maintenance,T,Uncommon,Secret Wonders 
+2812,121/132,PlusPower,T,Uncommon,Secret Wonders 
+2813,122/132,Professor Oak's Visit,Su,Uncommon,Secret Wonders 
+2814,123/132,Professor Rowan,Su,Uncommon,Secret Wonders 
+2815,124/132,Rival,Su,Uncommon,Secret Wonders 
+2816,125/132,Roseanne's Research,Su,Uncommon,Secret Wonders 
+2817,126/132,Team Galactic's Mars,Su,Uncommon,Secret Wonders 
+2818,127/132,Potion,T,Common,Secret Wonders 
+2819,128/132,Switch,T,Common,Secret Wonders 
+2820,129/132,Darkness Energy,Darkness,Uncommon,Secret Wonders 
+2821,130/132,Metal Energy,Metal,Uncommon,Secret Wonders 
+2822,131/132,Gardevoir LV.X,Psychic,NULL,Secret Wonders 
+2823,132/132,Honchkrow LV.X,Darkness,NULL,Secret Wonders 
+2824,1/146,Deoxys,Psychic,Rare Holo,Legends Awakened 
+2825,2/146,Dragonite,Colorless,Rare Holo,Legends Awakened 
+2826,3/146,Froslass,Water,Rare Holo,Legends Awakened 
+2827,4/146,Giratina,Psychic,Rare Holo,Legends Awakened 
+2828,5/146,Gliscor,Fighting,Rare Holo,Legends Awakened 
+2829,6/146,Heatran,Fire,Rare Holo,Legends Awakened 
+2830,7/146,Kingdra,Water,Rare Holo,Legends Awakened 
+2831,8/146,Luxray,Lightning,Rare Holo,Legends Awakened 
+2832,9/146,Mamoswine,Water,Rare Holo,Legends Awakened 
+2833,10/146,Metagross,Metal,Rare Holo,Legends Awakened 
+2834,11/146,Mewtwo,Psychic,Rare Holo,Legends Awakened 
+2835,12/146,Politoed,Water,Rare Holo,Legends Awakened 
+2836,13/146,Probopass,Fighting,Rare Holo,Legends Awakened 
+2837,14/146,Rayquaza,Colorless,Rare Holo,Legends Awakened 
+2838,15/146,Regigigas,Colorless,Rare Holo,Legends Awakened 
+2839,16/146,Spiritomb,Psychic,Rare Holo,Legends Awakened 
+2840,17/146,Yanmega,Grass,Rare Holo,Legends Awakened 
+2841,18/146,Armaldo,Fighting,Rare,Legends Awakened 
+2842,19/146,Azelf,Psychic,Rare,Legends Awakened 
+2843,20/146,Bellossom,Grass,Rare,Legends Awakened 
+2844,21/146,Cradily,Grass,Rare,Legends Awakened 
+2845,22/146,Crawdaunt,Water,Rare,Legends Awakened 
+2846,23/146,Delcatty,Colorless,Rare,Legends Awakened 
+2847,24/146,Deoxys,Psychic,Rare,Legends Awakened 
+2848,25/146,Deoxys,Psychic,Rare,Legends Awakened 
+2849,26/146,Deoxys,Psychic,Rare,Legends Awakened 
+2850,27/146,Ditto,Colorless,Rare,Legends Awakened 
+2851,28/146,Forretress,Metal,Rare,Legends Awakened 
+2852,29/146,Groudon,Fighting,Rare,Legends Awakened 
+2853,30/146,Heatran,Metal,Rare,Legends Awakened 
+2854,31/146,Jirachi,Metal,Rare,Legends Awakened 
+2855,32/146,Kyogre,Water,Rare,Legends Awakened 
+2856,33/146,Lopunny,Colorless,Rare,Legends Awakened 
+2857,34/146,Mesprit,Psychic,Rare,Legends Awakened 
+2858,35/146,Poliwrath,Water,Rare,Legends Awakened 
+2859,36/146,Regice,Water,Rare,Legends Awakened 
+2860,37/146,Regigigas,Colorless,Rare,Legends Awakened 
+2861,38/146,Regirock,Fighting,Rare,Legends Awakened 
+2862,39/146,Registeel,Metal,Rare,Legends Awakened 
+2863,40/146,Shedinja,Grass,Rare,Legends Awakened 
+2864,41/146,Torkoal,Fire,Rare,Legends Awakened 
+2865,42/146,Unown !,Psychic,Rare,Legends Awakened 
+2866,43/146,Uxie,Psychic,Rare,Legends Awakened 
+2867,44/146,Victreebel,Grass,Rare,Legends Awakened 
+2868,45/146,Vileplume,Grass,Rare,Legends Awakened 
+2869,46/146,Anorith,Fighting,Uncommon,Legends Awakened 
+2870,47/146,Camerupt,Fire,Uncommon,Legends Awakened 
+2871,48/146,Castform,Colorless,Uncommon,Legends Awakened 
+2872,49/146,Castform,Water,Uncommon,Legends Awakened 
+2873,50/146,Castform,Water,Uncommon,Legends Awakened 
+2874,51/146,Castform,Fire,Uncommon,Legends Awakened 
+2875,52/146,Dragonair,Colorless,Uncommon,Legends Awakened 
+2876,53/146,Drifblim,Psychic,Uncommon,Legends Awakened 
+2877,54/146,Exeggutor,Psychic,Uncommon,Legends Awakened 
+2878,55/146,Gliscor,Fighting,Uncommon,Legends Awakened 
+2879,56/146,Grumpig,Psychic,Uncommon,Legends Awakened 
+2880,57/146,Houndoom,Fire,Uncommon,Legends Awakened 
+2881,58/146,Lanturn,Water,Uncommon,Legends Awakened 
+2882,59/146,Lanturn,Lightning,Uncommon,Legends Awakened 
+2883,60/146,Ledian,Grass,Uncommon,Legends Awakened 
+2884,61/146,Lucario,Fighting,Uncommon,Legends Awakened 
+2885,62/146,Luxio,Lightning,Uncommon,Legends Awakened 
+2886,63/146,Marowak,Fighting,Uncommon,Legends Awakened 
+2887,64/146,Metang,Metal,Uncommon,Legends Awakened 
+2888,65/146,Metang,Metal,Uncommon,Legends Awakened 
+2889,66/146,Mightyena,Darkness,Uncommon,Legends Awakened 
+2890,67/146,Ninjask,Grass,Uncommon,Legends Awakened 
+2891,68/146,Persian,Colorless,Uncommon,Legends Awakened 
+2892,69/146,Piloswine,Water,Uncommon,Legends Awakened 
+2893,70/146,Seadra,Water,Uncommon,Legends Awakened 
+2894,71/146,Starmie,Water,Uncommon,Legends Awakened 
+2895,72/146,Swalot,Psychic,Uncommon,Legends Awakened 
+2896,73/146,Swellow,Colorless,Uncommon,Legends Awakened 
+2897,74/146,Tauros,Colorless,Uncommon,Legends Awakened 
+2898,75/146,Tentacruel,Water,Uncommon,Legends Awakened 
+2899,76/146,Unown J,Psychic,Uncommon,Legends Awakened 
+2900,77/146,Unown R,Psychic,Uncommon,Legends Awakened 
+2901,78/146,Unown U,Psychic,Uncommon,Legends Awakened 
+2902,79/146,Unown V,Psychic,Uncommon,Legends Awakened 
+2903,80/146,Unown W,Psychic,Uncommon,Legends Awakened 
+2904,81/146,Unown Y,Psychic,Uncommon,Legends Awakened 
+2905,82/146,Unown ?,Psychic,Uncommon,Legends Awakened 
+2906,83/146,Beldum,Metal,Common,Legends Awakened 
+2907,84/146,Beldum,Metal,Common,Legends Awakened 
+2908,85/146,Bellsprout,Grass,Common,Legends Awakened 
+2909,86/146,Buneary,Colorless,Common,Legends Awakened 
+2910,87/146,Chinchou,Water,Common,Legends Awakened 
+2911,88/146,Chinchou,Lightning,Common,Legends Awakened 
+2912,89/146,Corphish,Water,Common,Legends Awakened 
+2913,90/146,Cubone,Fighting,Common,Legends Awakened 
+2914,91/146,Dratini,Colorless,Common,Legends Awakened 
+2915,92/146,Drifloon,Psychic,Common,Legends Awakened 
+2916,93/146,Exeggcute,Psychic,Common,Legends Awakened 
+2917,94/146,Gligar,Fighting,Common,Legends Awakened 
+2918,95/146,Gligar,Fighting,Common,Legends Awakened 
+2919,96/146,Gloom,Grass,Common,Legends Awakened 
+2920,97/146,Gloom,Psychic,Common,Legends Awakened 
+2921,98/146,Gulpin,Psychic,Common,Legends Awakened 
+2922,99/146,Hitmonchan,Fighting,Common,Legends Awakened 
+2923,100/146,Hitmonlee,Fighting,Common,Legends Awakened 
+2924,101/146,Hitmontop,Fighting,Common,Legends Awakened 
+2925,102/146,Horsea,Water,Common,Legends Awakened 
+2926,103/146,Houndour,Darkness,Common,Legends Awakened 
+2927,104/146,Ledyba,Grass,Common,Legends Awakened 
+2928,105/146,Lileep,Grass,Common,Legends Awakened 
+2929,106/146,Meowth,Colorless,Common,Legends Awakened 
+2930,107/146,Misdreavus,Psychic,Common,Legends Awakened 
+2931,108/146,Nincada,Grass,Common,Legends Awakened 
+2932,109/146,Nosepass,Fighting,Common,Legends Awakened 
+2933,110/146,Numel,Fire,Common,Legends Awakened 
+2934,111/146,Oddish,Grass,Common,Legends Awakened 
+2935,112/146,Oddish,Psychic,Common,Legends Awakened 
+2936,113/146,Pineco,Grass,Common,Legends Awakened 
+2937,114/146,Poliwag,Water,Common,Legends Awakened 
+2938,115/146,Poliwhirl,Water,Common,Legends Awakened 
+2939,116/146,Poochyena,Darkness,Common,Legends Awakened 
+2940,117/146,Riolu,Fighting,Common,Legends Awakened 
+2941,118/146,Shinx,Lightning,Common,Legends Awakened 
+2942,119/146,Skitty,Colorless,Common,Legends Awakened 
+2943,120/146,Sneasel,Darkness,Common,Legends Awakened 
+2944,121/146,Spoink,Psychic,Common,Legends Awakened 
+2945,122/146,Staryu,Water,Common,Legends Awakened 
+2946,123/146,Swinub,Water,Common,Legends Awakened 
+2947,124/146,Taillow,Colorless,Common,Legends Awakened 
+2948,125/146,Tentacool,Water,Common,Legends Awakened 
+2949,126/146,Tyrogue,Fighting,Common,Legends Awakened 
+2950,127/146,Weepinbell,Grass,Common,Legends Awakened 
+2951,128/146,Yanma,Grass,Common,Legends Awakened 
+2952,129/146,Bubble Coat,T,Uncommon,Legends Awakened 
+2953,130/146,Buck's Training,Su,Uncommon,Legends Awakened 
+2954,131/146,Cynthia's Feelings,Su,Uncommon,Legends Awakened 
+2955,132/146,Energy Pickup,T,Uncommon,Legends Awakened 
+2956,133/146,Poké Radar,T,Uncommon,Legends Awakened 
+2957,134/146,Snowpoint Temple,St,Uncommon,Legends Awakened 
+2958,135/146,Stark Mountain,St,Uncommon,Legends Awakened 
+2959,136/146,Technical Machine TS-1,T,Uncommon,Legends Awakened 
+2960,137/146,Technical Machine TS-2,T,Uncommon,Legends Awakened 
+2961,138/146,Claw Fossil,T,Common,Legends Awakened 
+2962,139/146,Root Fossil,T,Common,Legends Awakened 
+2963,140/146,Azelf LV.X,Psychic,NULL,Legends Awakened 
+2964,141/146,Gliscor LV.X,Fighting,NULL,Legends Awakened 
+2965,142/146,Magnezone LV.X,Metal,NULL,Legends Awakened 
+2966,143/146,Mesprit LV.X,Psychic,NULL,Legends Awakened 
+2967,144/146,Mewtwo LV.X,Psychic,NULL,Legends Awakened 
+2968,145/146,Rhyperior LV.X,Fighting,NULL,Legends Awakened 
+2969,146/146,Uxie LV.X,Psychic,NULL,Legends Awakened 
+2970,1/100,Dusknoir,Psychic,Rare Holo,Stormfront 
+2971,2/100,Empoleon,Metal,Rare Holo,Stormfront 
+2972,3/100,Infernape,Fighting,Rare Holo,Stormfront 
+2973,4/100,Lumineon,Water,Rare Holo,Stormfront 
+2974,5/100,Magnezone,Metal,Rare Holo,Stormfront 
+2975,6/100,Magnezone,Lightning,Rare Holo,Stormfront 
+2976,7/100,Mismagius,Psychic,Rare Holo,Stormfront 
+2977,8/100,Raichu,Lightning,Rare Holo,Stormfront 
+2978,9/100,Regigigas,Colorless,Rare Holo,Stormfront 
+2979,10/100,Sceptile,Grass,Rare Holo,Stormfront 
+2980,11/100,Torterra,Fighting,Rare Holo,Stormfront 
+2981,12/100,Abomasnow,Water,Rare,Stormfront 
+2982,13/100,Bronzong,Psychic,Rare,Stormfront 
+2983,14/100,Cherrim,Grass,Rare,Stormfront 
+2984,15/100,Drapion,Darkness,Rare,Stormfront 
+2985,16/100,Drifblim,Psychic,Rare,Stormfront 
+2986,17/100,Dusknoir,Psychic,Rare,Stormfront 
+2987,18/100,Gengar,Psychic,Rare,Stormfront 
+2988,19/100,Gyarados,Water,Rare,Stormfront 
+2989,20/100,Machamp,Fighting,Rare,Stormfront 
+2990,21/100,Mamoswine,Fighting,Rare,Stormfront 
+2991,22/100,Rapidash,Fire,Rare,Stormfront 
+2992,23/100,Roserade,Psychic,Rare,Stormfront 
+2993,24/100,Salamence,Colorless,Rare,Stormfront 
+2994,25/100,Scizor,Grass,Rare,Stormfront 
+2995,26/100,Skuntank,Darkness,Rare,Stormfront 
+2996,27/100,Staraptor,Colorless,Rare,Stormfront 
+2997,28/100,Steelix,Metal,Rare,Stormfront 
+2998,29/100,Tangrowth,Grass,Rare,Stormfront 
+2999,30/100,Tyranitar,Darkness,Rare,Stormfront 
+3000,31/100,Vespiquen,Grass,Rare,Stormfront 
+3001,32/100,Bibarel,Water,Uncommon,Stormfront 
+3002,33/100,Budew,Psychic,Uncommon,Stormfront 
+3003,34/100,Dusclops,Psychic,Uncommon,Stormfront 
+3004,35/100,Dusclops,Psychic,Uncommon,Stormfront 
+3005,36/100,Electrode,Lightning,Uncommon,Stormfront 
+3006,37/100,Electrode,Lightning,Uncommon,Stormfront 
+3007,38/100,Farfetch'd,Colorless,Uncommon,Stormfront 
+3008,39/100,Grovyle,Grass,Uncommon,Stormfront 
+3009,40/100,Haunter,Psychic,Uncommon,Stormfront 
+3010,41/100,Machoke,Fighting,Uncommon,Stormfront 
+3011,42/100,Magneton,Metal,Uncommon,Stormfront 
+3012,43/100,Magneton,Lightning,Uncommon,Stormfront 
+3013,44/100,Miltank,Colorless,Uncommon,Stormfront 
+3014,45/100,Pichu,Lightning,Uncommon,Stormfront 
+3015,46/100,Piloswine,Fighting,Uncommon,Stormfront 
+3016,47/100,Pupitar,Fighting,Uncommon,Stormfront 
+3017,48/100,Sableye,Darkness,Uncommon,Stormfront 
+3018,49/100,Scyther,Grass,Uncommon,Stormfront 
+3019,50/100,Shelgon,Colorless,Uncommon,Stormfront 
+3020,51/100,Skarmory,Metal,Uncommon,Stormfront 
+3021,52/100,Staravia,Colorless,Uncommon,Stormfront 
+3022,53/100,Bagon,Colorless,Common,Stormfront 
+3023,54/100,Bidoof,Colorless,Common,Stormfront 
+3024,55/100,Bronzor,Psychic,Common,Stormfront 
+3025,56/100,Cherubi,Grass,Common,Stormfront 
+3026,57/100,Combee,Grass,Common,Stormfront 
+3027,58/100,Drifloon,Psychic,Common,Stormfront 
+3028,59/100,Duskull,Psychic,Common,Stormfront 
+3029,60/100,Duskull,Psychic,Common,Stormfront 
+3030,61/100,Finneon,Water,Common,Stormfront 
+3031,62/100,Gastly,Psychic,Common,Stormfront 
+3032,63/100,Larvitar,Fighting,Common,Stormfront 
+3033,64/100,Machop,Fighting,Common,Stormfront 
+3034,65/100,Magikarp,Water,Common,Stormfront 
+3035,66/100,Magnemite,Metal,Common,Stormfront 
+3036,67/100,Magnemite,Lightning,Common,Stormfront 
+3037,68/100,Misdreavus,Psychic,Common,Stormfront 
+3038,69/100,Onix,Fighting,Common,Stormfront 
+3039,70/100,Pikachu,Lightning,Common,Stormfront 
+3040,71/100,Ponyta,Fire,Common,Stormfront 
+3041,72/100,Roselia,Psychic,Common,Stormfront 
+3042,73/100,Skorupi,Grass,Common,Stormfront 
+3043,74/100,Snover,Water,Common,Stormfront 
+3044,75/100,Starly,Colorless,Common,Stormfront 
+3045,76/100,Stunky,Darkness,Common,Stormfront 
+3046,77/100,Swinub,Fighting,Common,Stormfront 
+3047,78/100,Tangela,Grass,Common,Stormfront 
+3048,79/100,Treecko,Grass,Common,Stormfront 
+3049,80/100,Voltorb,Lightning,Common,Stormfront 
+3050,81/100,Voltorb,Lightning,Common,Stormfront 
+3051,82/100,Conductive Quarry,St,Uncommon,Stormfront 
+3052,83/100,Energy Link,T,Uncommon,Stormfront 
+3053,84/100,Energy Switch,T,Uncommon,Stormfront 
+3054,85/100,Great Ball,T,Uncommon,Stormfront 
+3055,86/100,Luxury Ball,T,Uncommon,Stormfront 
+3056,87/100,Marley's Request,Su,Uncommon,Stormfront 
+3057,88/100,Poké Blower +,T,Uncommon,Stormfront 
+3058,89/100,Poké Drawer +,T,Uncommon,Stormfront 
+3059,90/100,Poké Healer +,T,Uncommon,Stormfront 
+3060,91/100,Premier Ball,T,Uncommon,Stormfront 
+3061,92/100,Potion,T,Common,Stormfront 
+3062,93/100,Switch,T,Common,Stormfront 
+3063,94/100,Cyclone Energy,Colorless,Uncommon,Stormfront 
+3064,95/100,Warp Energy,Colorless,Uncommon,Stormfront 
+3065,96/100,Dusknoir LV.X,Psychic,NULL,Stormfront 
+3066,97/100,Heatran LV.X,Fire,NULL,Stormfront 
+3067,98/100,Machamp LV.X,Fighting,NULL,Stormfront 
+3068,99/100,Raichu LV.X,Lightning,NULL,Stormfront 
+3069,100/100,Regigigas LV.X,Colorless,NULL,Stormfront 
+3070,101/100,Charmander,Fire,NULL,Stormfront 
+3071,102/100,Charmeleon,Fire,NULL,Stormfront 
+3072,103/100,Charizard,Fire,NULL,Stormfront 
+3073,1/127,Ampharos,Lightning,Rare Holo,Platinum 
+3074,2/127,Blastoise,Water,Rare Holo,Platinum 
+3075,3/127,Blaziken,Fire,Rare Holo,Platinum 
+3076,4/127,Delcatty,Colorless,Rare Holo,Platinum 
+3077,5/127,Dialga,Metal,Rare Holo,Platinum 
+3078,6/127,Dialga,Metal,Rare Holo,Platinum 
+3079,7/127,Dialga,Metal,Rare Holo,Platinum 
+3080,8/127,Gardevoir,Psychic,Rare Holo,Platinum 
+3081,9/127,Giratina,Psychic,Rare Holo,Platinum 
+3082,10/127,Giratina,Psychic,Rare Holo,Platinum 
+3083,11/127,Manectric,Lightning,Rare Holo,Platinum 
+3084,12/127,Palkia,Water,Rare Holo,Platinum 
+3085,13/127,Rampardos,Fighting,Rare Holo,Platinum 
+3086,14/127,Shaymin,Grass,Rare Holo,Platinum 
+3087,15/127,Shaymin,Grass,Rare Holo,Platinum 
+3088,16/127,Slaking,Colorless,Rare Holo,Platinum 
+3089,17/127,Weavile,Darkness,Rare Holo,Platinum 
+3090,18/127,Altaria,Colorless,Rare,Platinum 
+3091,19/127,Banette,Psychic,Rare,Platinum 
+3092,20/127,Bastiodon,Metal,Rare,Platinum 
+3093,21/127,Beautifly,Grass,Rare,Platinum 
+3094,22/127,Blissey,Colorless,Rare,Platinum 
+3095,23/127,Dialga,Metal,Rare,Platinum 
+3096,24/127,Dugtrio,Fighting,Rare,Platinum 
+3097,25/127,Dustox,Psychic,Rare,Platinum 
+3098,26/127,Empoleon,Water,Rare,Platinum 
+3099,27/127,Giratina,Psychic,Rare,Platinum 
+3100,28/127,Giratina,Psychic,Rare,Platinum 
+3101,29/127,Golduck,Water,Rare,Platinum 
+3102,30/127,Gyarados,Water,Rare,Platinum 
+3103,31/127,Infernape,Fire,Rare,Platinum 
+3104,32/127,Kricketune,Grass,Rare,Platinum 
+3105,33/127,Lickilicky,Colorless,Rare,Platinum 
+3106,34/127,Ludicolo,Grass,Rare,Platinum 
+3107,35/127,Luvdisc,Water,Rare,Platinum 
+3108,36/127,Ninetales,Fire,Rare,Platinum 
+3109,37/127,Palkia,Water,Rare,Platinum 
+3110,38/127,Shaymin,Grass,Rare,Platinum 
+3111,39/127,Torterra,Grass,Rare,Platinum 
+3112,40/127,Toxicroak,Psychic,Rare,Platinum 
+3113,41/127,Bronzong,Metal,Uncommon,Platinum 
+3114,42/127,Cacturne,Grass,Uncommon,Platinum 
+3115,43/127,Carnivine,Grass,Uncommon,Platinum 
+3116,44/127,Cascoon,Grass,Uncommon,Platinum 
+3117,45/127,Combusken,Fire,Uncommon,Platinum 
+3118,46/127,Cranidos,Fighting,Uncommon,Platinum 
+3119,47/127,Crobat,Psychic,Uncommon,Platinum 
+3120,48/127,Flaaffy,Lightning,Uncommon,Platinum 
+3121,49/127,Grotle,Grass,Uncommon,Platinum 
+3122,50/127,Houndoom,Fire,Uncommon,Platinum 
+3123,51/127,Kirlia,Psychic,Uncommon,Platinum 
+3124,52/127,Lombre,Grass,Uncommon,Platinum 
+3125,53/127,Lucario,Metal,Uncommon,Platinum 
+3126,54/127,Mightyena,Darkness,Uncommon,Platinum 
+3127,55/127,Mismagius,Psychic,Uncommon,Platinum 
+3128,56/127,Monferno,Fire,Uncommon,Platinum 
+3129,57/127,Muk,Psychic,Uncommon,Platinum 
+3130,58/127,Octillery,Water,Uncommon,Platinum 
+3131,59/127,Prinplup,Water,Uncommon,Platinum 
+3132,60/127,Probopass,Fighting,Uncommon,Platinum 
+3133,61/127,Seviper,Psychic,Uncommon,Platinum 
+3134,62/127,Shieldon,Metal,Uncommon,Platinum 
+3135,63/127,Silcoon,Grass,Uncommon,Platinum 
+3136,64/127,Vigoroth,Colorless,Uncommon,Platinum 
+3137,65/127,Wartortle,Water,Uncommon,Platinum 
+3138,66/127,Zangoose,Colorless,Uncommon,Platinum 
+3139,67/127,Cacnea,Grass,Common,Platinum 
+3140,68/127,Carnivine,Grass,Common,Platinum 
+3141,69/127,Chansey,Colorless,Common,Platinum 
+3142,70/127,Chimchar,Fire,Common,Platinum 
+3143,71/127,Combee,Grass,Common,Platinum 
+3144,72/127,Diglett,Fighting,Common,Platinum 
+3145,73/127,Dunsparce,Colorless,Common,Platinum 
+3146,74/127,Electrike,Lightning,Common,Platinum 
+3147,75/127,Grimer,Psychic,Common,Platinum 
+3148,76/127,Happiny,Colorless,Common,Platinum 
+3149,77/127,Honchkrow,Darkness,Common,Platinum 
+3150,78/127,Kricketot,Grass,Common,Platinum 
+3151,79/127,Lapras,Water,Common,Platinum 
+3152,80/127,Lickitung,Colorless,Common,Platinum 
+3153,81/127,Lotad,Grass,Common,Platinum 
+3154,82/127,Mareep,Lightning,Common,Platinum 
+3155,83/127,Misdreavus,Psychic,Common,Platinum 
+3156,84/127,Nosepass,Fighting,Common,Platinum 
+3157,85/127,Piplup,Water,Common,Platinum 
+3158,86/127,Poochyena,Darkness,Common,Platinum 
+3159,87/127,Psyduck,Water,Common,Platinum 
+3160,88/127,Purugly,Colorless,Common,Platinum 
+3161,89/127,Ralts,Psychic,Common,Platinum 
+3162,90/127,Remoraid,Water,Common,Platinum 
+3163,91/127,Riolu,Fighting,Common,Platinum 
+3164,92/127,Shuppet,Psychic,Common,Platinum 
+3165,93/127,Skitty,Colorless,Common,Platinum 
+3166,94/127,Skuntank,Psychic,Common,Platinum 
+3167,95/127,Slakoth,Colorless,Common,Platinum 
+3168,96/127,Squirtle,Water,Common,Platinum 
+3169,97/127,Swablu,Colorless,Common,Platinum 
+3170,98/127,Tauros,Colorless,Common,Platinum 
+3171,99/127,Torchic,Fire,Common,Platinum 
+3172,100/127,Torkoal,Fire,Common,Platinum 
+3173,101/127,Turtwig,Grass,Common,Platinum 
+3174,102/127,Vulpix,Fire,Common,Platinum 
+3175,103/127,Wurmple,Grass,Common,Platinum 
+3176,104/127,Broken Time-Space,St,Uncommon,Platinum 
+3177,105/127,Cyrus's Conspiracy,Su,Uncommon,Platinum 
+3178,106/127,Galactic HQ,St,Uncommon,Platinum 
+3179,107/127,Level Max,T,Uncommon,Platinum 
+3180,108/127,Life Herb,T,Uncommon,Platinum 
+3181,109/127,Looker's Investigation,Su,Uncommon,Platinum 
+3182,110/127,Memory Berry,T,Uncommon,Platinum 
+3183,111/127,Miasma Valley,St,Uncommon,Platinum 
+3184,112/127,PlusPower,T,Uncommon,Platinum 
+3185,113/127,Poké Ball,T,Uncommon,Platinum 
+3186,114/127,Pokédex HANDY910is,T,Uncommon,Platinum 
+3187,115/127,Pokémon Rescue,T,Uncommon,Platinum 
+3188,116/127,Team Galactic's Invention G-101 Energy Gain,T,Uncommon,Platinum 
+3189,117/127,Team Galactic's Invention G-103 Power Spray,T,Uncommon,Platinum 
+3190,118/127,Team Galactic's Invention G-105 Poké Turn,T,Uncommon,Platinum 
+3191,119/127,Armor Fossil,T,Common,Platinum 
+3192,120/127,Skull Fossil,T,Common,Platinum 
+3193,121/127,Rainbow Energy,Rainbow,Uncommon,Platinum 
+3194,122/127,Dialga,Metal,NULL,Platinum 
+3195,123/127,Drapion LV.X,Darkness,NULL,Platinum 
+3196,124/127,Giratina LV.X,Psychic,NULL,Platinum 
+3197,125/127,Palkia,Water,NULL,Platinum 
+3198,126/127,Shaymin LV.X,Grass,NULL,Platinum 
+3199,127/127,Shaymin LV.X,Grass,NULL,Platinum 
+3200,128/127,Electabuzz,Lightning,NULL,Platinum 
+3201,129/127,Hitmonchan,Fighting,NULL,Platinum 
+3202,130/127,Scyther,Grass,NULL,Platinum 
+3203,1/111,Arcanine,Fire,Rare Holo,Rising Rivals 
+3204,2/111,Bastiodon,Metal,Rare Holo,Rising Rivals 
+3205,3/111,Darkrai,Darkness,Rare Holo,Rising Rivals 
+3206,4/111,Floatzel,Water,Rare Holo,Rising Rivals 
+3207,5/111,Flygon,Colorless,Rare Holo,Rising Rivals 
+3208,6/111,Froslass,Water,Rare Holo,Rising Rivals 
+3209,7/111,Jirachi,Metal,Rare Holo,Rising Rivals 
+3210,8/111,Lucario,Fighting,Rare Holo,Rising Rivals 
+3211,9/111,Luxray,Lightning,Rare Holo,Rising Rivals 
+3212,10/111,Mismagius,Psychic,Rare Holo,Rising Rivals 
+3213,11/111,Rampardos,Fighting,Rare Holo,Rising Rivals 
+3214,12/111,Roserade,Grass,Rare Holo,Rising Rivals 
+3215,13/111,Shiftry,Darkness,Rare Holo,Rising Rivals 
+3216,14/111,Aggron,Metal,Rare,Rising Rivals 
+3217,15/111,Beedrill,Grass,Rare,Rising Rivals 
+3218,16/111,Bronzong,Psychic,Rare,Rising Rivals 
+3219,17/111,Drapion,Darkness,Rare,Rising Rivals 
+3220,18/111,Espeon,Psychic,Rare,Rising Rivals 
+3221,19/111,Flareon,Fire,Rare,Rising Rivals 
+3222,20/111,Gallade,Psychic,Rare,Rising Rivals 
+3223,21/111,Gastrodon,Water,Rare,Rising Rivals 
+3224,22/111,Gastrodon,Fighting,Rare,Rising Rivals 
+3225,23/111,Golem,Fighting,Rare,Rising Rivals 
+3226,24/111,Heracross,Grass,Rare,Rising Rivals 
+3227,25/111,Hippowdon,Fighting,Rare,Rising Rivals 
+3228,26/111,Jolteon,Lightning,Rare,Rising Rivals 
+3229,27/111,Mamoswine,Water,Rare,Rising Rivals 
+3230,28/111,Mr. Mime,Psychic,Rare,Rising Rivals 
+3231,29/111,Nidoking,Fighting,Rare,Rising Rivals 
+3232,30/111,Nidoqueen,Psychic,Rare,Rising Rivals 
+3233,31/111,Raichu,Lightning,Rare,Rising Rivals 
+3234,32/111,Rhyperior,Fighting,Rare,Rising Rivals 
+3235,33/111,Snorlax,Colorless,Rare,Rising Rivals 
+3236,34/111,Vaporeon,Water,Rare,Rising Rivals 
+3237,35/111,Vespiquen,Grass,Rare,Rising Rivals 
+3238,36/111,Walrein,Water,Rare,Rising Rivals 
+3239,37/111,Yanmega,Grass,Rare,Rising Rivals 
+3240,38/111,Alakazam,Psychic,Uncommon,Rising Rivals 
+3241,39/111,Electrode,Lightning,Uncommon,Rising Rivals 
+3242,40/111,Gengar,Psychic,Uncommon,Rising Rivals 
+3243,41/111,Glaceon,Water,Uncommon,Rising Rivals 
+3244,42/111,Hippowdon,Fighting,Uncommon,Rising Rivals 
+3245,43/111,Infernape,Fire,Uncommon,Rising Rivals 
+3246,44/111,Lairon,Metal,Uncommon,Rising Rivals 
+3247,45/111,Leafeon,Grass,Uncommon,Rising Rivals 
+3248,46/111,Machamp,Fighting,Uncommon,Rising Rivals 
+3249,47/111,Rapidash,Fire,Uncommon,Rising Rivals 
+3250,48/111,Scizor,Grass,Uncommon,Rising Rivals 
+3251,49/111,Sharpedo,Darkness,Uncommon,Rising Rivals 
+3252,50/111,Starmie,Water,Uncommon,Rising Rivals 
+3253,51/111,Steelix,Metal,Uncommon,Rising Rivals 
+3254,52/111,Tropius,Grass,Uncommon,Rising Rivals 
+3255,53/111,Vibrava,Colorless,Uncommon,Rising Rivals 
+3256,54/111,Whiscash,Fighting,Uncommon,Rising Rivals 
+3257,55/111,Aerodactyl,Fighting,Common,Rising Rivals 
+3258,56/111,Ambipom,Colorless,Common,Rising Rivals 
+3259,57/111,Aron,Metal,Common,Rising Rivals 
+3260,58/111,Carvanha,Darkness,Common,Rising Rivals 
+3261,59/111,Eevee,Colorless,Common,Rising Rivals 
+3262,60/111,Flareon,Fire,Common,Rising Rivals 
+3263,61/111,Forretress,Metal,Common,Rising Rivals 
+3264,62/111,Gliscor,Fighting,Common,Rising Rivals 
+3265,63/111,Growlithe,Fire,Common,Rising Rivals 
+3266,64/111,Hippopotas,Fighting,Common,Rising Rivals 
+3267,65/111,Houndoom,Darkness,Common,Rising Rivals 
+3268,66/111,Kakuna,Grass,Common,Rising Rivals 
+3269,67/111,Kecleon,Colorless,Common,Rising Rivals 
+3270,68/111,Koffing,Psychic,Common,Rising Rivals 
+3271,69/111,Munchlax,Colorless,Common,Rising Rivals 
+3272,70/111,Munchlax,Colorless,Common,Rising Rivals 
+3273,71/111,Nidoran♀,Psychic,Common,Rising Rivals 
+3274,72/111,Nidoran♂,Psychic,Common,Rising Rivals 
+3275,73/111,Nidorina,Psychic,Common,Rising Rivals 
+3276,74/111,Nidorino,Psychic,Common,Rising Rivals 
+3277,75/111,Nuzleaf,Darkness,Common,Rising Rivals 
+3278,76/111,Quagsire,Water,Common,Rising Rivals 
+3279,77/111,Sealeo,Water,Common,Rising Rivals 
+3280,78/111,Seedot,Grass,Common,Rising Rivals 
+3281,79/111,Shellos,Water,Common,Rising Rivals 
+3282,80/111,Shellos,Water,Common,Rising Rivals 
+3283,81/111,Snorlax,Colorless,Common,Rising Rivals 
+3284,82/111,Spheal,Water,Common,Rising Rivals 
+3285,83/111,Staryu,Water,Common,Rising Rivals 
+3286,84/111,Trapinch,Fighting,Common,Rising Rivals 
+3287,85/111,Turtwig,Grass,Common,Rising Rivals 
+3288,86/111,Weedle,Grass,Common,Rising Rivals 
+3289,87/111,Weezing,Psychic,Common,Rising Rivals 
+3290,88/111,Aaron's Collection,Su,Uncommon,Rising Rivals 
+3291,89/111,Bebe's Search,Su,Uncommon,Rising Rivals 
+3292,90/111,Bertha's Warmth,Su,Uncommon,Rising Rivals 
+3293,91/111,Flint's Willpower,Su,Uncommon,Rising Rivals 
+3294,92/111,Lucian's Assignment,Su,Uncommon,Rising Rivals 
+3295,93/111,Pokémon Contest Hall,St,Uncommon,Rising Rivals 
+3296,94/111,Sunyshore City Gym,St,Uncommon,Rising Rivals 
+3297,95/111,Team Galactic's Invention G-107 Technical Machine,T,Uncommon,Rising Rivals 
+3298,96/111,Team Galactic's Invention G-109 SP Radar,T,Uncommon,Rising Rivals 
+3299,97/111,Underground Expedition,Su,Uncommon,Rising Rivals 
+3300,98/111,Volkner's Philosophy,Su,Uncommon,Rising Rivals 
+3301,99/111,Darkness Energy,Darkness,Uncommon,Rising Rivals 
+3302,100/111,Metal Energy,Metal,Uncommon,Rising Rivals 
+3303,101/111,SP Energy,Colorless,Uncommon,Rising Rivals 
+3304,102/111,Upper Energy,Colorless,Uncommon,Rising Rivals 
+3305,103/111,Alakazam,Psychic,NULL,Rising Rivals 
+3306,104/111,Floatzel,Water,NULL,Rising Rivals 
+3307,105/111,Flygon LV.X,Colorless,NULL,Rising Rivals 
+3308,106/111,Gallade,Psychic,NULL,Rising Rivals 
+3309,107/111,Hippowdon LV.X,Fighting,NULL,Rising Rivals 
+3310,108/111,Infernape,Fire,NULL,Rising Rivals 
+3311,109/111,Luxray,Lightning,NULL,Rising Rivals 
+3312,110/111,Mismagius,Psychic,NULL,Rising Rivals 
+3313,111/111,Snorlax LV.X,Colorless,NULL,Rising Rivals 
+3314,112/111,Pikachu,Lightning,NULL,Rising Rivals 
+3315,113/111,Flying Pikachu,Lightning,NULL,Rising Rivals 
+3316,114/111,Surfing Pikachu,Lightning,NULL,Rising Rivals 
+3317,1/147,Absol,Darkness,Rare Holo,Supreme Victors 
+3318,2/147,Blaziken,Fire,Rare Holo,Supreme Victors 
+3319,3/147,Drifblim,Psychic,Rare Holo,Supreme Victors 
+3320,4/147,Electivire,Lightning,Rare Holo,Supreme Victors 
+3321,5/147,Garchomp,Colorless,Rare Holo,Supreme Victors 
+3322,6/147,Magmortar,Fire,Rare Holo,Supreme Victors 
+3323,7/147,Metagross,Metal,Rare Holo,Supreme Victors 
+3324,8/147,Rayquaza,Colorless,Rare Holo,Supreme Victors 
+3325,9/147,Regigigas,Colorless,Rare Holo,Supreme Victors 
+3326,10/147,Rhyperior,Fighting,Rare Holo,Supreme Victors 
+3327,11/147,Staraptor,Colorless,Rare Holo,Supreme Victors 
+3328,12/147,Swampert,Water,Rare Holo,Supreme Victors 
+3329,13/147,Venusaur,Grass,Rare Holo,Supreme Victors 
+3330,14/147,Yanmega,Grass,Rare Holo,Supreme Victors 
+3331,15/147,Arcanine,Fire,Rare,Supreme Victors 
+3332,16/147,Articuno,Water,Rare,Supreme Victors 
+3333,17/147,Butterfree,Grass,Rare,Supreme Victors 
+3334,18/147,Camerupt,Fire,Rare,Supreme Victors 
+3335,19/147,Camerupt,Fire,Rare,Supreme Victors 
+3336,20/147,Charizard,Fire,Rare,Supreme Victors 
+3337,21/147,Chimecho,Psychic,Rare,Supreme Victors 
+3338,22/147,Claydol,Psychic,Rare,Supreme Victors 
+3339,23/147,Crawdaunt,Darkness,Rare,Supreme Victors 
+3340,24/147,Dewgong,Water,Rare,Supreme Victors 
+3341,25/147,Dodrio,Colorless,Rare,Supreme Victors 
+3342,26/147,Dusknoir,Psychic,Rare,Supreme Victors 
+3343,27/147,Empoleon,Water,Rare,Supreme Victors 
+3344,28/147,Exploud,Colorless,Rare,Supreme Victors 
+3345,29/147,Honchkrow,Darkness,Rare,Supreme Victors 
+3346,30/147,Lickilicky,Colorless,Rare,Supreme Victors 
+3347,31/147,Lucario,Fighting,Rare,Supreme Victors 
+3348,32/147,Lunatone,Psychic,Rare,Supreme Victors 
+3349,33/147,Mawile,Metal,Rare,Supreme Victors 
+3350,34/147,Medicham,Psychic,Rare,Supreme Victors 
+3351,35/147,Milotic,Water,Rare,Supreme Victors 
+3352,36/147,Moltres,Fire,Rare,Supreme Victors 
+3353,37/147,Mr. Mime,Psychic,Rare,Supreme Victors 
+3354,38/147,Parasect,Grass,Rare,Supreme Victors 
+3355,39/147,Primeape,Fighting,Rare,Supreme Victors 
+3356,40/147,Roserade,Psychic,Rare,Supreme Victors 
+3357,41/147,Sableye,Darkness,Rare,Supreme Victors 
+3358,42/147,Sandslash,Fighting,Rare,Supreme Victors 
+3359,43/147,Seaking,Water,Rare,Supreme Victors 
+3360,44/147,Shedinja,Grass,Rare,Supreme Victors 
+3361,45/147,Solrock,Psychic,Rare,Supreme Victors 
+3362,46/147,Spinda,Colorless,Rare,Supreme Victors 
+3363,47/147,Wailord,Water,Rare,Supreme Victors 
+3364,48/147,Zapdos,Lightning,Rare,Supreme Victors 
+3365,49/147,Altaria,Colorless,Uncommon,Supreme Victors 
+3366,50/147,Arcanine,Fire,Uncommon,Supreme Victors 
+3367,51/147,Bibarel,Colorless,Uncommon,Supreme Victors 
+3368,52/147,Breloom,Fighting,Uncommon,Supreme Victors 
+3369,53/147,Carnivine,Grass,Uncommon,Supreme Victors 
+3370,54/147,Chatot,Colorless,Uncommon,Supreme Victors 
+3371,55/147,Cherrim,Grass,Uncommon,Supreme Victors 
+3372,56/147,Dragonite,Colorless,Uncommon,Supreme Victors 
+3373,57/147,Drifblim,Psychic,Uncommon,Supreme Victors 
+3374,58/147,Floatzel,Water,Uncommon,Supreme Victors 
+3375,59/147,Gabite,Colorless,Uncommon,Supreme Victors 
+3376,60/147,Garchomp,Colorless,Uncommon,Supreme Victors 
+3377,61/147,Hippopotas,Fighting,Uncommon,Supreme Victors 
+3378,62/147,Ivysaur,Grass,Uncommon,Supreme Victors 
+3379,63/147,Lopunny,Colorless,Uncommon,Supreme Victors 
+3380,64/147,Loudred,Colorless,Uncommon,Supreme Victors 
+3381,65/147,Magmar,Fire,Uncommon,Supreme Victors 
+3382,66/147,Manectric,Lightning,Uncommon,Supreme Victors 
+3383,67/147,Marshtomp,Water,Uncommon,Supreme Victors 
+3384,68/147,Masquerain,Grass,Uncommon,Supreme Victors 
+3385,69/147,Metang,Metal,Uncommon,Supreme Victors 
+3386,70/147,Milotic,Water,Uncommon,Supreme Victors 
+3387,71/147,Minun,Lightning,Uncommon,Supreme Victors 
+3388,72/147,Murkrow,Darkness,Uncommon,Supreme Victors 
+3389,73/147,Ninjask,Grass,Uncommon,Supreme Victors 
+3390,74/147,Numel,Fire,Uncommon,Supreme Victors 
+3391,75/147,Pinsir,Grass,Uncommon,Supreme Victors 
+3392,76/147,Plusle,Lightning,Uncommon,Supreme Victors 
+3393,77/147,Raichu,Lightning,Uncommon,Supreme Victors 
+3394,78/147,Raticate,Colorless,Uncommon,Supreme Victors 
+3395,79/147,Relicanth,Fighting,Uncommon,Supreme Victors 
+3396,80/147,Rhydon,Fighting,Uncommon,Supreme Victors 
+3397,81/147,Roserade,Grass,Uncommon,Supreme Victors 
+3398,82/147,Rotom,Lightning,Uncommon,Supreme Victors 
+3399,83/147,Skarmory,Metal,Uncommon,Supreme Victors 
+3400,84/147,Spiritomb,Psychic,Uncommon,Supreme Victors 
+3401,85/147,Staravia,Colorless,Uncommon,Supreme Victors 
+3402,86/147,Togekiss,Colorless,Uncommon,Supreme Victors 
+3403,87/147,Wailmer,Water,Uncommon,Supreme Victors 
+3404,88/147,Yanma,Grass,Uncommon,Supreme Victors 
+3405,89/147,Baltoy,Psychic,Common,Supreme Victors 
+3406,90/147,Beldum,Metal,Common,Supreme Victors 
+3407,91/147,Bidoof,Colorless,Common,Supreme Victors 
+3408,92/147,Buizel,Water,Common,Supreme Victors 
+3409,93/147,Bulbasaur,Grass,Common,Supreme Victors 
+3410,94/147,Buneary,Colorless,Common,Supreme Victors 
+3411,95/147,Chatot,Colorless,Common,Supreme Victors 
+3412,96/147,Cherubi,Grass,Common,Supreme Victors 
+3413,97/147,Chimchar,Fire,Common,Supreme Victors 
+3414,98/147,Chingling,Psychic,Common,Supreme Victors 
+3415,99/147,Combee,Grass,Common,Supreme Victors 
+3416,100/147,Corphish,Water,Common,Supreme Victors 
+3417,101/147,Croagunk,Psychic,Common,Supreme Victors 
+3418,102/147,Doduo,Colorless,Common,Supreme Victors 
+3419,103/147,Drifloon,Psychic,Common,Supreme Victors 
+3420,104/147,Feebas,Water,Common,Supreme Victors 
+3421,105/147,Geodude,Fighting,Common,Supreme Victors 
+3422,106/147,Gible,Colorless,Common,Supreme Victors 
+3423,107/147,Goldeen,Water,Common,Supreme Victors 
+3424,108/147,Growlithe,Fire,Common,Supreme Victors 
+3425,109/147,Kricketot,Grass,Common,Supreme Victors 
+3426,110/147,Magikarp,Water,Common,Supreme Victors 
+3427,111/147,Magnemite,Lightning,Common,Supreme Victors 
+3428,112/147,Mankey,Fighting,Common,Supreme Victors 
+3429,113/147,Meditite,Psychic,Common,Supreme Victors 
+3430,114/147,Meowth,Colorless,Common,Supreme Victors 
+3431,115/147,Mime Jr.,Psychic,Common,Supreme Victors 
+3432,116/147,Mudkip,Water,Common,Supreme Victors 
+3433,117/147,Nincada,Grass,Common,Supreme Victors 
+3434,118/147,Pachirisu,Lightning,Common,Supreme Victors 
+3435,119/147,Paras,Grass,Common,Supreme Victors 
+3436,120/147,Pikachu,Lightning,Common,Supreme Victors 
+3437,121/147,Piplup,Water,Common,Supreme Victors 
+3438,122/147,Rhyhorn,Fighting,Common,Supreme Victors 
+3439,123/147,Roselia,Grass,Common,Supreme Victors 
+3440,124/147,Sandshrew,Fighting,Common,Supreme Victors 
+3441,125/147,Seel,Water,Common,Supreme Victors 
+3442,126/147,Shinx,Lightning,Common,Supreme Victors 
+3443,127/147,Shroomish,Grass,Common,Supreme Victors 
+3444,128/147,Skorupi,Psychic,Common,Supreme Victors 
+3445,129/147,Starly,Colorless,Common,Supreme Victors 
+3446,130/147,Surskit,Grass,Common,Supreme Victors 
+3447,131/147,Turtwig,Grass,Common,Supreme Victors 
+3448,132/147,Whismur,Colorless,Common,Supreme Victors 
+3449,133/147,Zubat,Psychic,Common,Supreme Victors 
+3450,134/147,Battle Tower,St,Uncommon,Supreme Victors 
+3451,135/147,Champion's Room,St,Uncommon,Supreme Victors 
+3452,136/147,Cynthia's Guidance,Su,Uncommon,Supreme Victors 
+3453,137/147,Cyrus's Initiative,Su,Uncommon,Supreme Victors 
+3454,138/147,Night Teleporter,T,Uncommon,Supreme Victors 
+3455,139/147,Palmer's Contribution,Su,Uncommon,Supreme Victors 
+3456,140/147,VS Seeker,T,Uncommon,Supreme Victors 
+3457,141/147,Absol,Darkness,NULL,Supreme Victors 
+3458,142/147,Blaziken,Fire,NULL,Supreme Victors 
+3459,143/147,Charizard,Fire,NULL,Supreme Victors 
+3460,144/147,Electivire,Lightning,NULL,Supreme Victors 
+3461,145/147,Garchomp,Colorless,NULL,Supreme Victors 
+3462,146/147,Rayquaza,Colorless,NULL,Supreme Victors 
+3463,147/147,Staraptor,Colorless,NULL,Supreme Victors 
+3464,148/147,Articuno,Water,NULL,Supreme Victors 
+3465,149/147,Moltres,Fire,NULL,Supreme Victors 
+3466,150/147,Zapdos,Lightning,NULL,Supreme Victors 

@@ -1,9 +1,5 @@
 # Building a SQL Database
 
-In this project, my goal is to create a new SQL database using MySQL and Sequel Ace while delving into the fundamental concepts of primary keys, foreign keys, and best practices for Relational Database Management Systems (RDBMS). To make the learning experience more engaging and practical, I have chosen to create a database specifically for the Pokemon Trading Card Game. By using this popular game as an example, I aim to provide a concrete context for understanding and implementing these important database concepts.
-
-Key objecyives include ; scraping information from a specific website, define the tables and their relationships, and establish a connection between the SQL database and Python for data storage and querying.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Scraping Information](#scraping-information)
@@ -11,7 +7,20 @@ Key objecyives include ; scraping information from a specific website, define th
 - [Connecting SQL Database to Python](#connecting-sql-database-to-python)
 
 ## Introduction
-In this project, we explore the process of creating an SQL database while documenting the learning journey. The focus is on scraping information from a specific website and using that data to build tables with defined relationships. Additionally, we establish a connection between the SQL database and Python to facilitate data storage and querying.
+
+In this project, my goal is to create a new SQL database using MySQL and Sequel Ace while delving into the fundamental concepts of primary keys, foreign keys, and best practices for Relational Database Management Systems (RDBMS). To make the learning experience more engaging and practical, I have chosen to create a database specifically for the Pokemon Trading Card Game. By using this popular game as an example, I aim to provide a concrete context for understanding and implementing these important database concepts.
+
+Key objecyives include;
+1.) Scraping information from a specific website 
+  * [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
+  *
+2.) Define the tables and their relationship.
+  * card_energy_types, cards, cardtype, energy_types, expansions, rarity, sets.
+
+3.) Establish a connection between the SQL database and Python for data storage and querying.
+  * import sql connector
+
+
 
 ## Scraping Information
 The first step of this project involved scraping information from the website [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page). The target was to retrieve specific data that would be stored in the SQL database. By using web scraping techniques, relevant information was extracted from the website to serve as the foundation for the database.

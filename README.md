@@ -1,3 +1,5 @@
+# NOT FINAL README
+
 # Building a SQL Database
 
 ## Table of Contents
@@ -10,7 +12,7 @@
 
 In this project, my goal is to create a new SQL database using MySQL and Sequel Ace while delving into the fundamental concepts of primary keys, foreign keys, and best practices for Relational Database Management Systems (RDBMS). To make the learning experience more engaging and practical, I have chosen to create a database specifically for the Pokemon Trading Card Game. By using this popular game as an example, I aim to provide a concrete context for understanding and implementing these important database concepts.
 
-Key objecyives include;
+Key objectives include;
 1.) Scraping information from a specific website 
   * [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
   *
@@ -18,12 +20,18 @@ Key objecyives include;
   * card_energy_types, cards, cardtype, energy_types, expansions, rarity, sets.
 
 3.) Establish a connection between the SQL database and Python for data storage and querying.
-  * import sql connector
+  * import mysql.connector
 
 
 
 ## Scraping Information
-The first step of this project involved scraping information from the website [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page). The target was to retrieve specific data that would be stored in the SQL database. By using web scraping techniques, relevant information was extracted from the website to serve as the foundation for the database.
+The first step of this project involved scraping information from the website [Bulbapedia/wiki/expansions](https://bulbapedia.bulbagarden.net/wiki/List_of_Pokémon_Trading_Card_Game_expansions).
+The target was to retrieve specific data that would be stored in the SQL database.
+
+Key objectives include;
+1.) Explore pages, find valuable data, determine exapansions and set names
+2.) Understand links, tables, and html structure
+3.) Use Selenium to gather pages, use BS4 to create html soup. Begin to extract information and creating meaningful data.
 
 ## Table Creation and Relationship Definition
 Once the necessary data was scraped, the next step was to create tables in SQL. The SQL language was employed to design and define the tables required for storing the scraped information. Relationships between the tables were established to represent the connections and dependencies between different entities within the database. This step involved careful consideration of the data structure and design to ensure optimal organization and efficiency.

@@ -1,6 +1,8 @@
 # Building a SQL Database 💾
 
 <span style="color: blue">This text is blue</span>
+<font color="blue">This text is blue</font>
+
 
 ## Introduction 📝
 

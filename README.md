@@ -29,16 +29,18 @@ The first step of this project involved scraping information from the website [B
 The target was to retrieve specific data that would be stored in the SQL database.
 
 Key objectives include;
-1.) Explore pages, find valuable data, determine exapansions and set names
-2.) Understand links, tables, and html structure
-3.) Use Selenium to gather pages, use BS4 to create html soup. Begin to extract information and creating meaningful data.
+1.) Explore pages, find valuable data, determine expansion, and set names.
+
+2.) Understand links, tables, and HTML structure.
+
+3.) Use Selenium to gather pages, and use BS4 to create html soup. Begin to extract information and create meaningful data.
 
 ## Table Creation and Relationship Definition
 Once the necessary data was scraped, the next step was to create tables in SQL. The SQL language was employed to design and define the tables required for storing the scraped information. Relationships between the tables were established to represent the connections and dependencies between different entities within the database. This step involved careful consideration of the data structure and design to ensure optimal organization and efficiency.
 
 Key objectives include;
-1.) Create a cards table to hold main item
- * Primary Key ID (Auto-Increment), Serial Number, Card Name,Rarity and Set.
+1.) Create a cards table to hold the main item
+ * Primary Key ID (Auto-Increment), Serial Number, Card Name, Rarity, and Set.
 
 2.) Expansion, Set, Rarity, Energy, tables
  * Primary Key, REF / FOREIGN KEY
@@ -50,8 +52,9 @@ To integrate the SQL database with Python, a connection needed to be established
 Key objectives include;
 1.) Create a file to store credentials to a SQL server. (Username and Password) 
  * env.py
- * 
-2.) Establish a connection from python to MySQL.
+
+   
+2.) Establish a connection from Python to MySQL.
    * '''
     connection = mysql.connector.connect(
     host='localhost',
@@ -59,12 +62,12 @@ Key objectives include;
     password=password,
     database='PokemonTCG'
     '''
+
 3.) Create a Script to send all information from dataframe to tables.
  * Send Serial Number
  * Send Card Name
  * Send Rarity
  * Send Set
-
 
 
 ## Conclusion

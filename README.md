@@ -14,6 +14,9 @@ KEY FILES;
 
 *[refine-scrape-method.ipynb](https://github.com/brandontnavarrete/Building-SQL-Database/blob/main/refine-scrape-method.ipynb)
 
+*[scrape-expansion-links.ipynb](https://github.com/brandontnavarrete/Building-SQL-Database/blob/main/scrape-expansion-links.ipynb)
+
+
 ## Table Creation and Relationship Definition 🗃️
 
 After scraping the necessary data, tables are created in SQL using the MySQL language. The tables are designed to store the scraped information, and relationships between the tables are established to represent connections and dependencies between different entities in the database. 

@@ -45,6 +45,16 @@ connection = mysql.connector.connect(
 
 Once the connection is established, a script is created to send the scraped information from a dataframe to the corresponding tables in the SQL database. The script sends the serial number, card name, rarity, and set information to their respective tables.
 
+After a given query:
+![Query Example](./sql-python-pokemon-image/query.png)
+
+
+These `join` query results show a better user-friendly table view.
+![Result Example](./sql-python-pokemon-image/join.png)
+
+You find that there are null values. This is due to not preemptively filling out the expansion and set names entirely. During the Python to SQL move, the names were not found 
+in the tables to be added.
+
 ## Conclusion 🎉
 
 This project aims to document the process of learning and creating an SQL database. By scraping data from a website, defining table relationships, and connecting the SQL database to Python, a comprehensive understanding of the database creation process is achieved. This README serves as a guide for anyone interested in exploring the steps taken to learn and create an SQL database using MySQL and Python.

@@ -37,6 +37,11 @@ Primary keys and foreign keys are used to establish relationships between the ta
 
 ## Connecting SQL Database to Python 🐍
 
+KEY FILES;
+
+*[sql-move.ipynb](https://github.com/brandontnavarrete/Building-SQL-Database/blob/main/sql-move.ipynb)
+
+
 To integrate the SQL database with Python, a connection is established between the two. The Python `mysql.connector` module is used to connect to the SQL database and transfer data from the scraped information. Queries are executed in Python, allowing for seamless interaction with the SQL database and retrieval of desired information.
 
 The connection to the SQL server is established using the following code snippet:

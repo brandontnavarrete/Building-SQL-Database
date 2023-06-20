@@ -7,6 +7,9 @@ In this project, the goal is to create a new SQL database using MySQL and Sequel
 ## Scraping Information 🕸️
 
 The first step involves scraping information from the [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) website. The target is to retrieve specific data to be stored in the SQL database. Selenium and BeautifulSoup are used for web scraping, exploring the website, finding valuable data, and extracting the required information.
+KEY FILES;
+
+-[data-scrape-and-initial-dataframe.ipynb]('https://github.com/brandontnavarrete/Building-SQL-Database/blob/main/data-scrape-and-initial-dataframe.ipynb')
 
 ## Table Creation and Relationship Definition 🗃️
 

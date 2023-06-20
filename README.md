@@ -11,6 +11,7 @@ The first step involves scraping information from the [Bulbapedia](https://bulba
 KEY FILES;
 
 *[data-scrape-and-initial-dataframe.ipynb](https://github.com/brandontnavarrete/Building-SQL-Database/blob/main/data-scrape-and-initial-dataframe.ipynb)
+
 *[refine-scrape-method.ipynb](https://github.com/brandontnavarrete/Building-SQL-Database/blob/main/refine-scrape-method.ipynb)
 
 ## Table Creation and Relationship Definition 🗃️

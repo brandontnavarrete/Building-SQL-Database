@@ -1,43 +1,60 @@
-# NOT FINAL README
+# Building a SQL Database 💾
 
-# Building a SQL Database
+## Introduction 📝
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Scraping Information](#scraping-information)
-- [Table Creation and Relationship Definition](#table-creation-and-relationship-definition)
-- [Connecting SQL Database to Python](#connecting-sql-database-to-python)
+In this project, the goal is to create a new SQL database using MySQL and Sequel Ace, focusing on the fundamental concepts of primary keys, foreign keys, and best practices for Relational Database Management Systems (RDBMS). The chosen example for this project is the Pokemon Trading Card Game, providing a concrete context for understanding and implementing these important database concepts.
 
-## Introduction
+## Scraping Information 🕸️
 
-In this project, my goal is to create a new SQL database using MySQL and Sequel Ace while delving into the fundamental concepts of primary keys, foreign keys, and best practices for Relational Database Management Systems (RDBMS). To make the learning experience more engaging and practical, I have chosen to create a database specifically for the Pokemon Trading Card Game. By using this popular game as an example, I aim to provide a concrete context for understanding and implementing these important database concepts.
+The first step involves scraping information from the [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) website. The target is to retrieve specific data to be stored in the SQL database. Selenium and BeautifulSoup are used for web scraping, exploring the website, finding valuable data, and extracting the required information.
 
-Key objectives include;
-1.) Scraping information from a specific website 
-  * [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
-  *
-2.) Define the tables and their relationship.
-  * card_energy_types, cards, cardtype, energy_types, expansions, rarity, sets.
+## Table Creation and Relationship Definition 🗃️
 
-3.) Establish a connection between the SQL database and Python for data storage and querying.
-  * import mysql.connector
+After scraping the necessary data, tables are created in SQL using the MySQL language. The tables are designed to store the scraped information, and relationships between the tables are established to represent connections and dependencies between different entities in the database. 
+
+![Structure Example](./sql-python-pokemon-image/table-structure.png)
+
+The following tables are created:
+
+- 🧩 `card_energy_types`: Stores the energy types associated with each card.
+- 🎴 `cards`: Holds information about each individual card, including its serial number, name, rarity, and set.
+-  `cardtype`: Contains the types of each card (e.g., "Pokémon", "Trainer", "Energy").
+- ⚡ `energy_types`: Stores the different types of energy cards.
+- 🌟 `expansions`: Stores information about the different expansions in the Pokemon Trading Card Game.
+-  `rarity`: Contains information about the rarity levels of cards.
+- 📚 `sets`: Stores information about the different sets in the Pokemon Trading Card Game.
+
+Primary keys and foreign keys are used to establish relationships between the tables, ensuring data integrity and enabling efficient querying.
+
+## Connecting SQL Database to Python 🐍
+
+To integrate the SQL database with Python, a connection is established between the two. The Python `mysql.connector` module is used to connect to the SQL database and transfer data from the scraped information. Queries are executed in Python, allowing for seamless interaction with the SQL database and retrieval of desired information.
+
+The connection to the SQL server is established using the following code snippet:
+
+```python
+import mysql.connector
+
+connection = mysql.connector.connect(
+    host='localhost',
+    user=username,
+    password=password,
+    database='PokemonTCG'
+)
+```
+
+Once the connection is established, a script is created to send the scraped information from a dataframe to the corresponding tables in the SQL database. The script sends the serial number, card name, rarity, and set information to their respective tables.
+
+After a given query:
+![Query Example](./sql-python-pokemon-image/query.png)
 
 
+These `join` query results show a better user-friendly table view.
+![Result Example](./sql-python-pokemon-image/join.png)
 
-## Scraping Information
-The first step of this project involved scraping information from the website [Bulbapedia/wiki/expansions](https://bulbapedia.bulbagarden.net/wiki/List_of_Pokémon_Trading_Card_Game_expansions).
-The target was to retrieve specific data that would be stored in the SQL database.
+You find that there are null values. This is due to not preemptively filling out the expansion and set names entirely. During the Python to SQL move, the names were not found 
+in the tables to be added.
 
-Key objectives include;
-1.) Explore pages, find valuable data, determine exapansions and set names
-2.) Understand links, tables, and html structure
-3.) Use Selenium to gather pages, use BS4 to create html soup. Begin to extract information and creating meaningful data.
+## Conclusion 🎉
 
-## Table Creation and Relationship Definition
-Once the necessary data was scraped, the next step was to create tables in SQL. The SQL language was employed to design and define the tables required for storing the scraped information. Relationships between the tables were established to represent the connections and dependencies between different entities within the database. This step involved careful consideration of the data structure and design to ensure optimal organization and efficiency.
-
-## Connecting SQL Database to Python
-To integrate the SQL database with Python, a connection needed to be established between the two. The Jupyter Notebook environment was utilized to facilitate this connection. Python scripts were written to connect to the SQL database and enable the transfer of data from the scraped information. Queries were executed within the notebook, allowing for seamless interaction with the SQL database and retrieval of desired information.
-
-## Conclusion
-This project aimed to document the learning process and creation of an SQL database. By scraping data from a specific website, defining table relationships, and connecting the SQL database to Python, a comprehensive understanding of the database creation process was achieved. This README provides an overview of the project's key points and serves as a guide for anyone interested in exploring the steps taken to learn and create an SQL database.
+This project aims to document the process of learning and creating an SQL database. By scraping data from a website, defining table relationships, and connecting the SQL database to Python, a comprehensive understanding of the database creation process is achieved. This README serves as a guide for anyone interested in exploring the steps taken to learn and create an SQL database using MySQL and Python.

@@ -12,7 +12,7 @@ The first step involves scraping information from the [Bulbapedia](https://bulba
 
 After scraping the necessary data, tables are created in SQL using the MySQL language. The tables are designed to store the scraped information, and relationships between the tables are established to represent connections and dependencies between different entities in the database. 
 
-![Structure Example](./sql-python-pokemon-image/Table Structure.png)
+![Structure Example](./sql-python-pokemon-image/table-structure.png)
 
 The following tables are created:
 

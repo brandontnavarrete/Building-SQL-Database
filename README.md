@@ -25,6 +25,10 @@ After scraping the necessary data, tables are created in SQL using the MySQL lan
 
 ![Structure Example](./sql-python-pokemon-image/table-structure.png)
 
+[SQL dump showing structure](https://github.com/brandontnavarrete/Building-SQL-Database/tree/main/SQL-dump)
+![SQL Table Describe](./sql-python-pokemon-image/sql-script.png)
+
+
 The following tables are created:
 
 - 🧩 `card_energy_types`: Stores the energy types associated with each card.
@@ -71,6 +75,48 @@ These `join` query results show a better user-friendly table view.
 You find that there are null values. This is due to not preemptively filling out the expansion and set names entirely. During the Python to SQL move, the names were not found 
 in the tables to be added.
 
+## Step to Reproduce
+
+Apologies for the incomplete response. Here are the remaining steps to reproduce the project:
+
+## Steps to Reproduce
+
+1. Clone this repository to your local machine:
+   ```
+   git clone https://github.com/brandontnavarrete/Building-SQL-Database.git
+   ```
+
+2. Install MySQL and set up a database:
+   - Install MySQL on your machine by following the official MySQL installation guide.
+   - Once installed, open the MySQL client or any MySQL administration tool (e.g., Sequel Ace, MySQL Workbench).
+   - Create a new database with the name "PokemonTCG" or any desired name.
+
+3. Create tables and establish relationships:
+   - In your MySQL client or administration tool, execute the SQL scripts provided in the project's SQL folder. These scripts will create the necessary tables and establish relationships between them.
+   - You can find the SQL scripts in the [SQL-dump](https://github.com/brandontnavarrete/Building-SQL-Database/tree/main/SQL-dump) folder of the project.
+
+4. Scrape the information:
+   - Run the Jupyter Notebook files in the folder to scrape the information from the Bulbapedia website and refine the scraped data.
+   - Refer to the provided Jupyter Notebook files for detailed steps and instructions.
+
+5. Connect SQL database to Python:
+   - Run the [sql-move.ipynb](./sql-python-pokemon-image/sql-move.ipynb) Jupyter Notebook file to establish a connection between the SQL database and Python.
+   - Update the connection parameters in the notebook file to match your MySQL server configuration.
+
+6. Execute the script to send data to the SQL database:
+   - Follow the instructions in the [sql-move.ipynb](./sql-python-pokemon-image/sql-move.ipynb) notebook file to execute the script and send the scraped information from the dataframes to the corresponding tables in the SQL database.
+
+By following these steps, you should be able to reproduce the project and create your own SQL database for the Pokemon Trading Card Game.
+
 ## Conclusion 🎉
 
-This project aims to document the process of learning and creating an SQL database. By scraping data from a website, defining table relationships, and connecting the SQL database to Python, a comprehensive understanding of the database creation process is achieved. This README serves as a guide for anyone interested in exploring the steps taken to learn and create an SQL database using MySQL and Python.
+Conclusion 🎉
+
+As we wrap up this project, you may have noticed that there are some areas that remain unfinished. The intention was to provide you with a starting point and an opportunity for hands-on exploration and customization. Leaving certain parts incomplete allows you to dive deeper into the project, apply your own creativity, and expand upon the existing code and structure.
+
+Feel free to take this project further by completing the web scraping process, refining the data, and adding the missing 'energy' type to the database. Remember, the journey of learning and experimentation is just as important as the final outcome.
+
+If you have any questions or need guidance as you continue to work on this project, don't hesitate to reach out. Enjoy the process of making it your own and have fun with your future explorations!
+
+Good luck and happy coding!
+

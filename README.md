@@ -75,10 +75,6 @@ These `join` query results show a better user-friendly table view.
 You find that there are null values. This is due to not preemptively filling out the expansion and set names entirely. During the Python to SQL move, the names were not found 
 in the tables to be added.
 
-## Step to Reproduce
-
-Apologies for the incomplete response. Here are the remaining steps to reproduce the project:
-
 ## Steps to Reproduce
 
 1. Clone this repository to your local machine:

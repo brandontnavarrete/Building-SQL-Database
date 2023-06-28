@@ -1,5 +1,5 @@
 # Building a SQL Database 💾
-
+# By: Brandon Navarrete
 ## Introduction 📝
 
 In this project, the goal is to create a new SQL database using MySQL and Sequel Ace, focusing on the fundamental concepts of primary keys, foreign keys, and best practices for Relational Database Management Systems (RDBMS). The chosen example for this project is the Pokemon Trading Card Game, providing a concrete context for understanding and implementing these important database concepts.
